@@ -1,0 +1,72 @@
+{
+  "specifications": {
+    "Ground clearance": "190 mm",
+    "Boot space": "433 litres",
+    "Number of seating rows": "2 units",
+    "Wheelbase": "2610 mm",
+    "Length": "4300 mm",
+    "Alloy wheels": "Yes units",
+    "Front tyre size": "215/60 R17",
+    "Rear tyre size": "205 / 65 R16",
+    "Number of doors": "5 units",
+    "Height": "1635 mm",
+    "Width": "1790 mm",
+    "Kerb weight": "1212 kgs",
+    "Maximum tread depth": "11 mm",
+    "Wheel cover": "No",
+    "Gear box": "6-Speed",
+    "Displacement": "1493 cc",
+    "Number of cylinders": "4 units",
+    "Valve/cylinder (configuration)": "4 units",
+    "Limited slip differential (LSD)": "No",
+    "Turbocharger": "No",
+    "Multi drive modes": "Yes",
+    "Mileage (ARAI)": "18 kmpl",
+    "Steering adjustment type": "Tilt",
+    "Front brake type": "Disc",
+    "Rear brake type": "Drum",
+    "Steering type": "Power",
+    "Drivetrain": "FWD",
+    "Max power (bhp)": "113.42bhp@4000rpm",
+    "Max torque (Nm)": "250.06nm@1500-2750rpm",
+    "Suspension front type": "McPherson Strut with Coil Spring",
+    "Suspension rear type": "Coupled Torsion Beam Axle"
+  },
+  "ratings": {
+    "Core systems": {
+      "score": 9.4,
+      "rating": "Excellent"
+    },
+    "Interiors & AC": {
+      "score": 8.4,
+      "rating": "Good"
+    },
+    "Wear & tear parts": {
+      "score": 8.0,
+      "rating": "Good"
+    },
+    "Supporting systems": {
+      "score": 8.6,
+      "rating": "Good"
+    },
+    "Exteriors & lights": {
+      "score": 7.7,
+      "rating": "Fair"
+    }
+  },
+  "price_info": {
+    "price": "10.31 Lakh"
+  },
+  "overview": {
+    "Make Year": "Apr 2022",
+    "Registration Year": "May 2022",
+    "Fuel Type": "assured",
+    "Km driven": "0",
+    "Transmission": "makebody",
+    "No. of Owner": "1st",
+    "Insurance Validity": "Jan  2027",
+    "Insurance Type": "Third PartyRTOWB",
+    "RTO": "at727",
+    "Car Location": "Kasba, KolkataQuality report"
+  }
+}
