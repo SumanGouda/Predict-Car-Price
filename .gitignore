@@ -1,1 +1,26 @@
 D:\IMP  ML  PROJECTS\CAR PRICE PREDICTION\test
+
+# Ignore the entire virtual environment directory
+.venv/
+
+# Ignore the Python bytecode files
+__pycache__/
+
+# Ignore the pip cache directory
+.cache/
+
+# Ignore the compiled Python files
+*.pyc
+*.pyo
+
+# Ignore the compiled Cython files
+*.so
+
+# Ignore the build directory
+build/
+
+# Ignore the distribution directory
+dist/
+
+# Ignore the installed packages directory
+*.egg-info/
