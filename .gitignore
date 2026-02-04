@@ -24,3 +24,6 @@ dist/
 
 # Ignore the installed packages directory
 *.egg-info/
+
+# Ignore Jupyter Notebook checkpoints
+.ipynb_checkpoints/
