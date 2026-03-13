@@ -1,0 +1,19 @@
+car_name
+Price
+Registration Year
+Kms Driven
+Ownership
+Fuel
+Transmission
+Drive Type
+Engine
+Power
+Mileage
+No. of Cylinders
+Turbo Charger
+Seats
+Kerb Weight
+Ground Clearance Unladen
+Petrol Fuel Tank Capacity
+Diesel Fuel Tank Capacity
+CNG Fuel Tank Capacity
