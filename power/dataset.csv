@@ -1,0 +1,1075 @@
+,Engine,No. of Cylinders,Valves Per Cylinder,Valve Configuration,Fuel Supply System,Fuel Type,Engine Type,Emission Norm Compliance,Kerb Weight,Drive Type,Transmission,Power
+0,1197 cc,4.0,4.0,DOHC,MPFI,Petrol,Kappa VTVT Petrol Engine,BS IV,935 kg,FWD,Manual,82 bhp
+1,1086 cc,4.0,3.0,SOHC,MPFI,Petrol,IRDE2 Engine,BS IV,860 kg,FWD,Manual,68.05 bhp
+2,1196 cc,4.0,4.0,DOHC,SEFI,Petrol,Petrol Engine,BS IV,1090 kg,Front Wheel Drive,Manual,70 bhp
+3,1197 cc,4.0,4.0,DOHC,MPFI,Petrol,Kappa VTVT Petrol Engine,,1060 kg,FWD,Manual,81.86 bhp
+4,936 cc,3.0,4.0,DOHC,Direct Injection,Diesel,SMARTECH Diesel Engine,BS IV,1025 kg,FWD,Manual,56.3 bhp
+5,1086 cc,4.0,3.0,SOHC,MPFI,Petrol,IRDE2 Engine,BS IV,860 kg,FWD,Manual,68.05 bhp
+6,1197 cc,4.0,4.0,DOHC,MPFI,Petrol,Kappa VTVT Petrol Engine,,1060 kg,FWD,Manual,81.86 bhp
+7,1197 cc,4.0,4.0,DOHC,MPFI,Petrol,Kappa VTVT Petrol Engine,,1120 kg,FWD,Manual,81.86 bhp
+8,1956 cc,4.0,4.0,DOHC,CRDI,Diesel,2.0-Litre 4-Cyl Multijet,BS IV,1562 s kg,4X2,Manual,170 bhp
+9,1956 cc,4.0,4.0,DOHC,CRDI,Diesel,2.0-Litre 4-Cyl Multijet,BS IV,1562 s kg,4X2,Manual,170 bhp
+10,1196 cc,4.0,4.0,,,Petrol,G12B,BS VI,940 kg,,Manual,72.41 bhp
+11,1197 cc,4.0,4.0,DOHC,MPFI,Petrol,VVT Petrol Engine,BS IV,870 kg,FWD,Manual,83.1 bhp
+12,1197 cc,4.0,4.0,,,Petrol,1.2 l Kappa petrol,BS VI,1120 kg,,Manual,81.80 bhp
+13,1197 cc,4.0,4.0,DOHC,MPFI,Petrol,1.2L VVT Engine,BS VI,865-890 kg,FWD,Manual,81.80 bhp
+14,1196 cc,4.0,4.0,DOHC,MPFi,Petrol,In-Line Engine,BS IV,928 kg,RWD,Manual,73 bhp
+15,1196 cc,4.0,4.0,DOHC,MPFi,CNG,In-Line Engine,BS IV,1050 kg,RWD,Manual,61.7 bhp
+16,2523 cc,4.0,4.0,,,Diesel,m2DiCR 4 Cyl 2.5L,BS VI 2.0,1620 kg,RWD,Manual,65.03 bhp
+17,1197 cc,4.0,4.0,DOHC,MPFI,Petrol,Kappa VTVT Petrol Engine,,1100 kg,FWD,Manual,81.86 bhp
+18,1197 cc,4.0,4.0,DOHC,MPFI,Petrol,Kappa VTVT Petrol Engine,,1120 kg,FWD,Manual,81.86 bhp
+19,1197 cc,4.0,4.0,DOHC,MPFI,Petrol,Kappa VTVT Petrol Engine,,1100 kg,FWD,Manual,81.86 bhp
+20,1497 cc,4.0,4.0,SOHC,EFI (Electronic Fuel Injection),Petrol,In-Line Engine,,1100 kg,FWD,Manual,
+21,,4.0,4.0,,,Petrol,,,1120 kg,,Manual,
+22,1197 cc,4.0,4.0,DOHC,MPFI,Petrol,Kappa VTVT Petrol Engine,,1100 kg,FWD,Manual,81.86 bhp
+23,1197 cc,4.0,4.0,DOHC,MPFI,Petrol,Kappa VTVT Petrol Engine,BS IV,935 kg,FWD,Manual,82 bhp
+24,796 cc,3.0,4.0,DOHC,CNG,CNG,F8D Engine,BS IV,720 kg,FWD,Manual,47.3 bhp
+25,1197 cc,4.0,4.0,DOHC,MPFI,Petrol,Kappa VTVT Petrol Engine,BS IV,935 kg,FWD,Manual,82 bhp
+26,998 cc,3.0,4.0,,MPFi,Petrol,K10B Petrol Engine,BS IV,835s kg,FWD,Manual,67 bhp
+27,1197 cc,4.0,4.0,DOHC,MPFI,Petrol,Kappa VTVT Petrol Engine,,1120 kg,FWD,Manual,81.86 bhp
+28,1995 cc,4.0,4.0,DOHC,CRDI,Diesel,e- VGT R 2.0 Diesel,BS IV,1617 kg,4WD,Automatic,182.46 bhp
+29,1086 cc,4.0,3.0,SOHC,MPFI,Petrol,IRDE2 Engine,BS IV,860 kg,FWD,Manual,68.05 bhp
+30,1197 cc,4.0,4.0,DOHC,MPFI,Petrol,Kappa VTVT Petrol Engine,,1100 kg,FWD,Manual,81.86 bhp
+31,1498 cc,4.0,4.0,,Direct Injection,Petrol,1.5 L TSI Petrol,BS VI,1258 kg,FWD,Manual,147.52 bhp
+32,,,,,,Electric,,ZEV,,FWD,Automatic,73.75 bhp
+33,999 cc,3.0,4.0,,Direct Injection,Petrol,1.0 L TSI Petrol,BS VI,1160-1215 kg,FWD,Manual,113.98 bhp
+34,1197 cc,4.0,4.0,,MPFI,Petrol,K Series VVT Engine,BS IV,970 kg,FWD,Manual,85.8 bhp
+35,1197 cc,4.0,4.0,DOHC,MPFI,Petrol,Kappa VTVT Petrol Engine,,1060 kg,FWD,Manual,81.86 bhp
+36,,,,,,Electric,,ZEV,1316 kg,FWD,Automatic,56.21 bhp
+37,2198 cc,4.0,4.0,DOHC,TDCi,Diesel,TDCI Diesel Engine,BS IV,2238 kg,RWD,Automatic,158.2 bhp
+38,999 cc,3.0,4.0,,,Petrol,1.0 TSI Petrol,BS VI 2.0,1160-1216 kg,FWD,Manual,114 bhp
+39,1995 cc,4.0,4.0,DOHC,CRDi,Diesel,TwinPower Turbo 4-cylinder engine,BS VI,1690 kg,AWD,Automatic,187.7 bhp
+40,1197 cc,4.0,4.0,DOHC,DEDST,Petrol,Kappa VTVT Petrol Engine,BS IV,935 kg,FWD,Manual,82 bhp
+41,1120 cc,3.0,4.0,DOHC,CRDi,Diesel,U2 CRDi  Diesel Engine,BS IV,1025 kg,FWD,Manual,70 bhp
+42,1396 cc,4.0,4.0,DOHC,CRDi,Diesel,U2 CRDI Engine,BS VI,1240 kg,FWD,Manual,88.7 bhp
+43,1197 cc,4.0,4.0,,MPi,Petrol,1.2 l Kappa,BS VI 2.0,,FWD,Manual,82 bhp
+44,1461 cc,4.0,4.0,DOHC,CRDI,Diesel,dCi THP Diesel Engine,BS IV,1210 kg,AWD,Manual,108.45 bhp
+45,1197 cc,4.0,4.0,DOHC,MPFI,Petrol,Kappa VTVT Petrol Engine,,1120 kg,FWD,Manual,81.86 bhp
+46,1462 cc,4.0,4.0,DOHC,MPFI,Petrol,k15B VVT Engine,BS IV,1045 kg,FWD,Manual,103.25 bhp
+47,1198 cc,4.0,4.0,SOHC,PGM - Fi,Petrol,i-VTEC Engine,BS IV,925 kg,FWD,Manual,86.8 bhp
+48,1497 cc,4.0,4.0,,MPI,Petrol,SMARTSTREAM G1.5,BS VI,1335 kg,FWD,Manual,113.43 bhp
+49,1197 cc,4.0,4.0,SOHC,MPFI,Petrol,1.2-Litre VVT Petrol Engi,BS IV,835 kg,FWD,Manual,81.80 bhp
+50,999 cc,3.0,4.0,DOHC,MPFI,Petrol,MPI Petrol Engine,BS IV,1050 kg,FWD,Manual,75 bhp
+51,1197 cc,4.0,4.0,DOHC,MPFI,Petrol,1.2L VVT Engine,BS VI,865-890 kg,FWD,Manual,81.80 bhp
+52,1591 cc,4.0,4.0,DOHC,MPFi,Petrol,VTVT Petrol Engine,BS VI,1280 kg,FWD,Manual,121.3 bhp
+53,1197 cc,4.0,4.0,DOHC,MPFI,Petrol,Kappa VTVT Petrol Engine,,1140 kg,FWD,Manual,81.86 bhp
+54,1498 cc,4.0,4.0,,Direct Injection,Petrol,1.5 L TSI Petrol,BS VI,1258 kg,FWD,Manual,147.52 bhp
+55,1197 cc,4.0,4.0,DOHC,MPFI,Petrol,Kappa VTVT Petrol Engine,BS IV,1066 kg,FWD,Manual,81.83 bhp
+56,1248 cc,4.0,4.0,DOHC,CRDi,Diesel,DDiS 200 Diesel Engine,BS IV,1185 kg,FWD,Manual,88.5 bhp
+57,1199 cc,4.0,4.0,SOHC,MPFi,Petrol,i-VTEC Petrol Engine,BS IV,917 kg,FWD,Manual,88.76 bhp
+58,1197 cc,4.0,4.0,DOHC,MPFI,Petrol,VVT Petrol Engine,BS IV,870 kg,FWD,Manual,83.1 bhp
+59,998 cc,3.0,4.0,,,Petrol,K10C,BS VI,736-775 kg,FWD,Manual,65.71 bhp
+60,1199 cc,4.0,4.0,SOHC,MPFi,Petrol,i-VTEC Petrol Engine,BS IV,924 kg,FWD,Manual,88.76 bhp
+61,1197 cc,4.0,4.0,DOHC,MPFI,Petrol,Kappa VTVT Petrol Engine,BS IV,1066 kg,FWD,Manual,81.83 bhp
+62,1197 cc,4.0,4.0,DOHC,MPFI,Petrol,Kappa VTVT Petrol Engine,BS IV,935 kg,FWD,Manual,82 bhp
+63,1197 cc,4.0,4.0,,,Petrol,1.2 L K Series Engine,BS VI 2.0,925-955 kg,FWD,Manual,88.50 bhp
+64,998 cc,3.0,4.0,,,Petrol,K10C,BS VI,736-775 kg,FWD,Manual,65.71 bhp
+65,1373 cc,4.0,4.0,DOHC,MPFI,Petrol,k14B VVT Engine,BS IV,1030 kg,FWD,Manual,91.1 bhp
+66,1197 cc,4.0,4.0,DOHC,MPFI,Petrol,Kappa VTVT Petrol Engine,,1120 kg,FWD,Manual,81.86 bhp
+67,1197 cc,4.0,4.0,DOHC,MPFI,Petrol,Kappa VTVT Petrol Engine,,1120 kg,FWD,Manual,81.86 bhp
+68,2179 cc,4.0,4.0,DOHC,CRDi,Diesel,DICOR Engine,BS IV,1850 kg,RWD,Manual,138.03 bhp
+69,1197 cc,4.0,4.0,DOHC,MPFI,Petrol,Kappa VTVT Petrol Engine,,1120 kg,FWD,Manual,81.86 bhp
+70,1197 cc,4.0,4.0,DOHC,MPFI,Petrol,Kappa VTVT Petrol Engine,BS IV,935 kg,FWD,Manual,82 bhp
+71,1197 cc,4.0,4.0,DOHC,MPFI,Petrol,Kappa VTVT Petrol Engine,,1120 kg,FWD,Manual,81.86 bhp
+72,1248 cc,4.0,4.0,DOHC,CRDI,Diesel,DDIS 200 Engine,BS IV,1115 kg,FWD,Manual,88.5 bhp
+73,1197 cc,4.0,4.0,DOHC,MPFI,Petrol,Kappa VTVT Petrol Engine,,1100 kg,FWD,Manual,81.86 bhp
+74,998 cc,3.0,4.0,,,Petrol,K10C,BS VI 2.0,810 kg,FWD,Manual,67.77 bhp
+75,1197 cc,4.0,4.0,SOHC,MPFI,Petrol,1.2-Litre VVT Petrol Engi,BS IV,825 kg,FWD,Manual,81.80 bhp
+76,1086 cc,4.0,3.0,SOHC,MPFI,Petrol,IRDE2 Engine,BS IV,860 kg,FWD,Manual,68.05 bhp
+77,1197 cc,4.0,4.0,DOHC,MPFI,Petrol,VVT Petrol Engine,BS IV,870 kg,FWD,Manual,83.1 bhp
+78,1197 cc,4.0,4.0,DOHC,MPFI,Petrol,Kappa VTVT Petrol Engine,,1060 kg,FWD,Manual,81.86 bhp
+79,998 cc,3.0,4.0,,,Petrol,K10C,BS VI 2.0,,FWD,Manual,65.71 bhp
+80,1199 cc,3.0,4.0,DOHC,MPFi,Petrol,Revotron Engine,,1035-1062 kg,FWD,Manual,83.81 bhp
+81,1197 cc,4.0,4.0,DOHC,MPFI,Petrol,Kappa VTVT Petrol Engine,,1100 kg,FWD,Manual,81.86 bhp
+82,1197 cc,4.0,4.0,DOHC,MPFI,Petrol,1.2L VVT Engine,BS VI,865-890 kg,FWD,Manual,81.80 bhp
+83,1197 cc,4.0,4.0,DOHC,MPFI,Petrol,Kappa VTVT Petrol Engine,,1120 kg,FWD,Manual,81.86 bhp
+84,1197 cc,4.0,4.0,DOHC,MPFI,Petrol,VVT Petrol Engine,BS IV,880 kg,FWD,Manual,83.1 bhp
+85,1086 cc,4.0,3.0,SOHC,MPFI,Petrol,1.1 L Petrol,BS VI,1050 kg,FWD,Manual,68.05 bhp
+86,1196 cc,4.0,4.0,DOHC,Direct Injection,Petrol,Ti-VCT Petrol Engine,BS IV,995-1015 kg,FWD,Manual,86.8 bhp
+87,999 cc,3.0,4.0,DOHC,MPFi,Petrol,Petrol Engine,BS VI,730 kg,FWD,Manual,67 bhp
+88,1197 cc,4.0,4.0,DOHC,MPFI,Petrol,Kappa VTVT Petrol Engine,,1120 kg,FWD,Manual,81.86 bhp
+89,1197 cc,4.0,4.0,DOHC,MPFI,Petrol,Kappa VTVT Petrol Engine,BS IV,935 kg,FWD,Manual,82 bhp
+90,1197 cc,4.0,4.0,DOHC,MPFI,Petrol,Kappa VTVT Petrol Engine,,1120 kg,FWD,Manual,81.86 bhp
+91,1197 cc,4.0,4.0,DOHC,MPFI,Petrol,Kappa VTVT Petrol Engine,,1120 kg,FWD,Manual,81.86 bhp
+92,1197 cc,4.0,4.0,DOHC,MPFI,Petrol,Kappa VTVT Petrol Engine,,1120 kg,FWD,Manual,81.86 bhp
+93,1197 cc,4.0,4.0,DOHC,MPFI,Petrol,Kappa VTVT Petrol Engine,,1120 kg,FWD,Manual,81.86 bhp
+94,1197 cc,4.0,4.0,DOHC,MPFI,Petrol,Kappa VTVT Petrol Engine,,1120 kg,FWD,Manual,81.86 bhp
+95,1197 cc,4.0,4.0,DOHC,MPFI,Petrol,VVT Petrol Engine,BS IV,880 kg,FWD,Manual,83.1 bhp
+96,1197 cc,4.0,4.0,DOHC,MPFI,Petrol,Kappa VTVT Petrol Engine,BS IV,935 kg,FWD,Manual,82 bhp
+97,1197 cc,4.0,2.0,SOHC,Direct Injection,Petrol,TSI Petrol Engine,BS IV,1179 kg,FWD,Automatic,103.2 bhp
+98,1197 cc,3.0,4.0,,,Petrol,Z12E,BS VI 2.0,920-960 kg,FWD,Manual,80 bhp
+99,1197 cc,4.0,4.0,DOHC,MPFI,Petrol,VVT Petrol Engine,,890 kg,FWD,Manual,83.1 bhp
+100,1197 cc,4.0,4.0,DOHC,MPFI,Petrol,Kappa VTVT Petrol Engine,,1060 kg,FWD,Manual,81.86 bhp
+101,1197 cc,4.0,4.0,DOHC,MPFI,Petrol,Kappa VTVT Petrol Engine,,1120 kg,FWD,Manual,81.86 bhp
+102,1197 cc,4.0,4.0,,,Petrol,1.2 Kappa petrol,BS VI,1160 kg,,Manual,81.86 bhp
+103,1194 cc,3.0,4.0,DOHC,Direct Injection,Petrol,Ti-VCT Petrol Engine,BS VI,1016-1033 kg,FWD,Manual,94.93 bhp
+104,1197 cc,4.0,4.0,,,Petrol,1.2 Kappa petrol,BS VI,1160 kg,,Manual,81.86 bhp
+105,1197 cc,4.0,4.0,DOHC,MPFI,Petrol,Kappa VTVT Petrol Engine,,1100 kg,FWD,Manual,81.86 bhp
+106,1197 cc,4.0,4.0,DOHC,MPFI,Petrol,Kappa VTVT Petrol Engine,BS IV,935 kg,FWD,Manual,82 bhp
+107,1197 cc,4.0,4.0,DOHC,MPFI,Petrol,Kappa VTVT Petrol Engine,BS IV,935 kg,FWD,Manual,82 bhp
+108,1199 cc,3.0,4.0,DOHC,MPFi,Petrol,Revotron Engine,BS IV,940 kg,FWD,Manual,84 bhp
+109,1198 cc,4.0,4.0,SOHC,MPFi,Petrol,i-VTEC Petrol Engine,BS IV,965 kg,FWD,Manual,86.7 bhp
+110,1198 cc,4.0,4.0,SOHC,MPFi,Petrol,i-VTEC Petrol Engine,BS IV,955 kg,FWD,Manual,86.7 bhp
+111,1497 cc,4.0,4.0,SOHC,PGM-Fi,Petrol,i VTEC Engine,BS VI,1088 kg,FWD,Manual,117.6 bhp
+112,1197 cc,4.0,4.0,DOHC,MPFI,Petrol,Kappa VTVT Petrol Engine,,1100 kg,FWD,Manual,81.86 bhp
+113,1197 cc,4.0,4.0,DOHC,MPFI,Petrol,Kappa VTVT Petrol Engine,BS IV,1066 kg,FWD,Manual,81.83 bhp
+114,1197 cc,4.0,4.0,DOHC,MPFI,Petrol,Kappa VTVT Petrol Engine,,1100 kg,FWD,Manual,81.86 bhp
+115,1197 cc,4.0,4.0,DOHC,MPFI,Petrol,K Series VVT Engine,BS VI,860-895 kg,FWD,Manual,81.80 bhp
+116,1086 cc,4.0,3.0,DOHC,,CNG,,BS IV,1070 kg,FWD,Manual,58 bhp
+117,1497 cc,4.0,4.0,SOHC,PGM-Fi,Petrol,i VTEC Engine,BS IV,1042 kg,FWD,Manual,117.3 bhp
+118,1199 cc,3.0,4.0,DOHC,MPFi,Petrol,Revotron Engine,BS IV,1012 kg,FWD,Manual,84 bhp
+119,1197 cc,4.0,4.0,DOHC,MPFI,Petrol,K Series VVT Engine,BS VI,860-895 kg,FWD,Manual,81.80 bhp
+120,1199 cc,3.0,4.0,,,Petrol,1.2 L Revotron,BS VI,982 kg,,Manual,84.82 bhp
+121,1197 cc,4.0,4.0,,,Petrol,1.2 l Kappa,BS VI 2.0,,FWD,Manual,82 bhp
+122,999 cc,3.0,4.0,,Direct Injection,Petrol,1.0 L TSI Petrol,BS VI 2.0,1160-1216 kg,FWD,Manual,113.98 bhp
+123,1197 cc,4.0,4.0,DOHC,MPFI,Petrol,Kappa VTVT Petrol Engine,,1120 kg,FWD,Manual,81.86 bhp
+124,1373 cc,4.0,4.0,DOHC,MPFI,Petrol,k14B VVT Engine,BS IV,1010 kg,FWD,Manual,91.1 bhp
+125,999 cc,3.0,4.0,DOHC,Direct Injection,Petrol,1.0L TSI Petrol,BS VI,1112-1138 kg,FWD,Manual,108.62 bhp
+126,1197 cc,4.0,4.0,DOHC,MPFI,Petrol,Kappa VTVT Petrol Engine,,1120 kg,FWD,Manual,81.86 bhp
+127,1197 cc,4.0,4.0,DOHC,MPFI,Petrol,VTVT Petrol Engine,BS IV,1180 kg,FWD,Manual,81.86 bhp
+128,1199 cc,3.0,4.0,,,Petrol,1.2 L Revotron,BS VI,982 kg,,Manual,84.82 bhp
+129,1497 cc,4.0,4.0,SOHC,PGM-Fi,Petrol,i VTEC Engine,BS IV,1065 kg,FWD,Automatic,117.3 bhp
+130,1197 cc,4.0,4.0,,,Petrol,1.2 L K Series Engine,BS VI 2.0,925-955 kg,FWD,Manual,88.50 bhp
+131,796 cc,3.0,4.0,SOHC,MPFI,Petrol,In-Line Engine,Bharat Stage IV,705 kg,FWD,Manual,46.3 bhp
+132,1197 cc,4.0,4.0,DOHC,MPFI,Petrol,K Series VVT Engine,BS IV,855 kg,FWD,Manual,81.80 bhp
+133,1197 cc,4.0,4.0,DOHC,MPFI,Petrol,Kappa VTVT Petrol Engine,BS IV,1066 kg,FWD,Manual,81.83 bhp
+134,1199 cc,4.0,4.0,,,Petrol,i-VTEC,BS VI 2.0,934 kg,FWD,Manual,88.50 bhp
+135,1198 cc,4.0,4.0,SOHC,,Petrol,i-VTEC Petrol Engine,BS IV,950 kg,FWD,Manual,86.7 bhp
+136,1197 cc,4.0,4.0,DOHC,MPFI,Petrol,Kappa VTVT Petrol Engine,,1100 kg,FWD,Manual,81.86 bhp
+137,1197 cc,4.0,4.0,DOHC,MPFI,Petrol,K Series VVT Engine,BS VI,860-895 kg,FWD,Manual,81.80 bhp
+138,1197 cc,4.0,4.0,DOHC,MPFI,Petrol,K12M Petrol Engine,BS VI,830-845 kg,FWD,Manual,81.80 bhp
+139,,4.0,4.0,,,Petrol,,,1120 kg,,Manual,
+140,1199 cc,4.0,4.0,SOHC,PGM - Fi,Petrol,i-VTEC Petrol Engine,BS IV,1044 kg,FWD,Manual,88.7 bhp
+141,1373 cc,4.0,4.0,DOHC,MPFI,Petrol,k14B VVT Engine,BS IV,1030 kg,FWD,Manual,91.1 bhp
+142,1196 cc,4.0,4.0,DOHC,MPFi,CNG,In-Line Engine,BS IV,1050 kg,RWD,Manual,61.7 bhp
+143,1373 cc,4.0,4.0,DOHC,MPFI,Petrol,k14B VVT Engine,BS IV,1030 kg,FWD,Manual,91.1 bhp
+144,1197 cc,4.0,4.0,DOHC,MPFI,Petrol,Kappa VTVT Petrol Engine,BS IV,935 kg,FWD,Manual,82 bhp
+145,1197 cc,4.0,4.0,DOHC,MPFi,Petrol,VTVT Engine,BS VI,855-885 kg,FWD,Manual,81.80 bhp
+146,1197 cc,4.0,4.0,DOHC,MPFI,Petrol,Kappa VTVT Petrol Engine,BS IV,1066 kg,FWD,Manual,81.83 bhp
+147,1462 cc,4.0,4.0,DOHC,MPFI,Petrol,k15B VVT Engine,BS IV,1045 kg,FWD,Manual,103.25 bhp
+148,1197 cc,4.0,4.0,DOHC,MPFI,Petrol,Kappa VTVT Petrol Engine,,1120 kg,FWD,Manual,81.86 bhp
+149,1197 cc,4.0,4.0,DOHC,MPFI,Petrol,1.2L VVT Engine,BS VI,865-890 kg,FWD,Manual,81.80 bhp
+150,998 cc,3.0,4.0,DOHC,MPFI,Petrol,K10B Petrol Engine,BS VI,805-825 kg,FWD,Manual,67.05 bhp
+151,1197 cc,4.0,4.0,DOHC,MPFI,Petrol,K12M Petrol Engine,BS VI,830-845 kg,FWD,Manual,81.80 bhp
+152,1197 cc,4.0,4.0,DOHC,MPFI,Petrol,Kappa VTVT Petrol Engine,,1120 kg,FWD,Manual,81.86 bhp
+153,1199 cc,3.0,4.0,DOHC,MPFi,Petrol,Revotron Engine,BS IV,1012 kg,FWD,Manual,84 bhp
+154,1199 cc,4.0,4.0,SOHC,MPFi,Petrol,i-VTEC Petrol Engine,BS IV,917 kg,FWD,Manual,88.76 bhp
+155,1197 cc,4.0,4.0,DOHC,MPFI,Petrol,Kappa VTVT Petrol Engine,,1120 kg,FWD,Manual,81.86 bhp
+156,998 cc,3.0,4.0,DOHC,,Petrol,K10B Petrol Engine,BS IV,885 kg,FWD,Manual,67.04 bhp
+157,1197 cc,4.0,4.0,,,Petrol,,BS VI,880-915 kg,,Manual,88.50 bhp
+158,1197 cc,4.0,4.0,DOHC,MPFI,Petrol,K Series VVT Engine,BS IV,945 kg,FWD,Manual,83.14 bhp
+159,1197 cc,4.0,4.0,,,Petrol,1.2 Kappa petrol,BS VI,1140 kg,,Automatic,81.86 bhp
+160,1582 cc,4.0,4.0,DOHC,CRDi,Diesel,VGT Diesel Engine,BS IV,1329 kg,FWD,Automatic,126.24 bhp
+161,1497 cc,4.0,4.0,SOHC,PGM-Fi,Petrol,i VTEC Engine,BS IV,1049 kg,FWD,Manual,117.3 bhp
+162,998 cc,3.0,4.0,,,Petrol,K10C,BS VI 2.0,810 kg,FWD,Manual,67.77 bhp
+163,1086 cc,4.0,3.0,SOHC,MPFI,Petrol,IRDE2 Engine,BS IV,860 kg,FWD,Manual,68.05 bhp
+164,1086 cc,4.0,3.0,SOHC,MPFI,Petrol,IRDE2 Engine,BS IV,860 kg,FWD,Manual,68.05 bhp
+165,998 cc,3.0,4.0,,,Petrol,K10C,BS VI 2.0,810 kg,FWD,Manual,67.77 bhp
+166,814 cc,3.0,3.0,SOHC,MPFI,Petrol,Petrol Engine,,880 kg,FWD,Manual,55.2 bhp
+167,1086 cc,4.0,3.0,SOHC,MPFI,Petrol,IRDE2 Engine,BS IV,860 kg,FWD,Manual,68.05 bhp
+168,1086 cc,4.0,3.0,SOHC,MPFI,Petrol,IRDE2 Engine,BS IV,860 kg,FWD,Manual,68.05 bhp
+169,1086 cc,4.0,3.0,SOHC,MPFI,Petrol,IRDE2 Engine,BS IV,860 kg,FWD,Manual,68.05 bhp
+170,1197 cc,4.0,4.0,DOHC,MPFI,Petrol,Kappa VTVT Petrol Engine,BS IV,935 kg,FWD,Manual,82 bhp
+171,1197 cc,4.0,4.0,DOHC,MPFI,Petrol,Kappa Petrol Engine,BSIV,930 kg,FWD,Manual,78.9 bhp
+172,1197 cc,4.0,4.0,,,Petrol,1.2 L Petrol Engine,BS VI 2.0,920-955 kg,FWD,Manual,88.50 bhp
+173,1199 cc,3.0,4.0,DOHC,MPFi,Petrol,Revotron Engine,BS IV,980 kg,FWD,Manual,84 bhp
+174,1197 cc,4.0,4.0,DOHC,MPFI,Petrol,Kappa VTVT Petrol Engine,,1120 kg,FWD,Manual,81.86 bhp
+175,1798 cc,4.0,4.0,DOHC,EFI,Petrol,2ZR-FE Petrol Engine,BS IV,1185 kg,FWD,Automatic,138.03 bhp
+176,,,,,,,,,,,,
+177,1462 cc,4.0,4.0,DOHC,,Petrol,K15B Petrol Engine,BS VI,1110-1130 kg,FWD,Manual,103.26 bhp
+178,1496 cc,4.0,4.0,DOHC,EFI,Petrol,1.5 Dual VVT-i Engine,,1135 kg,FWD,Automatic,105.5 bhp
+179,1497 cc,4.0,4.0,SOHC,PGM-Fi,Petrol,i VTEC Engine,BS IV,1100 kg,FWD,Automatic,117.6 bhp
+180,1462 cc,4.0,4.0,,,Petrol,k-series1.5l,BS VI,1115-1130 kg,,Manual,103.26 bhp
+181,1497 cc,4.0,4.0,SOHC,PGM-Fi,Petrol,i VTEC Engine,BS IV,1085 kg,FWD,Automatic,117.3 bhp
+182,998 cc,3.0,4.0,,,Petrol,1.0 Turbo GDI,BS VI,1210 kg,,Automatic,118.41 bhp
+183,1462 cc,4.0,4.0,,,Petrol,K15C Smart Hybrid,BS VI,1130 kg,,Manual,101.65 bhp
+184,1582 cc,4.0,4.0,DOHC,CRDi,Diesel,U2 VGT CRDi Diesel Engine,,1200 kg,FWD,Manual,126.2 bhp
+185,2199 cc,4.0,4.0,,CRDi,Diesel,D2.2L VGT Diesel,BS VI,2320 kg,2WD,Automatic,197.26 bhp
+186,1199 cc,4.0,4.0,,,Petrol,1.2L i-VTEC,BS VI 2.0,952-986 kg,FWD,Manual,89 bhp
+187,998 cc,3.0,4.0,,,Petrol,K10C,BS VI 2.0,825 kg,FWD,Manual,65.71 bhp
+188,1197 cc,4.0,4.0,DOHC,MPFI,Petrol,Kappa VTVT Petrol Engine,BS IV,1066 kg,FWD,Manual,81.83 bhp
+189,1197 cc,4.0,4.0,DOHC,MPFI,Petrol,Kappa VTVT Petrol Engine,,1200 kg,FWD,Automatic,81.86 bhp
+190,1197 cc,4.0,4.0,DOHC,MPFI,Petrol,VVT Petrol Engine,,935 kg,FWD,Automatic,83.1 bhp
+191,1373 cc,4.0,4.0,DOHC,MPFI,Petrol,k14B VVT Engine,BS IV,1030 kg,FWD,Automatic,91.1 bhp
+192,2143 cc,4.0,4.0,DOHC,CRDi,Diesel,In Line Diesel Engine,Euro VI,1570 kg,FWD,Automatic,136 bhp
+193,1498 cc,4.0,4.0,DOHC,,Diesel,i-DTEC Diesel Engine,BS IV,1055 kg,FWD,Manual,98.6 bhp
+194,1498 cc,4.0,4.0,DOHC,CRDI,Diesel,1.5 litre Diesel Engine,,1072 kg,FWD,Manual,98.63 bhp
+195,1199 cc,3.0,4.0,DOHC,MPFi,Petrol,Revotron Engine,BS IV,1012 kg,FWD,Manual,83.83 bhp
+196,998 cc,3.0,4.0,,,Petrol,K10C,BS VI,810-835 kg,,Manual,65.71 bhp
+197,1197 cc,4.0,4.0,DOHC,MPFI,Petrol,Kappa VTVT Petrol Engine,,1120 kg,FWD,Manual,81.86 bhp
+198,1197 cc,4.0,4.0,DOHC,MPFI,Petrol,K Series VVT Engine,BS VI,870 kg,,Manual,81.80 bhp
+199,1498 cc,4.0,4.0,DOHC,,Petrol,Water Cooled Inline i-VTEC DOHC with VTC,BS VI,1107-1153 kg,,Manual,119.35 bhp
+200,1497 cc,4.0,4.0,SOHC,PGM-Fi,Petrol,i VTEC Engine,BS IV,1080 kg,FWD,Automatic,117.6 bhp
+201,1498 cc,4.0,4.0,DOHC,,Diesel,Water Cooled Inline i-DTEC DOHC,BS VI,1191-1217 kg,,Manual,97.89 bhp
+202,999 cc,3.0,4.0,DOHC,MPFi,Petrol,Petrol Engine,BS VI,750 kg,FWD,Automatic,67 bhp
+203,1248 cc,4.0,4.0,DOHC,CRDi,Diesel,DDiS Diesel Engine,BS IV,985 kg,FWD,Manual,74 bhp
+204,1197 cc,4.0,4.0,DOHC,MPFI,Petrol,Kappa VTVT Petrol Engine,,1100 kg,FWD,Manual,81.86 bhp
+205,998 cc,3.0,4.0,,,Petrol,1.0 l Turbo GDi petrol,BS VI,1220 kg,,Automatic,118.41 bhp
+206,,4.0,4.0,,,Petrol,,,1120 kg,,Manual,
+207,1197 cc,4.0,4.0,DOHC,MPFI,Petrol,1.2L Kappa Dual VTVT Petr,BS IV,1120 kg,FWD,Manual,81.86 bhp
+208,1496 cc,3.0,4.0,,,Petrol,1.5 L Petrol Engine,BS VI,1221 kg,FWD,Manual,120.69 bhp
+209,1498 cc,4.0,4.0,DOHC,CRDI,Diesel,TDI Diesel Engine,BS IV,1238 kg,FWD,Automatic,108.6 bhp
+210,1496 cc,4.0,4.0,DOHC,EFI,Petrol,1.5 Dual VVT-i Engine,BS VI,1135 kg,FWD,Automatic,105.94 bhp
+211,1248 cc,4.0,4.0,DOHC,CRDi,Diesel,DDiS Diesel Engine,BS IV,960-985 kg,FWD,Manual,74 bhp
+212,1197 cc,4.0,4.0,,Dual Jet VVT,Petrol,Advanced K Series,BS VI 2.0,875-905 kg,FWD,Manual,88.50 bhp
+213,1199 cc,4.0,4.0,SOHC,,Petrol,1.2 i-VTEC,BS VI,1085 kg,,Automatic,88.50 bhp
+214,1199 cc,4.0,4.0,SOHC,PGM - Fi,Petrol,i-VTEC Petrol Engine,BS IV,1062 kg,FWD,Automatic,88.7 bhp
+215,1197 cc,4.0,4.0,,,Petrol,1.2 l Kappa petrol,BS VI,1120 kg,,Manual,81.80 bhp
+216,1248 cc,4.0,4.0,DOHC,CRDi,Diesel,DDiS Diesel Engine,BS IV,985 kg,FWD,Manual,74 bhp
+217,1197 cc,4.0,4.0,DOHC,MPFI,Petrol,K Series VVT Engine,BS VI,860-895 kg,FWD,Manual,81.80 bhp
+218,1197 cc,4.0,4.0,DOHC,MPFi,Petrol,VTVT Engine,BS VI,855-885 kg,FWD,Manual,81.80 bhp
+219,1120 cc,3.0,4.0,DOHC,CRDI,Diesel,U2 CRDI Diesel Engine,BS IV,1120 kg,FWD,Manual,71 bhp
+220,1197 cc,4.0,4.0,DOHC,MPFI,Petrol,1.2L Kappa Dual VTVT Petr,BS IV,1120 kg,FWD,Manual,81.86 bhp
+221,1197 cc,4.0,4.0,DOHC,MPFI,Petrol,Kappa VTVT Petrol Engine,,1100 kg,FWD,Manual,81.86 bhp
+222,1197 cc,4.0,4.0,DOHC,MPFI,Petrol,VVT Petrol Engine,,910 kg,FWD,Automatic,83.1 bhp
+223,1197 cc,4.0,4.0,DOHC,MPFI,Petrol,Kappa VTVT Petrol Engine,,1200 kg,FWD,Automatic,81.86 bhp
+224,1198 cc,3.0,4.0,DOHC,MPFI,Petrol,mFALCON G80 Engine,BS IV,975 kg,FWD,Manual,82 bhp
+225,1197 cc,4.0,4.0,DOHC,MPFI,Petrol,VVT Petrol Engine,BS IV,870 kg,FWD,Manual,83.1 bhp
+226,998 cc,3.0,4.0,DOHC,MPFI,Petrol,K10B Petrol Engine,BS VI,805-825 kg,FWD,Manual,67.05 bhp
+227,1364 cc,4.0,2.0,SOHC,CRDi,Diesel,D-4D Diesel Engine,BS IV,1030 kg,FWD,Manual,67.06 bhp
+228,1197 cc,4.0,4.0,,,Petrol,1.2 Kappa petrol,BS VI,1160 kg,,Manual,81.86 bhp
+229,1199 cc,4.0,4.0,SOHC,PGM - Fi,Petrol,i-VTEC Petrol Engine,BS IV,1066 kg,FWD,Automatic,88.7 bhp
+230,1591 cc,4.0,4.0,DOHC,MPFI,Petrol,VTVT Petrol Engine,BS IV,1250 kg,FWD,Manual,121.3 bhp
+231,1199 cc,4.0,4.0,SOHC,PGM - Fi,Petrol,i-VTEC Petrol Engine,BS IV,1066 kg,FWD,Automatic,88.7 bhp
+232,1199 cc,4.0,4.0,SOHC,PGM - Fi,Petrol,i-VTEC Petrol Engine,BS IV,1066 kg,FWD,Automatic,88.7 bhp
+233,1197 cc,4.0,4.0,,,Petrol,1.2 Kappa petrol,BS VI,1160 kg,,Manual,81.86 bhp
+234,999 cc,3.0,4.0,,Direct Injection,Petrol,1.0 L TSI Petrol,BS VI,1160-1215 kg,FWD,Manual,113.98 bhp
+235,1498 cc,4.0,4.0,DOHC,,Petrol,Water Cooled Inline i-VTEC DOHC with VTC,BS VI,1107-1153 kg,,Automatic,119.35 bhp
+236,1199 cc,3.0,4.0,,,Petrol,1.2 l Revotron,BS VI,1025 kg,,Manual,86.83 bhp
+237,1462 cc,4.0,4.0,DOHC,,Petrol,K15B Petrol Engine,BS VI,1110-1130 kg,FWD,Manual,103.26 bhp
+238,1199 cc,3.0,4.0,,,Petrol,1.2 l Revotron,BS VI,1030 kg,,Manual,86.83 bhp
+239,1248 cc,4.0,4.0,DOHC,CRDi,Diesel,DDiS 200 Diesel Engine,BS IV,1190 kg,FWD,Manual,88.5 bhp
+240,1086 cc,4.0,3.0,SOHC,MPFI,Petrol,IRDE2 Engine,BS IV,860 kg,FWD,Manual,68.05 bhp
+241,998 cc,3.0,4.0,,,Petrol,K10C,BS VI 2.0,825 kg,FWD,Manual,65.71 bhp
+242,1197 cc,4.0,4.0,DOHC,MPFI,Petrol,Kappa VTVT Petrol Engine,,1120 kg,FWD,Manual,81.86 bhp
+243,1197 cc,4.0,4.0,DOHC,MPFI,Petrol,Kappa VTVT Petrol Engine,,1120 kg,FWD,Manual,81.86 bhp
+244,1086 cc,4.0,3.0,SOHC,MPFI,Petrol,IRDE2 Engine,BS IV,860 kg,FWD,Manual,68.05 bhp
+245,814 cc,3.0,3.0,SOHC,,Petrol,800 L SOHC 3 Cylinder,,910 kg,RWD,Manual,
+246,1086 cc,4.0,3.0,SOHC,MPFI,Petrol,IRDE2 Engine,BS IV,860 kg,FWD,Manual,68.05 bhp
+247,1197 cc,4.0,4.0,DOHC,MPFI,Petrol,Kappa VTVT Petrol Engine,BS IV,935 kg,FWD,Manual,82 bhp
+248,799 cc,3.0,4.0,DOHC,MPFi,Petrol,Petrol Engine,BS IV,710 kg,FWD,Manual,53.3 bhp
+249,799 cc,3.0,4.0,DOHC,MPFi,Petrol,0.8L Petrol Engine,BS VI,750 kg,FWD,Manual,53.64 bhp
+250,1199 cc,3.0,4.0,DOHC,MPFi,Petrol,Revotron Engine,BS IV,980 kg,FWD,Manual,84 bhp
+251,1197 cc,4.0,4.0,DOHC,MPFI,Petrol,Kappa VTVT Petrol Engine,BS IV,935 kg,FWD,Manual,82 bhp
+252,998 cc,3.0,4.0,,,Petrol,K10C,BS VI 2.0,,FWD,Manual,65.71 bhp
+253,1197 cc,4.0,4.0,DOHC,MPFI,Petrol,Kappa VTVT Petrol Engine,BSIV,1040 kg,FWD,Manual,82.85 bhp
+254,814 cc,3.0,3.0,SOHC,MPFI,Petrol,Petrol Engine,,910 kg,FWD,Manual,55.2 bhp
+255,1498 cc,4.0,4.0,DOHC,EFI,Petrol,HR15 Petrol Engine,BS IV,1080 kg,FWD,Manual,97.6 bhp
+256,1198 cc,4.0,4.0,SOHC,PGM - Fi,Petrol,i-VTEC Engine,BS IV,930 kg,FWD,Manual,86.8 bhp
+257,1298 cc,4.0,4.0,SOHC,MPFI,Petrol,In-Line Engine,Bharat Stage IV,1025 kg,2 WD,Manual,85.8 bhp
+258,1197 cc,4.0,4.0,DOHC,Direct Injection,Petrol,Kappa VTVT Petrol Engine,BS IV,1160 kg,FWD,Manual,82 bhp
+259,1086 cc,4.0,3.0,SOHC,MPFI,Petrol,IRDE2 Engine,BS IV,860 kg,FWD,Manual,68.05 bhp
+260,1198 cc,4.0,4.0,SOHC,PGM - Fi,Petrol,i-VTEC Engine,BS IV,925 kg,FWD,Manual,86.8 bhp
+261,1198 cc,4.0,4.0,SOHC,PGM - Fi,Petrol,i-VTEC Engine,BS IV,925 kg,FWD,Manual,86.8 bhp
+262,1198 cc,4.0,4.0,SOHC,PGM - Fi,Petrol,i-VTEC Engine,BS IV,930 kg,FWD,Manual,86.8 bhp
+263,1086 cc,4.0,3.0,SOHC,MPFI,Petrol,IRDE2 Engine,BS IV,860 kg,FWD,Manual,68.05 bhp
+264,1197 cc,4.0,4.0,DOHC,MPFI,Petrol,Kappa Petrol Engine,BSIV,930 kg,FWD,Manual,78.9 bhp
+265,814 cc,3.0,3.0,SOHC,MPFI,Petrol,Petrol Engine,BSIV,880 kg,FWD,Manual,55.2 bhp
+266,1199 cc,3.0,4.0,DOHC,MPFi,Petrol,Revotron Engine,BS IV,980 kg,FWD,Manual,84 bhp
+267,998 cc,3.0,4.0,,,Petrol,K10C,BS VI 2.0,810 kg,FWD,Manual,67.77 bhp
+268,1582 cc,4.0,4.0,DOHC,CRDi,Diesel,U2 VGT Diesel Engine,BS IV,1255 kg,FWD,Manual,126.2 bhp
+269,1462 cc,4.0,4.0,,,Petrol,K15B Smart Hybrid,BS VI,1180 kg,FWD,Manual,103.2 bhp
+270,1199 cc,4.0,4.0,,,Petrol,1.2L i-VTEC,BS VI 2.0,952-986 kg,FWD,Automatic,89 bhp
+271,1199 cc,4.0,4.0,SOHC,PGM - Fi,Petrol,i-VTEC Petrol Engine,BS IV,1042 kg,FWD,Manual,88.7 bhp
+272,799 cc,3.0,4.0,DOHC,MPFi,Petrol,Petrol Engine,BS IV,710 kg,FWD,Manual,53.3 bhp
+273,1248 cc,4.0,4.0,DOHC,CRDI,Diesel,DDIS 200 Engine,BS IV,1115 kg,FWD,Manual,88.5 bhp
+274,998 cc,3.0,4.0,DOHC,MPFi,Petrol,K10B Engine,BS IV,847 kg,FWD,Automatic,67.04 bhp
+275,1199 cc,3.0,4.0,DOHC,MPFI,Petrol,MPI Petrol Engine,BS IV,1030 kg,FWD,Manual,74 bhp
+276,1462 cc,4.0,4.0,,,Petrol,K15C With Mild Hybrid System,BS VI 2.0,1185-1210 kg,FWD,Automatic,101.64 bhp
+277,999 cc,3.0,4.0,,,Petrol,1.0L TSI,BS VI 2.0,1255 kg,FWD,Automatic,113.98 bhp
+278,999 cc,3.0,4.0,,,Petrol,1.0L TSI,BS VI 2.0,1255 kg,FWD,Automatic,113.98 bhp
+279,1956 cc,4.0,4.0,,,Diesel,Kryotec 2.0 L Turbocharged Engine,BS VI 2.0,1700 kg,,Automatic,167.67 bhp
+280,1956 cc,4.0,4.0,,,Diesel,Kryotec 2.0 L Turbocharged Engine,BS VI,1700 kg,,Automatic,167.67 bhp
+281,1462 cc,4.0,4.0,DOHC,,Petrol,K15 Smart Hybrid Petrol Engine,BS VI,1110 kg,FWD,Manual,103.25 bhp
+282,1498 cc,4.0,4.0,DOHC,Direct Injection,Diesel,i DTEC Diesel Engine,BS IV,1150 kg,FWD,Manual,98.6 bhp
+283,1493 cc,4.0,4.0,DOHC,Common rail direct injection,Diesel,1.5 l diesel CRDi engine,BS VI,1675 kg,,Automatic,113.98 bhp
+284,1582 cc,4.0,4.0,DOHC,CRDI,Diesel,U2 VGT Diesel Engine,BS IV,1250 kg,FWD,Manual,126.32 bhp
+285,1248 cc,4.0,4.0,DOHC,CRDI,Diesel,DDIS 200 Engine,BS IV,1115 kg,FWD,Manual,88.5 bhp
+286,1497 cc,4.0,4.0,,MPI,Petrol,SMARTSTREAM G1.5,BS VI,1340 kg,FWD,Manual,113.43 bhp
+287,2393 cc,4.0,4.0,DOHC,Direct Injection,Diesel,2-GD FTV Engine,BS IV,1815 kg,RWD,Manual,147.8 bhp
+288,1086 cc,4.0,3.0,DOHC,,CNG,,BS IV,1070 kg,FWD,Manual,58 bhp
+289,1047 cc,3.0,4.0,DOHC,CRDi,Diesel,Revotorq Engine,BS IV,1050 kg,FWD,Manual,69 bhp
+290,998 cc,3.0,4.0,DOHC,MPFi,Petrol,K10B Engine,BS IV,840 kg,FWD,Automatic,67.04 bhp
+291,2179 cc,4.0,4.0,DOHC,Direct Injection,Diesel,mHawk155 Diesel Engine,BS VI,1595 kg,FWD,Manual,152.87 bhp
+292,1498 cc,4.0,4.0,,,Diesel,1.5 L Diesel Engine,BS VI,1277 kg,FWD,Manual,99.23 bhp
+293,1462 cc,4.0,4.0,DOHC,,Petrol,K15B Petrol Engine,BS VI,1110-1130 kg,FWD,Manual,103.26 bhp
+294,1199 cc,4.0,4.0,SOHC,MPFi,Petrol,i-VTEC Petrol Engine,BS VI,945 kg,FWD,Automatic,88.76 bhp
+295,999 cc,3.0,4.0,,Direct Injection,Petrol,1.0 L TSI Petrol,BS VI 2.0,1219-1252 kg,FWD,Automatic,113.98 bhp
+296,998 cc,3.0,4.0,,,Petrol,1.0 l Turbo GDi petrol,BS VI,1260 kg,,Automatic,118.36 bhp
+297,1248 cc,4.0,4.0,DOHC,CRDi,Diesel,DDiS 200 Diesel Engine,BS IV,1210 kg,FWD,Manual,88.5 bhp
+298,2494 cc,4.0,4.0,DOHC,CRDi,Diesel,2KD-FTV Diesel Engine,BS IV,1675 kg,RWD,Manual,100.6 bhp
+299,1197 cc,4.0,4.0,,,Petrol,1.2 l Kappa,BS VI 2.0,,FWD,Manual,82 bhp
+300,1497 cc,4.0,4.0,DOHC,MPi,Petrol,1.5 L MPi Petrol,BS VI,1430 kg,,Manual,113.18 bhp
+301,1199 cc,3.0,4.0,,,Petrol,1.2l Turbocharged Revotron Engine,BS VI,1230 kg,,Manual,118.35 bhp
+302,1198 cc,3.0,4.0,DOHC,MPFI,Petrol,Revotron 1.2L Turbocharge,BS IV,1252 kg,FWD,Automatic,108.5 bhp
+303,1197 cc,4.0,4.0,DOHC,MPFI,Petrol,Kappa VTVT Petrol Engine,,1100 kg,FWD,Manual,81.86 bhp
+304,1199 cc,4.0,4.0,SOHC,PGM - Fi,Petrol,i-VTEC Petrol Engine,BS IV,1062 kg,FWD,Automatic,88.7 bhp
+305,1497 cc,4.0,4.0,SOHC,PGM-Fi,Petrol,i VTEC Engine,BS IV,1065 kg,FWD,Manual,117.3 bhp
+306,1497 cc,4.0,4.0,SOHC,PGM-Fi,Petrol,i VTEC Engine,BS IV,1065 kg,FWD,Automatic,117.3 bhp
+307,1197 cc,4.0,4.0,DOHC,Direct Injection,Petrol,Kappa VTVT Petrol Engine,BS IV,1160 kg,FWD,Manual,82 bhp
+308,998 cc,3.0,4.0,,,Petrol,K10C,BS VI 2.0,820 kg,FWD,Automatic,67.77 bhp
+309,1248 cc,4.0,4.0,DOHC,CRDi,Diesel,DDiS 200 Diesel Engine,BS IV,1210 kg,FWD,Manual,88.5 bhp
+310,1497 cc,4.0,4.0,,,Diesel,1.5L Turbocharged Revotorq,BS VI 2.0,,FWD,Automatic,113.31 bhp
+311,1199 cc,4.0,4.0,,,Petrol,1.2L i-VTEC,BS VI 2.0,952-986 kg,FWD,Manual,89 bhp
+312,998 cc,3.0,4.0,,,Petrol,K10C,BS VI 2.0,,FWD,Manual,65.71 bhp
+313,1497 cc,4.0,4.0,,,Diesel,1.5 l Turbocharged Revotorq,BS VI,1105 kg,,Manual,88.77 bhp
+314,998 cc,3.0,4.0,DOHC,MPFi,Petrol,K10B Engine,BS VI,850 kg,FWD,Automatic,67.05 bhp
+315,1248 cc,4.0,4.0,,CRDI,Diesel,DDiS Diesel Engine,BS IV,1060 kg,FWD,Manual,74 bhp
+316,999 cc,3.0,4.0,SOHC,MPFi,Petrol,B4D 1.0 NA PETROL,BS VI,939 kg,,Manual,71.02 bhp
+317,1198 cc,4.0,4.0,SOHC,PGM - Fi,Petrol,i-VTEC Engine,BS IV,970 kg,FWD,Automatic,86.8 bhp
+318,998 cc,3.0,4.0,,,Petrol,K10C,BS VI 2.0,815 kg,FWD,Automatic,67.77 bhp
+319,1197 cc,4.0,4.0,DOHC,MPFI,Petrol,K12M Petrol Engine,BS VI,830-845 kg,FWD,Manual,81.80 bhp
+320,1498 cc,4.0,4.0,DOHC,CRDi,Diesel,i-DTEC Diesel Engine,BS IV,1021 kg,FWD,Manual,98.63 bhp
+321,999 cc,3.0,4.0,DOHC,MPI,Petrol,1.0L MPI Petrol,BS VI,1015 kg,FWD,Manual,75.10 bhp
+322,1197 cc,4.0,4.0,DOHC,Direct Injection,Petrol,Kappa VTVT Petrol Engine,BS IV,1120 kg,FWD,Manual,82 bhp
+323,1496 cc,3.0,4.0,,,Petrol,1.5 L Petrol Engine,BS VI,1225 kg,FWD,Manual,120.69 bhp
+324,1197 cc,4.0,4.0,DOHC,MPFI,Petrol,Kappa VTVT Petrol Engine,BS IV,1066 kg,FWD,Manual,81.83 bhp
+325,1199 cc,4.0,4.0,,,Petrol,i-VTEC,BS VI 2.0,920 kg,FWD,Manual,88.50 bhp
+326,1199 cc,4.0,4.0,,,Petrol,i-VTEC,BS VI 2.0,934 kg,FWD,Manual,88.50 bhp
+327,1197 cc,4.0,4.0,DOHC,MPFI,Petrol,VVT Petrol Engine,BS IV,880 kg,FWD,Manual,83.1 bhp
+328,1197 cc,4.0,4.0,DOHC,MPFI,Petrol,Kappa VTVT Petrol Engine,,1120 kg,FWD,Manual,81.86 bhp
+329,1197 cc,4.0,4.0,DOHC,MPFI,Petrol,Kappa VTVT Petrol Engine,,1120 kg,FWD,Manual,81.86 bhp
+330,1197 cc,4.0,4.0,DOHC,MPFI,Petrol,Kappa VTVT Petrol Engine,,1120 kg,FWD,Manual,81.86 bhp
+331,1197 cc,4.0,4.0,,,Petrol,1.2 l Kappa,BS VI 2.0,,FWD,Manual,82 bhp
+332,1197 cc,4.0,4.0,DOHC,MPFI,Petrol,Kappa VTVT Petrol Engine,,1120 kg,FWD,Manual,81.86 bhp
+333,998 cc,3.0,4.0,,,Petrol,1.0 l Turbo GDi petrol,BS VI,1240 kg,,Manual,118.36 bhp
+334,1248 cc,4.0,4.0,DOHC,CRDi,Diesel,DDiS Diesel Engine,BS IV,960-985 kg,FWD,Manual,74 bhp
+335,1199 cc,4.0,4.0,,,Petrol,i-VTEC,BS VI 2.0,920 kg,FWD,Manual,88.50 bhp
+336,1197 cc,4.0,4.0,DOHC,MPFI,Petrol,Kappa VTVT Petrol Engine,,1100 kg,FWD,Manual,81.86 bhp
+337,1197 cc,4.0,4.0,DOHC,MPFI,Petrol,Kappa VTVT Petrol Engine,,1060 kg,FWD,Manual,81.86 bhp
+338,,4.0,4.0,,,Petrol,,,1120 kg,,Manual,
+339,1197 cc,4.0,4.0,SOHC,MPFI,Petrol,1.2-Litre VVT Petrol Engi,BS IV,855 kg,FWD,Automatic,81.80 bhp
+340,1498 cc,4.0,4.0,DOHC,MPFI,Petrol,H4K Petrol Engine,BS IV,1295 kg,FWD,Manual,104.55 bhp
+341,1353 cc,4.0,4.0,DOHC,GDI,Petrol,,BS VI,1505 kg,2WD,Automatic,138 bhp
+342,1248 cc,4.0,4.0,DOHC,CRDi,Diesel,DDiS 200 Diesel Engine,BS IV,1190 kg,FWD,Manual,88.5 bhp
+343,998 cc,3.0,4.0,,MPFi,Petrol,K10B Petrol Engine,BS IV,850 kg,FWD,Automatic,67 bhp
+344,1498 cc,4.0,4.0,DOHC,Direct Injection,Diesel,i DTEC Diesel Engine,BS IV,1150 kg,FWD,Manual,98.6 bhp
+345,1497 cc,4.0,4.0,SOHC,PGM-Fi,Petrol,i VTEC Engine,BS IV,1065 kg,FWD,Automatic,117.3 bhp
+346,1199 cc,3.0,4.0,,,Petrol,1.2L Revotron Engine,BS VI,1030 kg,,Manual,84.82 bhp
+347,1199 cc,3.0,4.0,DOHC,MPFi,Petrol,Revotron Engine,BS IV,980 kg,FWD,Manual,84 bhp
+348,1197 cc,4.0,4.0,DOHC,MPFI,Petrol,Kappa VTVT Petrol Engine,BS VI,1140 kg,FWD,Manual,81.86 bhp
+349,999 cc,3.0,4.0,DOHC,MPFI,Petrol,MPI Petrol Engine,BS IV,1039 kg,FWD,Manual,75 bhp
+350,1497 cc,4.0,4.0,SOHC,PGM-Fi,Petrol,i VTEC Engine,BS IV,1085 kg,FWD,Automatic,117.3 bhp
+351,1199 cc,4.0,4.0,SOHC,MPFi,Petrol,i-VTEC Petrol Engine,BS VI,917 kg,FWD,Manual,88.76 bhp
+352,1197 cc,4.0,4.0,,,Petrol,1.2 Kappa petrol,BS VI,1160 kg,,Manual,81.86 bhp
+353,1498 cc,4.0,4.0,DOHC,Direct Injection,Diesel,i DTEC Diesel Engine,BS IV,1150 kg,FWD,Manual,98.6 bhp
+354,1248 cc,4.0,4.0,DOHC,CRDI,Diesel,DDIS 200 Engine,BS IV,1135 kg,FWD,Manual,88.5 bhp
+355,1498 cc,4.0,4.0,DOHC,PGM-FI,Diesel,i-DTEC Engine,BS IV,1246 kg,FWD,Manual,98.6 bhp
+356,1197 cc,4.0,4.0,,,Petrol,1.2 Kappa petrol,BS VI,1140 kg,,Automatic,81.86 bhp
+357,998 cc,3.0,4.0,,,Petrol,K10C,BS VI,810-835 kg,,Manual,65.71 bhp
+358,1086 cc,4.0,3.0,SOHC,MPFI,Petrol,IRDE2 Engine,BS IV,860 kg,FWD,Manual,68.05 bhp
+359,796 cc,3.0,4.0,,,Petrol,F8D Petrol Engine,BS VI,755 kg,,Manual,47.33 bhp
+360,1197 cc,4.0,4.0,DOHC,MPFI,Petrol,K Series VVT Engine,BS IV,935 kg,FWD,Manual,83.14 bhp
+361,998 cc,3.0,4.0,DOHC,,Petrol,K10B Petrol Engine,BS IV,885 kg,FWD,Manual,67.04 bhp
+362,1086 cc,4.0,3.0,SOHC,MPFI,Petrol,IRDE2 Engine,BS IV,860 kg,FWD,Manual,68.05 bhp
+363,998 cc,3.0,4.0,,,Petrol,K10C,BS VI,736-775 kg,FWD,Manual,65.71 bhp
+364,796 cc,3.0,4.0,,,Petrol,F8D Petrol Engine,BS VI,755 kg,,Manual,47.33 bhp
+365,799 cc,3.0,4.0,DOHC,MPFi,Petrol,0.8L Petrol Engine,BS IV,770 kg,2WD,Manual,53.64 bhp
+366,814 cc,3.0,3.0,SOHC,,Petrol,800 L SOHC 3 Cylinder,,910 kg,RWD,Manual,
+367,1086 cc,4.0,3.0,SOHC,MPFI,Petrol,IRDE2 Engine,BS IV,860 kg,FWD,Manual,68.05 bhp
+368,1193 cc,4.0,2.0,SOHC,MPFi,Petrol,Revotron Engine,BS IV,1115 kg,FWD,Manual,88.7 bhp
+369,1198 cc,4.0,4.0,SOHC,PGM - Fi,Petrol,i-VTEC Engine,BSIV,925 kg,FWD,Manual,86.8 bhp
+370,1198 cc,3.0,4.0,,MPFI,Petrol,In-Line Petrol Engine,BS IV,1055 kg,FWD,Manual,73.9 bhp
+371,999 cc,3.0,4.0,DOHC,MPFi,Petrol,Petrol Engine,,765 kg,FWD,Manual,67 bhp
+372,998 cc,3.0,4.0,,,Petrol,K10C,BS VI 2.0,825 kg,FWD,Manual,65.71 bhp
+373,998 cc,3.0,4.0,DOHC,,Petrol,K10B Petrol Engine,BS IV,890 kg,FWD,Manual,67.04 bhp
+374,814 cc,3.0,3.0,SOHC,MPFI,Petrol,Petrol Engine,,880 kg,FWD,Manual,55.2 bhp
+375,1086 cc,4.0,3.0,SOHC,MPFI,Petrol,IRDE2 Engine,BS IV,860 kg,FWD,Manual,68.05 bhp
+376,799 cc,3.0,4.0,DOHC,MPFi,Petrol,Petrol Engine,BS IV,710 kg,FWD,Manual,53.3 bhp
+377,1198 cc,3.0,4.0,DOHC,MPFI,Petrol,mFALCON G80 Engine,BSIV,1115 kg,FWD,Manual,82 bhp
+378,1198 cc,4.0,4.0,SOHC,,Petrol,i-VTEC Petrol Engine,BS IV,950 kg,FWD,Manual,86.7 bhp
+379,1598 cc,4.0,4.0,DOHC,MPFI,Petrol,In Line Petrol Engine,BS IV,1130 kg,FWD,Manual,103.6 bhp
+380,814 cc,3.0,3.0,SOHC,MPFI,Petrol,Petrol Engine,,860 kg,FWD,Manual,55.2 bhp
+381,1364 cc,4.0,2.0,SOHC,CRDi,Diesel,D-4D Diesel Engine,BS IV,1015 kg,FWD,Manual,67.05 bhp
+382,1086 cc,4.0,3.0,SOHC,MPFI,Petrol,In-Line Engine,Bharat Stage III,854 kg,,Manual,62 bhp
+383,1086 cc,4.0,3.0,SOHC,MPFI,Petrol,IRDE2 Engine,BS IV,860 kg,FWD,Manual,68.05 bhp
+384,1956 cc,4.0,4.0,,,Diesel,2.0L Turbocharged Diesel,BS VI,1900 kg,FWD,Manual,167.67 bhp
+385,1956 cc,4.0,4.0,DOHC,CRDI,Diesel,Kryotec 2.0 L Turbocharged,BS VI,1695 kg,FWD,Manual,167.63 bhp
+386,1197 cc,4.0,4.0,DOHC,MPFI,Petrol,Kappa VTVT Petrol Engine,,1060 kg,FWD,Manual,81.86 bhp
+387,1197 cc,4.0,4.0,DOHC,MPFI,Petrol,Kappa VTVT Petrol Engine,,1120 kg,FWD,Manual,81.86 bhp
+388,1497 cc,4.0,4.0,,,Diesel,1.5 l Turbocharged Revotorq,BS VI,1105 kg,,Manual,88.77 bhp
+389,814 cc,3.0,3.0,SOHC,MPFI,Petrol,Petrol Engine,,910 kg,FWD,Manual,55.2 bhp
+390,796 cc,3.0,4.0,DOHC,MPFi,Petrol,F8D Petrol Engine,BS IV,762 kg,FWD,Manual,47.3 bhp
+391,1248 cc,4.0,4.0,DOHC,CRDi,Diesel,Quadrajet Engine,BS IV,1155 kg,FWD,Manual,88.7 bhp
+392,1956 cc,4.0,4.0,,,Diesel,,BS IV,1525 kg,FWD,Manual,167.68 bhp
+393,1353 cc,4.0,4.0,,GDi,Petrol,Smartstream G1.4,BS VI,1535 kg,FWD,Automatic,138.08 bhp
+394,1199 cc,3.0,4.0,,,Petrol,1.2L Revotron,BS VI 2.0,,FWD,Manual,86.79 bhp
+395,2198 cc,4.0,4.0,,,Diesel,mHawk (CRDi),BS VI 2.0,,4WD,Automatic,172.45 bhp
+396,1199 cc,3.0,4.0,,,Petrol,1.2 l Revotron Engine,BS VI 2.0,,FWD,Manual,86.63 bhp
+397,1497 cc,4.0,4.0,DOHC with VIS,MPi,Petrol,1.5 l MPi petrol,BS VI,1180 kg,,Manual,113.18 bhp
+398,1197 cc,4.0,4.0,,Dual Jet VVT,Petrol,Advanced K Series,BS VI 2.0,875-905 kg,FWD,Automatic,88.50 bhp
+399,1199 cc,4.0,4.0,SOHC,MPFi,Petrol,i-VTEC Petrol Engine,BS IV,1103 kg,FWD,Manual,88.7 bhp
+400,1373 cc,4.0,4.0,DOHC,MPFI,Petrol,k14B VVT Engine,BS IV,1030 kg,FWD,Automatic,91.1 bhp
+401,2179 cc,4.0,4.0,DOHC,Direct Injection,Diesel,mHawk Diesel Engine,BS IV,1655 kg,FWD,Manual,140 bhp
+402,1462 cc,4.0,4.0,,,Petrol,K15C Smart Hybrid,BS VI,1140 kg,,Manual,101.65 bhp
+403,1197 cc,4.0,4.0,DOHC,MPFI,Petrol,K12M Petrol Engine,BS VI,830-845 kg,FWD,Manual,81.80 bhp
+404,1248 cc,4.0,4.0,DOHC,CRDi,Diesel,DDiS 200 Diesel Engine,BS IV,1200 kg,FWD,Manual,88.5 bhp
+405,814 cc,3.0,3.0,SOHC,MPFI,Petrol,Petrol Engine,,910 kg,FWD,Manual,55.2 bhp
+406,1498 cc,4.0,4.0,DOHC,,Diesel,i-DTEC Diesel Engine,BS IV,1055 kg,FWD,Manual,98.6 bhp
+407,1493 cc,4.0,4.0,,CRDi,Diesel,1.5 L CRDi VGT,BS VI,1540 kg,FWD,Automatic,113.43 bhp
+408,1497 cc,4.0,4.0,DOHC,CRDi,Diesel,1.5L Turbo Diesel,BS VI,1465 kg,FWD,Manual,115 bhp
+409,1498 cc,4.0,2.0,SOHC,Direct Injection,Diesel,TDCi Diesel Engine,BS IV,1240 kg,FWD,Manual,98.59 bhp
+410,796 cc,3.0,4.0,SOHC,MPFI,Petrol,In-Line Engine,Bharat Stage IV,705 kg,FWD,Manual,46.3 bhp
+411,1368 cc,4.0,4.0,,,Petrol,1.4L MultiAir Petrol,BS VI,1580 kg,4x2,Automatic,160.77 bhp
+412,1451 cc,4.0,4.0,,,Petrol,1.5 L Turbocharged Intercooled,BS VI,1820 kg,FWD,Automatic,141 bhp
+413,1497 cc,4.0,4.0,DOHC,MPi,Petrol,1.5 L MPi Petrol,BS VI,1450 kg,,Automatic,113.18 bhp
+414,1956 cc,4.0,4.0,,,Diesel,Kryotec 2.0 L Turbocharged Engine,BS VI,1700 kg,,Automatic,167.67 bhp
+415,998 cc,3.0,4.0,,,CNG,K10C,BS VI 2.0,,FWD,Manual,55.92 bhp
+416,1493 cc,4.0,4.0,,CRDi,Diesel,1.5 L CRDi VGT,BS VI,1475 kg,FWD,Manual,113.43 bhp
+417,1499 cc,4.0,4.0,DOHC,Direct Injection,Petrol,Ti-VCT Petrol Engine,BS IV,1200 kg,FWD,Manual,110.4 bhp
+418,1493 cc,4.0,4.0,DOHC,CRDi,Diesel,1.5L U2 CRDi,BS VI 2.0,,FWD,Manual,114 bhp
+419,1493 cc,4.0,4.0,,CRDi,Diesel,1.5 L CRDi VGT,BS VI,1535 kg,FWD,Manual,113.43 bhp
+420,1086 cc,4.0,3.0,SOHC,MPFI,Petrol,IRDE2 Engine,BS IV,860 kg,FWD,Manual,68.05 bhp
+421,998 cc,3.0,4.0,DOHC,MPFi,Petrol,K Series Petrol Engine,BS IV,779 kg,FWD,Manual,67.05 bhp
+422,2393 cc,4.0,4.0,DOHC,CRDi,Diesel,2.4L Diesel Engine,BS VI,1840 kg,RWD,Manual,148 bhp
+423,3198 cc,4.0,4.0,DOHC,TDCi,Diesel,Diesel Engine,BS IV,1879 kg,4WD,Automatic,197 bhp
+424,1197 cc,4.0,4.0,DOHC,MPFI,Petrol,Kappa VTVT Petrol Engine,,1120 kg,FWD,Manual,81.86 bhp
+425,2494 cc,4.0,4.0,DOHC,CRDI,Diesel,In-Line Engine,Bharat Stage III,1660 kg,,Manual,
+426,796 cc,3.0,4.0,,,Petrol,F8D Petrol Engine,BS VI,757 kg,,Manual,47.33 bhp
+427,1198 cc,3.0,4.0,DOHC,Electronic Injection System,Petrol,Petrol Engine,BS IV,845 kg,FWD,Manual,67.06 bhp
+428,1591 cc,4.0,4.0,DOHC,MPFI,Petrol,VTVT Petrol Engine,,1300 kg,FWD,Manual,121.3 bhp
+429,1197 cc,4.0,4.0,DOHC,MPFI,Petrol,Kappa VTVT Petrol Engine,,1060 kg,FWD,Manual,81.86 bhp
+430,1199 cc,4.0,4.0,SOHC,MPFi,Petrol,i-VTEC Petrol Engine,BS IV,1084 kg,FWD,Manual,88.7 bhp
+431,1497 cc,4.0,4.0,SOHC,PGM-Fi,Petrol,i VTEC Engine,BS IV,1080 kg,FWD,Automatic,117.6 bhp
+432,1498 cc,4.0,2.0,SOHC,Direct Injection,Diesel,TDCi Diesel Engine,BS IV,1240 kg,FWD,Manual,98.59 bhp
+433,1497 cc,3.0,4.0,DOHC,Direct Injection,Petrol,Ti-VCT Petrol Engine,BS IV,1320 kg,FWD,Automatic,121.36 bhp
+434,1248 cc,4.0,4.0,DOHC,CRDi,Diesel,DDiS 200 Diesel Engine,BS IV,1210 kg,FWD,Manual,88.5 bhp
+435,1197 cc,4.0,4.0,,,Petrol,K12N,BS VI 2.0,835 kg,FWD,Manual,88.50 bhp
+436,1197 cc,4.0,4.0,DOHC,MPFI,Petrol,K Series VVT Engine,BS VI,860-895 kg,FWD,Automatic,81.80 bhp
+437,1497 cc,4.0,4.0,SOHC,PGM-Fi,Petrol,i VTEC Engine,BS IV,1085 kg,FWD,Automatic,117.3 bhp
+438,1598 cc,4.0,4.0,DOHC,,Diesel,DDiS 320 Diesel Engine,BS IV,1250 kg,FWD,Manual,118 bhp
+439,998 cc,3.0,4.0,,,Petrol,K10C,BS VI 2.0,815 kg,FWD,Automatic,67.77 bhp
+440,1462 cc,4.0,4.0,,,Petrol,K15B Smart Hybrid,BS VI,1130-1170 kg,FWD,Manual,103.25 bhp
+441,1248 cc,4.0,4.0,DOHC,CRDi,Diesel,DDiS Diesel Engine,BS IV,960-985 kg,FWD,Manual,74 bhp
+442,1197 cc,4.0,4.0,DOHC,MPFI,Petrol,Kappa VTVT Petrol Engine,,1200 kg,FWD,Automatic,81.86 bhp
+443,1199 cc,4.0,4.0,SOHC,MPFi,Petrol,i-VTEC Petrol Engine,BS IV,1084 kg,FWD,Manual,88.7 bhp
+444,1197 cc,4.0,4.0,,,Petrol,1.2 Kappa petrol,BS VI,1140 kg,,Automatic,81.86 bhp
+445,999 cc,3.0,4.0,DOHC,Multi Point Fuel Injection,Petrol,1.0L Petrol Engine,BS IV,947 kg,FWD,Manual,72 bhp
+446,1198 cc,3.0,4.0,DOHC,MPFI,Petrol,Revotron 1.2L Turbocharge,BS IV,1252 kg,FWD,Automatic,108.5 bhp
+447,1498 cc,4.0,4.0,DOHC,Direct Injection,Diesel,TDI Diesel Engine,BS IV,1142 kg,FWD,Manual,88 bhp
+448,1197 cc,4.0,4.0,DOHC,MPFI,Petrol,K Series VVT Engine,BS IV,945 kg,FWD,Manual,83.14 bhp
+449,998 cc,3.0,4.0,DOHC,,Petrol,K10B Petrol Engine,BS IV,885 kg,FWD,Manual,67.04 bhp
+450,1493 cc,4.0,4.0,DOHC,CRDi,Diesel,1.5L U2 CRDi,BS VI 2.0,,FWD,Automatic,114 bhp
+451,1591 cc,4.0,4.0,DOHC,MPFi,Petrol,VTVT Petrol Engine,BS VI,1280 kg,FWD,Manual,121.3 bhp
+452,1498 cc,4.0,4.0,,,Petrol,i-VTEC,BS VI 2.0,1259 kg,FWD,Manual,119 bhp
+453,999 cc,3.0,4.0,DOHC,MPFi,Petrol,Petrol Engine,,710 kg,FWD,Manual,67 bhp
+454,1199 cc,4.0,4.0,SOHC,PGM - Fi,Petrol,i-VTEC Petrol Engine,BS IV,1042 kg,FWD,Manual,88.7 bhp
+455,998 cc,3.0,4.0,,,Petrol,K10C,BS VI,810-835 kg,,Manual,65.71 bhp
+456,796 cc,3.0,4.0,,,Petrol,F8D Petrol Engine,BS VI,755 kg,,Manual,47.33 bhp
+457,796 cc,3.0,4.0,,,Petrol,F8D Petrol Engine,BS VI,755 kg,,Manual,47.33 bhp
+458,796 cc,3.0,4.0,SOHC,MPFI,Petrol,In-Line Engine,Bharat Stage IV,705 kg,FWD,Manual,46.3 bhp
+459,998 cc,3.0,4.0,,,Petrol,K10C,BS VI 2.0,825 kg,FWD,Manual,65.71 bhp
+460,999 cc,3.0,4.0,DOHC,MPFi,Petrol,Petrol Engine,BS VI,730 kg,FWD,Manual,67 bhp
+461,796 cc,3.0,4.0,,,Petrol,F8D Petrol Engine,BS VI,755 kg,,Manual,47.33 bhp
+462,999 cc,3.0,4.0,DOHC,Direct Injection,Petrol,Ecoboost Petrol Engine,BS IV,1290 kg,FWD,Manual,123.37 bhp
+463,998 cc,3.0,4.0,,,Petrol,K10C,BS VI,810-835 kg,,Manual,65.71 bhp
+464,1197 cc,4.0,4.0,DOHC,Direct Injection,Petrol,TSI Petrol Engine,BS IV,1164 kg,FWD,Automatic,103.2 bhp
+465,796 cc,3.0,4.0,SOHC,MPFI,Petrol,In-Line Engine,Bharat Stage IV,705 kg,FWD,Manual,46.3 bhp
+466,998 cc,3.0,4.0,,,Petrol,K10C,BS VI,810-835 kg,,Manual,65.71 bhp
+467,814 cc,3.0,3.0,SOHC,MPFI,Petrol,Petrol Engine,BSIV,910 kg,FWD,Manual,55.2 bhp
+468,799 cc,3.0,4.0,DOHC,MPFi,Petrol,0.8L Petrol Engine,BS IV,770 kg,2WD,Manual,53.64 bhp
+469,998 cc,3.0,4.0,,,Petrol,K10C,BS VI 2.0,825 kg,FWD,Manual,65.71 bhp
+470,1086 cc,4.0,3.0,SOHC,MPFI,Petrol,IRDE2 Engine,BS IV,860 kg,FWD,Manual,68.05 bhp
+471,796 cc,3.0,4.0,SOHC,MPFI,Petrol,In-Line Engine,Bharat Stage IV,705 kg,FWD,Manual,46.3 bhp
+472,1197 cc,4.0,4.0,DOHC,MPFi,Petrol,VTVT Engine,BS VI,855-885 kg,FWD,Manual,81.80 bhp
+473,998 cc,3.0,4.0,,,Petrol,K10C,BS VI 2.0,815 kg,FWD,Automatic,67.77 bhp
+474,1150 cc,4.0,2.0,SOHC,SEFI,Petrol,In-Line Engine,Bharat Stage III,1075 kg,FWD,Manual,
+475,1248 cc,4.0,4.0,DOHC,CRDI,Diesel,Diesel,BS IV,1100 kg,FWD,Manual,73.9 bhp
+476,814 cc,3.0,3.0,SOHC,MPFI,Petrol,Petrol Engine,,910 kg,FWD,Manual,55.2 bhp
+477,995 cc,4.0,2.0,SOHC,SEFI,Petrol,In-Line Engine,Bharat Stage IV,840 kg,FWD,Manual,62 bhp
+478,796 cc,3.0,4.0,,,Petrol,F8D Petrol Engine,BS VI,755 kg,,Manual,47.33 bhp
+479,2179 cc,4.0,4.0,DOHC,Direct Injection,Diesel,mHawk155 Diesel Engine,BS VI,1785 kg,FWD,Manual,152.87 bhp
+480,1199 cc,3.0,4.0,,,Petrol,1.2 L Revotron,BS VI,1190 kg,,Automatic,86.83 bhp
+481,1197 cc,4.0,4.0,DOHC,MPFI,Petrol,K Series VVT Engine,BS VI,860-895 kg,FWD,Manual,81.80 bhp
+482,1462 cc,4.0,4.0,,,CNG,K15C,BS VI 2.0,1275 kg,FWD,Manual,86.63 bhp
+483,1498 cc,4.0,4.0,,,Petrol,i-VTEC,BS VI 2.0,1213 kg,FWD,Automatic,119 bhp
+484,1591 cc,4.0,4.0,DOHC,MPFi,Petrol,VTVT Petrol Engine,,1300 kg,FWD,Automatic,121.3 bhp
+485,1199 cc,3.0,4.0,,,Petrol,1.2l Turbocharged Revotron Engine,BS VI,1230 kg,,Manual,118.35 bhp
+486,1248 cc,4.0,4.0,DOHC,CRDi,Diesel,DDiS Diesel Engine,BS IV,960-985 kg,FWD,Manual,74 bhp
+487,1199 cc,3.0,4.0,,,Petrol,1.2 l Revotron,BS VI 2.0,,FWD,Manual,87 bhp
+488,2179 cc,4.0,4.0,DOHC,Direct Injection,Diesel,mHawk Diesel Engine,BS IV,1860 kg,FWD,Manual,140 bhp
+489,1493 cc,3.0,4.0,,,Diesel,mHAWk100,BS VI,1505 kg,RWD(with MTT),Manual,100 bhp
+490,1248 cc,4.0,4.0,,CRDI,Diesel,DDiS Diesel Engine,BS IV,1050 kg,FWD,Manual,74 bhp
+491,2494 cc,4.0,4.0,DOHC,CRDI,Diesel,In-Line Engine,Bharat Stage III,1660 kg,,Manual,
+492,1582 cc,4.0,4.0,DOHC,CRDi,Diesel,U2 CRDI VGT Engine,BS VI,1320 kg,FWD,Automatic,126.2 bhp
+493,1198 cc,3.0,4.0,DOHC,MPFI,Petrol,Revotron 1.2L Turbocharge,BS IV,1252 kg,FWD,Manual,108.5 bhp
+494,1497 cc,4.0,4.0,,,Diesel,1.5L KRYOJET,BS VI 2.0,,FWD,Manual,116 bhp
+495,1498 cc,4.0,4.0,,,Petrol,i-VTEC,BS VI 2.0,1259 kg,FWD,Manual,119 bhp
+496,1199 cc,3.0,4.0,,,Petrol,1.2 L REVOTRON,BS VI 2.0,,FWD,Manual,118 bhp
+497,1493 cc,4.0,4.0,DOHC,CRDi,Diesel,1.5L CRDi VGT,BS VI,1495 kg,2WD,Automatic,113.42 bhp
+498,1368 cc,4.0,4.0,,,Petrol,1.4L MultiAir Petrol,BS VI,1580 kg,4x2,Automatic,160.77 bhp
+499,1497 cc,4.0,4.0,,MPI,Petrol,SMARTSTREAM G1.5,BS VI,1400 kg,FWD,Automatic,113.43 bhp
+500,2143 cc,4.0,4.0,DOHC,CRDi,Diesel,In Line Diesel Engine,BS IV,1570 kg,FWD,Automatic,134.1 bhp
+501,1368 cc,4.0,4.0,DOHC,CRDI,Petrol,1.4-Litre 4-Cyl Multiair,BS IV,1562 s kg,4X2,Automatic,160.77 bhp
+502,799 cc,3.0,4.0,DOHC,MPFi,Petrol,Petrol Engine,BS IV,710 kg,FWD,Manual,53.3 bhp
+503,1199 cc,3.0,4.0,DOHC,MPFI,Petrol,MPI Petrol Engine,BS IV,1030 kg,FWD,Manual,74 bhp
+504,1197 cc,4.0,4.0,DOHC,MPFI,Petrol,DOHC Kappa2 Engine,BSIV,960 kg,FWD,Manual,78.9 bhp
+505,998 cc,3.0,4.0,,GDi,Petrol,,,1440 kg,FWD,Automatic,118.35 bhp
+506,999 cc,3.0,4.0,,multi-point fuel injection,Petrol,ENERGY Engine,BS VI 2.0,,FWD,Manual,71.01 bhp
+507,1198 cc,3.0,4.0,DOHC,Electronic Fuel Injection,Petrol,In Line Petrol Engine,BS IV,940 kg,FWD,Manual,75 bhp
+508,1198 cc,3.0,4.0,DOHC,MPFI,Petrol,Revotron 1.2L Turbocharge,BS IV,1252 kg,FWD,Manual,108.5 bhp
+509,1197 cc,4.0,4.0,DOHC,MPFI,Petrol,K Series Petrol Engine,BS IV,970 kg,FWD,Manual,85.8 bhp
+510,999 cc,3.0,4.0,,TSI,Petrol,1.0L TSI,BS VI,1255 kg,,Manual,113.98 bhp
+511,1199 cc,3.0,4.0,,,Petrol,1.2l Turbocharged Revotron Engine,BS VI 2.0,1310 kg,,Automatic,118.35 bhp
+512,998 cc,3.0,4.0,,GDi,Petrol,,,1440 kg,FWD,Automatic,118.35 bhp
+513,2393 cc,4.0,4.0,DOHC,Direct Injection,Diesel,2-GD FTV Engine,BS IV,1805 kg,RWD,Manual,147.8 bhp
+514,1498 cc,4.0,2.0,SOHC,Direct Injection,Diesel,TDCi Diesel Engine,BS IV,1240 kg,FWD,Manual,98.59 bhp
+515,999 cc,3.0,4.0,,multi-point fuel injection,Petrol,ENERGY Engine,BS VI 2.0,,FWD,Manual,71.01 bhp
+516,1198 cc,4.0,4.0,SOHC,PGM - Fi,Petrol,i-VTEC Engine,BS IV,925 kg,FWD,Manual,86.8 bhp
+517,999 cc,3.0,4.0,,multi-point fuel injection,Petrol,ENERGY Engine,BS VI 2.0,,FWD,Manual,71.01 bhp
+518,1197 cc,4.0,4.0,DOHC,MPFI,Petrol,1.2L Kappa Dual VTVT Petr,BS IV,1120 kg,FWD,Manual,81.86 bhp
+519,1199 cc,3.0,4.0,,,Petrol,1.2l Turbocharged Revotron Engine,BS VI,1200 kg,,Manual,118.35 bhp
+520,1198 cc,4.0,4.0,SOHC,PGM - Fi,Petrol,i-VTEC Engine,BS IV,925 kg,FWD,Manual,86.8 bhp
+521,999 cc,3.0,4.0,,MPFi,Petrol,1.0L Energy,BS VI 2.0,,FWD,Manual,71 bhp
+522,1997 cc,4.0,4.0,SOHC,PGM-FI (Programmed Fuel Injection),Petrol,i-VTEC Petrol Engine,BS IV,1505 kg,FWD,Automatic,153.86 bhp
+523,998 cc,3.0,4.0,,,Petrol,K10C,BS VI 2.0,810 kg,FWD,Manual,67.77 bhp
+524,999 cc,3.0,4.0,,MPFi,Petrol,1.0L Energy,BS VI 2.0,,FWD,Automatic,71 bhp
+525,1197 cc,4.0,4.0,DOHC,MPFi,Petrol,VTVT Engine,BS VI,855-885 kg,FWD,Manual,81.80 bhp
+526,999 cc,3.0,4.0,DOHC,MPFi,Petrol,Petrol Engine,,710 kg,FWD,Manual,67 bhp
+527,1198 cc,3.0,4.0,DOHC,Electronic Injection System,Petrol,Naturally Aspirated 12V,BS VI,886 kg,FWD,Manual,67.05 bhp
+528,796 cc,3.0,4.0,,,Petrol,F8D Petrol Engine,BS VI,762 kg,,Manual,47.33 bhp
+529,799 cc,3.0,4.0,,,Petrol,0.8 SCe,BS VI,690 kg,,Manual,53.26 bhp
+530,796 cc,3.0,4.0,SOHC,MPFI,Petrol,In-Line Engine,Bharat Stage IV,705 kg,FWD,Manual,46.3 bhp
+531,1199 cc,4.0,4.0,SOHC,PGM - Fi,Petrol,i-VTEC Petrol Engine,BS IV,1042 kg,FWD,Manual,88.7 bhp
+532,814 cc,3.0,3.0,SOHC,MPFI,Petrol,Petrol Engine,,880 kg,FWD,Manual,55.2 bhp
+533,998 cc,3.0,4.0,DOHC,,Petrol,K10B Petrol Engine,BS IV,870 kg,FWD,Manual,67.04 bhp
+534,796 cc,3.0,4.0,SOHC,MPFI,Petrol,In-Line Engine,Bharat Stage IV,705 kg,FWD,Manual,46.3 bhp
+535,999 cc,3.0,4.0,DOHC,MPFi,Petrol,Petrol Engine,,730 kg,FWD,Automatic,67 bhp
+536,814 cc,3.0,3.0,SOHC,MPFI,Petrol,Petrol Engine,,880 kg,FWD,Manual,55.2 bhp
+537,796 cc,3.0,4.0,SOHC,MPFI,Petrol,In-Line Engine,Bharat Stage IV,705 kg,FWD,Manual,46.3 bhp
+538,998 cc,3.0,4.0,DOHC,,Petrol,K10B Petrol Engine,BS IV,885 kg,FWD,Manual,67.04 bhp
+539,998 cc,3.0,4.0,DOHC,,Petrol,K10B Petrol Engine,BS IV,885 kg,FWD,Manual,67.04 bhp
+540,999 cc,3.0,4.0,DOHC,MPFi,Petrol,Petrol Engine,,765 kg,FWD,Manual,67 bhp
+541,999 cc,3.0,4.0,DOHC,MPFi,Petrol,Petrol Engine,,710 kg,FWD,Manual,67 bhp
+542,796 cc,3.0,4.0,SOHC,MPFI,Petrol,In-Line Engine,Bharat Stage IV,705 kg,FWD,Manual,46.3 bhp
+543,1197 cc,3.0,4.0,,,Petrol,Z12E,BS VI 2.0,920-960 kg,FWD,Manual,80 bhp
+544,1197 cc,3.0,4.0,DOHC,MPFI,Petrol,1.2 Petrol Engine,BS IV,1435 kg,FWD,Manual,110 bhp
+545,1248 cc,4.0,4.0,DOHC,CRDi,Diesel,DDiS 200 Diesel Engine,BS IV,1195 kg,FWD,Automatic,88.5 bhp
+546,796 cc,3.0,4.0,,,Petrol,F8D Petrol Engine,BS VI,755 kg,,Manual,47.33 bhp
+547,799 cc,3.0,4.0,DOHC,MPFi,Petrol,Petrol Engine,BS IV,710 kg,FWD,Manual,53.3 bhp
+548,796 cc,3.0,4.0,,,Petrol,F8D Petrol Engine,BS VI,755 kg,,Manual,47.33 bhp
+549,1451 cc,4.0,4.0,,,Petrol,1.5L Turbocharged Intercooled,BS VI,1820 kg,,Automatic,141 bhp
+550,1956 cc,4.0,4.0,,,Diesel,Kryotec 2.0 L Turbocharged Engine,BS VI 2.0,1675 kg,,Manual,167.67 bhp
+551,1199 cc,3.0,4.0,,,Petrol,1.2 L REVOTRON,BS VI 2.0,,FWD,Automatic,118 bhp
+552,1496 cc,3.0,4.0,,,Petrol,1.5 L Petrol Engine,BS VI,1300 kg,FWD,Automatic,120.69 bhp
+553,1199 cc,3.0,4.0,,,Petrol,1.2L Revotron,BS VI 2.0,,FWD,Manual,85 bhp
+554,1997 cc,4.0,4.0,,,Petrol,mStallion 150 TGDi,BS VI 2.0,,4WD,Automatic,150.19 bhp
+555,1462 cc,4.0,4.0,DOHC,MPFI,Petrol,K15 Smart Hybrid,BS VI,1135-1170 kg,FWD,Manual,103.26 bhp
+556,1956 cc,4.0,4.0,DOHC,CRDI,Diesel,2.0-Litre 4-Cyl Multijet,BS VI,1537 s kg,4X2,Manual,170 bhp
+557,1197 cc,4.0,4.0,DOHC,MPFI,Petrol,K12M Petrol Engine,BS VI,830-845 kg,FWD,Manual,81.80 bhp
+558,999 cc,3.0,4.0,,multi-point fuel injection,Petrol,ENERGY Engine,BS VI 2.0,,FWD,Manual,71.01 bhp
+559,1493 cc,3.0,2.0,,CRDi,Diesel,mHawk 100 Diesel Engine,,1755 kg,RWD,Manual,100 bhp
+560,1197 cc,4.0,4.0,,,Petrol,,,895 kg,,Manual,
+561,2982 cc,4.0,4.0,DOHC,CRDi,Diesel,D-4D Diesel Engine,BS IV,1880 kg,FWD,Manual,168.5 bhp
+562,1197 cc,4.0,4.0,,,Petrol,1.2 l Kappa petrol,BS VI,1105 kg,,Manual,81.80 bhp
+563,1498 cc,4.0,4.0,SOHC,Direct Injection,Diesel,TDCi Diesel Engine,BS IV,1280 kg,FWD,Manual,98.96 bhp
+564,999 cc,3.0,4.0,DOHC,MPFi,Petrol,Petrol Engine,,690 kg,FWD,Manual,67 bhp
+565,1591 cc,4.0,4.0,DOHC,MPFI,Petrol,VTVT Petrol Engine,BS VI,1300 kg,FWD,Manual,121.3 bhp
+566,2179 cc,4.0,4.0,DOHC,Direct Injection,Diesel,mHawk Diesel Engine,BS IV,1635 kg,AWD,Manual,140 bhp
+567,1461 cc,4.0,4.0,DOHC,CRDi,Diesel,K9K Diesel Engine,BS IV,1390 kg,FWD,Manual,108.5 bhp
+568,2179 cc,4.0,4.0,DOHC,Direct Injection,Diesel,mHawk Diesel Engine,BS IV,1940 kg,FWD,Manual,140 bhp
+569,1498 cc,4.0,4.0,DOHC,CRDi,Diesel,i-DTEC Diesel Engine,BS IV,1198 kg,FWD,Manual,98.6 bhp
+570,998 cc,3.0,4.0,DOHC,,CNG,K10B Engine,BS IV,960 kg,FWD,Manual,58.16 bhp
+571,1086 cc,4.0,3.0,SOHC,MPFI,Petrol,IRDE2 Engine,BS IV,860 kg,FWD,Manual,68.05 bhp
+572,796 cc,3.0,4.0,,,Petrol,F8D Petrol Engine,BS VI,755 kg,,Manual,47.33 bhp
+573,1197 cc,4.0,4.0,DOHC,MPFI,Petrol,Kappa Petrol Engine,BSIV,930 kg,FWD,Manual,78.9 bhp
+574,1364 cc,4.0,4.0,,,Diesel,,,920 kg,,Manual,
+575,1198 cc,3.0,4.0,,MPFI,Petrol,In-Line Engine,BS IV,1030 kg,FWD,Manual,73.9 bhp
+576,1086 cc,3.0,4.0,SOHC,MPFI+CNG,CNG,Bifuel Engine,BSIV,845 kg,FWD,Manual,62.1 bhp
+577,999 cc,3.0,4.0,DOHC,MPFi,Petrol,1.0L Petrol Engine,BS IV,730 kg,2WD,Manual,67 bhp
+578,1197 cc,4.0,4.0,DOHC,MPFI,Petrol,In-Line Engine,Bharat Stage III,1010 kg,,Manual,
+579,1197 cc,4.0,4.0,DOHC,Direct Injection,Petrol,Kappa VTVT Petrol Engine,BS IV,1160 kg,FWD,Manual,82 bhp
+580,1086 cc,4.0,3.0,SOHC,MPFI,Petrol,IRDE2 Engine,BS IV,860 kg,FWD,Manual,68.05 bhp
+581,1353 cc,4.0,4.0,DOHC,GDi,Petrol,1.4 L Turbo GDi Petrol,BS VI,1465 kg,,Automatic,138.12 bhp
+582,1493 cc,3.0,4.0,,,Diesel,mHAWk100,BS VI,1505 kg,RWD(with MTT),Manual,100 bhp
+583,1248 cc,4.0,4.0,DOHC,DDIS,Diesel,DDiS 200 Diesel Engine,BS IV,1230 kg,FWD,Manual,88.5 bhp
+584,1086 cc,4.0,3.0,SOHC,MPFI,Petrol,1.1 L Petrol,BS VI,1070 kg,FWD,Automatic,68.05 bhp
+585,1493 cc,3.0,2.0,,CRDi,Diesel,mHawk 100 Diesel Engine,,1725 kg,RWD,Manual,100 bhp
+586,799 cc,3.0,4.0,DOHC,MPFi,Petrol,0.8L Petrol Engine,BS IV,770 kg,2WD,Manual,53.64 bhp
+587,796 cc,3.0,4.0,,,Petrol,F8D Petrol Engine,BS VI,755 kg,,Manual,47.33 bhp
+588,1199 cc,4.0,4.0,SOHC,,Petrol,1.2 i-VTEC,BS VI,1063 kg,,Manual,88.50 bhp
+589,1199 cc,4.0,4.0,SOHC,,Petrol,1.2 i-VTEC,BS VI,1063 kg,,Manual,88.50 bhp
+590,1499 cc,4.0,4.0,,Ti-VCT,Petrol,1.5 L TiVCT,BS IV,1117 kg,2wd,Manual,
+591,1999 cc,4.0,4.0,DOHC,MPFI,Petrol,Nu 2.0 MPi Petrol Engine,,1240 kg,FWD,Manual,149.92 bhp
+592,1197 cc,3.0,4.0,,MPFi,Petrol,TCMPFi,BS VI 2.0,,FWD,Automatic,108.62 bhp
+593,1493 cc,4.0,4.0,DOHC,CRDi,Diesel,1.5 L U2 CRDi Diesel,BS VI 2.0,1430 kg,2WD,Manual,113.98 bhp
+594,998 cc,3.0,4.0,DOHC,MPFi,Petrol,K10B Engine,BS IV,840 kg,FWD,Automatic,67.04 bhp
+595,1498 cc,4.0,4.0,DOHC,MPFI,Petrol,H4K Petrol Engine,,1110 kg,FWD,Manual,104.5 bhp
+596,1591 cc,4.0,4.0,DOHC,MPFI,Petrol,VTVT Petrol Engine,BSIV,1198 kg,FWD,Manual,121.3 bhp
+597,1199 cc,3.0,4.0,,,Petrol,1.2L Revotron,BS VI 2.0,,FWD,Automatic,85 bhp
+598,1199 cc,3.0,4.0,,,Petrol,1.2 L Revotron,BS VI,,,Manual,84.82 bhp
+599,796 cc,3.0,4.0,SOHC,MPFI,Petrol,In-Line Engine,Bharat Stage IV,705 kg,FWD,Manual,46.3 bhp
+600,999 cc,3.0,4.0,DOHC,MPFi,Petrol,Petrol Engine,,750 kg,FWD,Automatic,67 bhp
+601,1198 cc,3.0,4.0,DOHC,Electronic Injection System,Petrol,Naturally Aspirated 12V,BS VI,886 kg,FWD,Manual,67.05 bhp
+602,2393 cc,4.0,4.0,DOHC,Direct Injection,Diesel,2-GD FTV Engine,BS IV,1855 kg,RWD,Manual,147.8 bhp
+603,,,,,,Electric,,ZEV,1235 kg,,Automatic,73.75 bhp
+604,2179 cc,4.0,4.0,DOHC,CRDi,Diesel,mHawk Diesel Engine,BS IV,1645 kg,RWD,Manual,120 bhp
+605,1248 cc,4.0,4.0,DOHC,CRDI,Diesel,DDiS Diesel Engine,BS IV,1235 kg,FWD,Manual,88.76 bhp
+606,2179 cc,4.0,4.0,,CRDi,Diesel,In-Line Engine,BS III,1940 kg,2 WD,Manual,120 bhp
+607,2523 cc,4.0,4.0,,,Diesel,m2DiCR Engine,BS III,1870 kg,FWD,Manual,75 bhp
+608,1197 cc,3.0,4.0,,,Petrol,mStallion (TGDi) engine,BS VI 2.0,,FWD,Automatic,128.73 bhp
+609,2179 cc,4.0,4.0,DOHC,Direct Injection,Diesel,mHawk Diesel Engine,BS IV,1940 kg,FWD,Manual,140 bhp
+610,998 cc,3.0,4.0,,,Petrol,K10C,BS VI 2.0,,FWD,Manual,65.71 bhp
+611,1197 cc,4.0,4.0,,Dual Jet VVT,Petrol,Advanced K Series,BS VI 2.0,875-905 kg,FWD,Automatic,88.50 bhp
+612,999 cc,3.0,4.0,,MPFi,Petrol,,BS VI,947 kg,,Automatic,71.01 bhp
+613,1462 cc,4.0,4.0,,,CNG,K15C,BS VI,1250-1255 kg,2WD,Manual,86.63 bhp
+614,998 cc,3.0,4.0,,,Petrol,K10C,BS VI,810-835 kg,,Manual,65.71 bhp
+615,2982 cc,4.0,4.0,DOHC,CRDi,Diesel,D-4D Diesel Engine,BS IV,2000 kg,4WD,Automatic,168.5 bhp
+616,1999 cc,4.0,4.0,,,Petrol,mStallion,BS VI 2.0,,FWD,Manual,197 bhp
+617,1197 cc,4.0,4.0,,,Petrol,1.2 l Kappa,BS VI 2.0,,FWD,Manual,82 bhp
+618,1462 cc,4.0,4.0,,,Petrol,K15B Smart Hybrid,BS VI,1190 kg,FWD,Automatic,103.2 bhp
+619,1199 cc,3.0,4.0,,,CNG,1.2 L i-CNG,BS VI,1030 kg,,Manual,72 bhp
+620,1199 cc,3.0,4.0,,,CNG,1.2 L i-CNG,BS VI,,,Manual,72 bhp
+621,2499 cc,4.0,0.0,,,Diesel,In-Line Engine,Bharat Stage III,"1,585 kg",2WD,Manual,
+622,2179 cc,4.0,4.0,DOHC,CRDi,Diesel,VTT VARICOR Diesel Engine,BS IV,1570 kg,RWD,Manual,153.86 bhp
+623,,,,,,Electric,,ZEV,1400 kg,,Automatic,127 bhp
+624,1197 cc,4.0,2.0,SOHC,Direct Injection,Petrol,TSI Petrol Engine,BS IV,1179 kg,FWD,Automatic,103.2 bhp
+625,1199 cc,3.0,4.0,,,CNG,1.2 L i-CNG,BS VI,1030 kg,,Manual,72 bhp
+626,2179 cc,4.0,4.0,DOHC,Direct Injection Common Rail,Diesel,VTT VariCOR Diesel Engine,BS IV,2000 kg,FWD,Manual,138.1 bhp
+627,1997 cc,4.0,4.0,,,Petrol,mStallion 150 TGDi Engine,BS VI,1825 kg,4X4,Automatic,150 bhp
+628,1995 cc,4.0,4.0,DOHC,CRDi,Diesel,Diesel Engine,,1500 kg,RWD,Automatic,184 bhp
+629,1086 cc,4.0,3.0,SOHC,MPFI,Petrol,In-Line Engine,Bharat Stage III,854 kg,,Manual,62 bhp
+630,796 cc,3.0,4.0,SOHC,MPFI,Petrol,In-Line Engine,Bharat Stage IV,705 kg,FWD,Manual,46.3 bhp
+631,1984 cc,4.0,4.0,,TSI,Petrol,2.0L Turbocharged Petrol,BS VI 2.0,1579 kg,FWD,Automatic,187.74 bhp
+632,998 cc,3.0,4.0,,,CNG,K10C,BS VI 2.0,,FWD,Manual,55.92 bhp
+633,1197 cc,4.0,4.0,,,Petrol,1.2 l Kappa dual petrol,BS VI,1070 kg,,Manual,81.86 bhp
+634,1462 cc,4.0,4.0,DOHC,MPFI,Petrol,K15 Smart Hybrid,BS VI,1135-1170 kg,FWD,Automatic,103.26 bhp
+635,1995 cc,4.0,4.0,,CRDi,Diesel,Diesel Engine,Euro IV,"1,615 kg",RWD,Automatic,218 bhp
+636,1197 cc,4.0,4.0,,,Petrol,1.2 Kappa petrol,BS VI,1100 kg,,Manual,81.86 bhp
+637,1197 cc,4.0,4.0,DOHC,MPFI,Petrol,Kappa VTVT Petrol Engine,,1120 kg,FWD,Manual,81.86 bhp
+638,1798 cc,4.0,4.0,DOHC,Direct Injection,Petrol,Turbocharged Petrol Engin,BS IV,1533 kg,FWD,Manual,157.8 bhp
+639,1047 cc,3.0,4.0,DOHC,CRDi,Diesel,Revotorq Engine,BS IV,1080 kg,FWD,Manual,69 bhp
+640,1197 cc,4.0,4.0,DOHC,MPFI,Petrol,Kappa VTVT Petrol Engine,,1120 kg,FWD,Manual,81.86 bhp
+641,999 cc,3.0,4.0,DOHC,MPFi,Petrol,Petrol Engine,BS VI,730 kg,FWD,Manual,67 bhp
+642,796 cc,3.0,4.0,DOHC,MPFi,Petrol,F8D Petrol Engine,BS IV,720 kg,FWD,Manual,47.3 bhp
+643,1197 cc,4.0,4.0,DOHC,MPFI,Petrol,Kappa VTVT Petrol Engine,,1120 kg,FWD,Manual,81.86 bhp
+644,1199 cc,4.0,4.0,SOHC,MPFi,Petrol,i-VTEC Petrol Engine,BS IV,1103 kg,FWD,Manual,88.7 bhp
+645,1197 cc,4.0,4.0,DOHC,MPFI,Petrol,K Series VVT Engine,BS IV,945 kg,FWD,Manual,83.14 bhp
+646,1197 cc,4.0,4.0,DOHC,MPFI,Petrol,Kappa VTVT Petrol Engine,BS IV,935 kg,FWD,Automatic,82 bhp
+647,,4.0,4.0,,,Petrol,,,1120 kg,,Manual,
+648,1197 cc,4.0,4.0,DOHC,MPFI,Petrol,Kappa VTVT Petrol Engine,,1160 kg,FWD,Manual,81.86 bhp
+649,1197 cc,4.0,4.0,DOHC,MPFI,Petrol,Kappa VTVT Petrol Engine,,1120 kg,FWD,Manual,81.86 bhp
+650,998 cc,3.0,4.0,DOHC,MPFi,Petrol,K10B Engine,BS IV,825 kg,FWD,Manual,67.04 bhp
+651,1499 cc,4.0,4.0,,Ti-VCT,Petrol,1.5 L TiVCT,BS IV,1117 kg,2wd,Manual,
+652,1197 cc,4.0,4.0,,,Petrol,1.2 Kappa petrol,BS VI,1160 kg,,Manual,81.86 bhp
+653,1197 cc,4.0,4.0,,,Petrol,,BS VI,880-915 kg,,Manual,88.50 bhp
+654,1248 cc,4.0,4.0,DOHC,CRDI,Diesel,D13A SHVS Engine,BS IV,1260 kg,FWD,Manual,88.5 bhp
+655,1197 cc,3.0,4.0,,,Petrol,Z12E,BS VI 2.0,920 kg,FWD,Manual,80.46 bhp
+656,1498 cc,4.0,4.0,DOHC,,Petrol,water cooled inline 4 cylinder,BS VI,1280 kg,,Automatic,96.55 bhp
+657,999 cc,3.0,4.0,,,Petrol,1.0L TSI,BS VI 2.0,1210 kg,FWD,Manual,113.98 bhp
+658,999 cc,3.0,4.0,,,Petrol,1.0L TSI,BS VI 2.0,1188 kg,FWD,Manual,113.98 bhp
+659,998 cc,3.0,4.0,,,Petrol,K10C,BS VI,810-835 kg,,Manual,65.71 bhp
+660,999 cc,3.0,4.0,,Direct Injection,Petrol,1.0 L TSI Petrol,BS VI,1160-1215 kg,FWD,Manual,113.98 bhp
+661,999 cc,4.0,4.0,SOHC,TSI,Petrol,TSI Petrol Engine,BS VI,1175 kg,FWD,Automatic,108.62 bhp
+662,1197 cc,4.0,4.0,,,Petrol,1.2 Kappa petrol,BS VI,1100 kg,,Automatic,81.86 bhp
+663,1199 cc,4.0,4.0,SOHC,MPFi,Petrol,i-VTEC Petrol Engine,BS IV,1103 kg,FWD,Manual,88.7 bhp
+664,796 cc,3.0,4.0,SOHC,MPFI,Petrol,In-Line Engine,Bharat Stage IV,705 kg,FWD,Manual,46.3 bhp
+665,1198 cc,4.0,4.0,SOHC,PGM - Fi,Petrol,i-VTEC Engine,BS IV,925 kg,FWD,Manual,86.8 bhp
+666,814 cc,3.0,3.0,SOHC,,Petrol,800 L SOHC 3 Cylinder,,910 kg,RWD,Manual,
+667,998 cc,3.0,4.0,DOHC,MPFi,Petrol,K10B Engine,BS VI,835 kg,FWD,Manual,67.05 bhp
+668,998 cc,3.0,4.0,,,Petrol,K10C,BS VI,810-835 kg,,Manual,65.71 bhp
+669,1198 cc,4.0,4.0,SOHC,PGM - Fi,Petrol,i-VTEC Engine,BSIV,925 kg,FWD,Manual,86.8 bhp
+670,796 cc,3.0,4.0,DOHC,MPFi,Petrol,F8D Petrol Engine,BS IV,720 kg,FWD,Manual,47.3 bhp
+671,1198 cc,4.0,4.0,SOHC,PGM - Fi,Petrol,i-VTEC Engine,BS IV,925 kg,FWD,Manual,86.8 bhp
+672,1199 cc,4.0,4.0,SOHC,PGM - Fi,Petrol,i-VTEC Petrol Engine,BS IV,1042 kg,FWD,Manual,88.7 bhp
+673,1197 cc,4.0,4.0,DOHC,MPFI,Petrol,Kappa VTVT Petrol Engine,BS IV,1066 kg,FWD,Manual,81.83 bhp
+674,1198 cc,4.0,4.0,SOHC,MPFi,Petrol,i-VTEC Petrol Engine,BS IV,955 kg,FWD,Manual,86.7 bhp
+675,,4.0,4.0,,,Petrol,,,1120 kg,,Manual,
+676,1197 cc,4.0,4.0,DOHC,MPFI,Petrol,K Series VVT Engine,BS IV,945 kg,FWD,Manual,83.14 bhp
+677,1198 cc,3.0,4.0,,MPFI,Petrol,mFALCON G80,BS VI,1170 kg,2WD,Manual,82 bhp
+678,1186 cc,3.0,4.0,DOHC,CRDi,Diesel,U2 CRDi  Diesel Engine,,1100 kg,FWD,Manual,73.97 bhp
+679,1493 cc,4.0,4.0,,CRDi,Diesel,CRDi VGT,BS VI 2.0,,FWD,Automatic,114.41 bhp
+680,1498 cc,4.0,4.0,,,Petrol,i-VTEC,BS VI 2.0,1259 kg,FWD,Manual,119 bhp
+681,814 cc,3.0,3.0,SOHC,MPFI,Petrol,Petrol Engine,,880 kg,FWD,Manual,55.2 bhp
+682,1197 cc,4.0,4.0,DOHC,MPFI,Petrol,Kappa VTVT Petrol Engine,,1060 kg,FWD,Manual,81.86 bhp
+683,1499 cc,4.0,4.0,DOHC,Direct Injection,Petrol,Ti-VCT Petrol Engine,BS IV,1290 kg,FWD,Automatic,110 bhp
+684,1498 cc,4.0,4.0,DOHC,CRDi,Diesel,i-DTEC Diesel Engine,BS IV,1198 kg,FWD,Manual,98.6 bhp
+685,999 cc,3.0,4.0,,,Petrol,1.0L HRAO,BS VI 2.0,,FWD,Automatic,98.63 bhp
+686,1197 cc,4.0,4.0,,,Petrol,1.2 Kappa petrol,BS VI,1140 kg,,Automatic,81.86 bhp
+687,1248 cc,4.0,4.0,DOHC,CRDi,Diesel,DDiS 200 Diesel Engine,BS IV,1185 kg,FWD,Manual,88.5 bhp
+688,1197 cc,4.0,4.0,DOHC,MPFI,Petrol,K Series VVT Engine,BS VI,860-895 kg,FWD,Automatic,81.80 bhp
+689,1997 cc,4.0,4.0,,CRDi,Diesel,R 2.0 Diesel,BS VI,1745 kg,2WD,Automatic,183.72 bhp
+690,2393 cc,4.0,4.0,,,Diesel,,BS VI 2.0,,,Manual,147.51 bhp
+691,998 cc,3.0,4.0,DOHC,MPFi,Petrol,K10B Engine,BS IV,840 kg,FWD,Automatic,67.04 bhp
+692,1498 cc,4.0,4.0,,,Petrol,i-VTEC,BS VI 2.0,1213 kg,FWD,Automatic,119 bhp
+693,998 cc,3.0,4.0,,,Petrol,K10C,BS VI,810-835 kg,,Manual,65.71 bhp
+694,1493 cc,4.0,4.0,DOHC,Common rail direct injection,Diesel,1.5 l diesel CRDi engine,BS VI,1770 kg,,Automatic,113.42 bhp
+695,1498 cc,4.0,4.0,,TSI,Petrol,1.5L TSI EVO with ACT,BS VI,1312 kg,,Automatic,147.51 bhp
+696,1493 cc,4.0,4.0,,CRDi,Diesel,CRDi VGT,BS VI 2.0,,FWD,Automatic,114.41 bhp
+697,1353 cc,4.0,4.0,,GDi,Petrol,Smartstream G1.4,BS VI,1535 kg,FWD,Automatic,138.08 bhp
+698,1498 cc,4.0,4.0,,,Petrol,1.5L TSI EVO with ACT,BS VI 2.0,1269 kg,FWD,Automatic,147.51 bhp
+699,1198 cc,4.0,4.0,SOHC,PGM - Fi,Petrol,i-VTEC Engine,BSIV,925 kg,FWD,Manual,86.8 bhp
+700,796 cc,3.0,4.0,SOHC,MPFI,Petrol,In-Line Engine,Bharat Stage IV,705 kg,FWD,Manual,46.3 bhp
+701,998 cc,3.0,4.0,,,Petrol,K10C,BS VI,810-835 kg,,Manual,65.71 bhp
+702,796 cc,3.0,4.0,DOHC,MPFi,Petrol,F8D Petrol Engine,BS IV,725 kg,FWD,Manual,47.3 bhp
+703,796 cc,3.0,4.0,DOHC,MPFi,Petrol,F8D Petrol Engine,BS IV,725 kg,FWD,Manual,47.3 bhp
+704,796 cc,3.0,4.0,SOHC,MPFI,Petrol,In-Line Engine,Bharat Stage IV,705 kg,FWD,Manual,46.3 bhp
+705,999 cc,3.0,4.0,DOHC,MPFi,Petrol,Petrol Engine,,690 kg,FWD,Manual,67 bhp
+706,1198 cc,4.0,4.0,SOHC,MPFi,Petrol,i-VTEC Petrol Engine,BS IV,955 kg,FWD,Manual,86.7 bhp
+707,1498 cc,4.0,4.0,DOHC,CRDi,Diesel,i-DTEC Diesel Engine,BS VI,1029 kg,FWD,Manual,98.63 bhp
+708,1198 cc,4.0,4.0,SOHC,MPFi,Petrol,i-VTEC Petrol Engine,BS IV,955 kg,FWD,Manual,86.7 bhp
+709,1198 cc,4.0,4.0,SOHC,MPFi,Petrol,i-VTEC Petrol Engine,BS IV,955 kg,FWD,Manual,86.7 bhp
+710,1199 cc,4.0,4.0,,,Petrol,1.2L i-VTEC,BS VI 2.0,952-986 kg,FWD,Manual,89 bhp
+711,1198 cc,4.0,4.0,SOHC,MPFi,Petrol,i-VTEC Petrol Engine,BS IV,955 kg,FWD,Manual,86.7 bhp
+712,1248 cc,4.0,4.0,DOHC,CRDi,Diesel,DDiS Diesel Engine,BS IV,985 kg,FWD,Manual,74 bhp
+713,999 cc,3.0,4.0,DOHC,Direct Injection,Petrol,1.0L TSI Petrol,BS VI,1112-1138 kg,FWD,Manual,108.62 bhp
+714,1194 cc,3.0,4.0,DOHC,MPFI,Petrol,1.2 litre Petrol Engine,BS VI,1026-1044 kg,FWD,Manual,94.93 bhp
+715,1198 cc,4.0,4.0,SOHC,MPFi,Petrol,i-VTEC Petrol Engine,BS IV,955 kg,FWD,Manual,86.7 bhp
+716,1197 cc,4.0,4.0,DOHC,MPFI,Petrol,VVT Petrol Engine,,935 kg,FWD,Automatic,83.1 bhp
+717,1198 cc,4.0,4.0,SOHC,MPFi,Petrol,i-VTEC Petrol Engine,BS IV,955 kg,FWD,Manual,86.7 bhp
+718,1396 cc,4.0,4.0,DOHC,CRDI,Diesel,U2 CRDI Diesel Engine,BS IV,1515 kg,FWD,Manual,88.73 bhp
+719,1197 cc,4.0,4.0,DOHC,MPFI,Petrol,Kappa VTVT Petrol Engine,BS VI,1140 kg,FWD,Manual,81.86 bhp
+720,1197 cc,4.0,4.0,DOHC,MPFI,Petrol,Kappa VTVT Petrol Engine,BS IV,1066 kg,FWD,Manual,81.83 bhp
+721,1197 cc,4.0,4.0,DOHC,MPFI,Petrol,K Series VVT Engine,BS VI,860-895 kg,FWD,Manual,81.80 bhp
+722,1199 cc,4.0,4.0,SOHC,PGM - Fi,Petrol,i-VTEC Petrol Engine,BS IV,1066 kg,FWD,Automatic,88.7 bhp
+723,1197 cc,4.0,4.0,DOHC,MPFI,Petrol,K Series VVT Engine,BS VI,860-895 kg,FWD,Automatic,81.80 bhp
+724,1197 cc,4.0,4.0,DOHC,MPFI,Petrol,K Series VVT Engine,BS VI,860-895 kg,FWD,Manual,81.80 bhp
+725,1373 cc,4.0,4.0,DOHC,MPFI,Petrol,k14B VVT Engine,BS IV,1010 kg,FWD,Automatic,91.1 bhp
+726,1197 cc,4.0,4.0,DOHC,,CNG,1.2 Kapa dual VTVT bi-fuel,BS VI,1220 kg,,Manual,65.39 bhp
+727,1197 cc,4.0,4.0,DOHC,MPFI,Petrol,VVT Petrol Engine,,910 kg,FWD,Automatic,83.1 bhp
+728,1462 cc,4.0,4.0,DOHC,,Petrol,K15B Petrol Engine,BS VI,1110-1130 kg,FWD,Manual,103.26 bhp
+729,1496 cc,3.0,4.0,,,Petrol,1.5 L Petrol Engine,BS VI,1221 kg,FWD,Manual,120.69 bhp
+730,1499 cc,4.0,4.0,DOHC,Direct Injection,Petrol,Ti-VCT Petrol Engine,BS IV,1290 kg,FWD,Manual,110 bhp
+731,1997 cc,4.0,4.0,,,Petrol,,,1527 kg,,Manual,
+732,1197 cc,4.0,4.0,DOHC,MPFI,Petrol,Kappa VTVT Petrol Engine,,1140 kg,FWD,Manual,81.86 bhp
+733,1197 cc,4.0,4.0,DOHC,MPFI,Petrol,VVT Petrol Engine,BS IV,880 kg,FWD,Manual,83.1 bhp
+734,1999 cc,4.0,4.0,DOHC,MPFi,Petrol,Dual VTVT Nu 2.0 Petrol,BS IV,1497 kg,2WD,Automatic,152.88 bhp
+735,1497 cc,4.0,4.0,,,Diesel,1.5L KRYOJET,BS VI 2.0,,FWD,Manual,116 bhp
+736,1498 cc,4.0,4.0,DOHC,,Petrol,Water Cooled Inline i-VTEC DOHC with VTC,BS VI,1107-1153 kg,,Manual,119.35 bhp
+737,1199 cc,4.0,4.0,,,Petrol,1.2L i-VTEC,BS VI 2.0,952-986 kg,FWD,Manual,89 bhp
+738,1499 cc,4.0,4.0,DOHC,Direct Injection,Petrol,Ti-VCT Petrol Engine,BS IV,1290 kg,FWD,Automatic,110 bhp
+739,1199 cc,3.0,4.0,DOHC,MPFi,Petrol,Revotron Engine,,1052 kg,FWD,Manual,84 bhp
+740,1498 cc,4.0,4.0,SOHC,Direct Injection,Diesel,TDCi Diesel Engine,BS VI,1309 kg,FWD,Manual,98.96 bhp
+741,1248 cc,4.0,4.0,DOHC,CRDI,Diesel,DDiS Diesel Engine,BS IV,1070 kg,FWD,Automatic,74 bhp
+742,1197 cc,4.0,4.0,DOHC,MPFI,Petrol,Kappa VTVT Petrol Engine,BS VI,1140 kg,FWD,Manual,81.86 bhp
+743,1956 cc,4.0,4.0,DOHC,CRDI,Diesel,2.0-Litre 4-Cyl Multijet,BS IV,1562 s kg,4X2,Manual,170 bhp
+744,1956 cc,4.0,4.0,DOHC,CRDI,Diesel,2.0-Litre 4-Cyl Multijet,BS IV,1562 s kg,4X2,Manual,170 bhp
+745,1197 cc,4.0,4.0,DOHC,MPFI,Petrol,1.2L VVT Engine,BS VI,865-890 kg,FWD,Manual,81.80 bhp
+746,1482 cc,4.0,4.0,,GDi,Petrol,SmartStream G1.5 T-GDi,BS VI 2.0,,2WD,Automatic,157.81 bhp
+747,1497 cc,4.0,4.0,SOHC,PGM-Fi,Petrol,i VTEC Engine,BS VI,1088 kg,FWD,Manual,117.6 bhp
+748,1498 cc,4.0,4.0,,,Petrol,i-VTEC,BS VI 2.0,1213 kg,FWD,Automatic,119 bhp
+749,1086 cc,4.0,3.0,SOHC,MPFI,Petrol,IRDE2 Engine,BS IV,860 kg,FWD,Manual,68.05 bhp
+750,1086 cc,4.0,3.0,SOHC,MPFI,Petrol,IRDE2 Engine,BS IV,860 kg,FWD,Manual,68.05 bhp
+751,796 cc,3.0,4.0,SOHC,MPFI,Petrol,In-Line Engine,Bharat Stage IV,705 kg,FWD,Manual,46.3 bhp
+752,999 cc,3.0,4.0,DOHC,MPFi,Petrol,Petrol Engine,BS VI,730 kg,FWD,Manual,67 bhp
+753,796 cc,3.0,4.0,SOHC,MPFI,Petrol,In-Line Engine,Bharat Stage IV,705 kg,FWD,Manual,46.3 bhp
+754,796 cc,3.0,4.0,SOHC,MPFI,Petrol,In-Line Engine,Bharat Stage IV,705 kg,FWD,Manual,46.3 bhp
+755,1198 cc,4.0,4.0,SOHC,MPFi,Petrol,i-VTEC Petrol Engine,BS IV,955 kg,FWD,Manual,86.7 bhp
+756,1086 cc,4.0,3.0,SOHC,MPFI,Petrol,IRDE2 Engine,BS IV,860 kg,FWD,Manual,68.05 bhp
+757,1198 cc,4.0,4.0,SOHC,,Petrol,i-VTEC Petrol Engine,BS IV,940 kg,FWD,Manual,86.7 bhp
+758,1086 cc,4.0,3.0,SOHC,MPFI,Petrol,IRDE2 Engine,BS IV,860 kg,FWD,Manual,68.05 bhp
+759,1199 cc,4.0,4.0,SOHC,MPFi,Petrol,i-VTEC Petrol Engine,BS IV,1103 kg,FWD,Manual,88.7 bhp
+760,1199 cc,4.0,4.0,SOHC,MPFi,Petrol,i-VTEC Petrol Engine,BS IV,1103 kg,FWD,Manual,88.7 bhp
+761,1197 cc,4.0,4.0,DOHC,MPFI,Petrol,Kappa VTVT Petrol Engine,,1100 kg,FWD,Manual,81.86 bhp
+762,1498 cc,4.0,4.0,DOHC,Direct Injection,Diesel,i DTEC Diesel Engine,BS IV,1150 kg,FWD,Manual,98.6 bhp
+763,1248 cc,4.0,4.0,DOHC,CRDI,Diesel,DDIS 200 Engine,BS IV,1115 kg,FWD,Manual,88.5 bhp
+764,1498 cc,4.0,4.0,DOHC,Direct Injection,Diesel,i DTEC Diesel Engine,BS IV,1150 kg,FWD,Manual,98.6 bhp
+765,1197 cc,4.0,4.0,DOHC,MPFI,Petrol,K Series VVT Engine,BS IV,965 kg,FWD,Manual,83.14 bhp
+766,1199 cc,4.0,4.0,SOHC,MPFi,Petrol,i-VTEC Petrol Engine,BS IV,1084 kg,FWD,Manual,88.7 bhp
+767,999 cc,3.0,4.0,,,Petrol,1.0 SCe,BS VI,699 kg,,Manual,67.06 bhp
+768,1197 cc,4.0,4.0,DOHC,MPFi,Petrol,VTVT Engine,BS VI,855-885 kg,FWD,Manual,81.80 bhp
+769,1497 cc,4.0,4.0,SOHC,PGM-Fi,Petrol,i VTEC Engine,BS IV,1049 kg,FWD,Manual,117.3 bhp
+770,1197 cc,4.0,4.0,DOHC,MPFI,Petrol,Kappa VTVT Petrol Engine,BS IV,1066 kg,FWD,Manual,81.83 bhp
+771,1497 cc,4.0,4.0,,MPi,Petrol,SmartStream G1.5,BS VI 2.0,,2WD,Automatic,113.42 bhp
+772,1497 cc,4.0,4.0,SOHC,PGM-Fi,Petrol,i VTEC Engine,BS VI,1088 kg,FWD,Manual,117.6 bhp
+773,1353 cc,4.0,4.0,,GDi,Petrol,Smartstream G1.4,BS VI,1515 kg,FWD,Manual,138.08 bhp
+774,1498 cc,4.0,4.0,,CRDi,Diesel,U2 CRDi Diesel,BS VI,1360 kg,FWD,Manual,98.6 bhp
+775,1493 cc,4.0,4.0,,MPI,Diesel,SMARTSTREAM G1.2,BS VI,1192 kg,FWD,Manual,81.86 bhp
+776,1199 cc,3.0,4.0,,,Petrol,1.2L Revotron,BS VI 2.0,,FWD,Manual,86.79 bhp
+777,1497 cc,4.0,4.0,DOHC,CDI,Diesel,"Revotorq, 1.5L Turbocharg",BS IV,1305 kg,FWD,Manual,108.5 bhp
+778,998 cc,3.0,4.0,,,Petrol,K10C,BS VI 2.0,,FWD,Manual,65.71 bhp
+779,2694 cc,4.0,4.0,DOHC,,Petrol,2.7 L Dual VVT,BS VI,1730 kg,RWD,Manual,163.60 bhp
+780,1497 cc,4.0,2.0,iDSI,PGM-FI (Programmed Fuel Injection),Petrol,In-Line Engine,Bharat Stage III,1085 kg,FWD,Automatic,
+781,1956 cc,4.0,4.0,,,Diesel,Kryotec 2.0 L Turbocharged Engine,BS VI,1660 kg,,Manual,167.67 bhp
+782,796 cc,3.0,4.0,SOHC,MPFI,Petrol,In-Line Engine,Bharat Stage IV,705 kg,FWD,Manual,46.3 bhp
+783,799 cc,3.0,4.0,DOHC,MPFi,Petrol,Petrol Engine,BS IV,710 kg,FWD,Manual,53.3 bhp
+784,799 cc,3.0,4.0,DOHC,MPFi,Petrol,Petrol Engine,BS IV,710 kg,FWD,Manual,53.3 bhp
+785,796 cc,3.0,4.0,SOHC,MPFI,Petrol,In-Line Engine,Bharat Stage IV,705 kg,FWD,Manual,46.3 bhp
+786,1086 cc,4.0,3.0,SOHC,MPFI,Petrol,IRDE2 Engine,BS IV,860 kg,FWD,Manual,68.05 bhp
+787,814 cc,3.0,3.0,SOHC,MPFI,Petrol,Petrol Engine,,880 kg,FWD,Manual,55.2 bhp
+788,1197 cc,4.0,4.0,DOHC,MPFI,Petrol,In-Line Engine,Bharat Stage IV,1020 kg,FWD,Manual,
+789,799 cc,3.0,4.0,DOHC,MPFi,Petrol,0.8L Petrol Engine,BS VI,750 kg,FWD,Manual,53.64 bhp
+790,1498 cc,4.0,4.0,DOHC,CRDi,Diesel,i-DTEC Diesel Engine,BS VI,1029 kg,FWD,Manual,98.63 bhp
+791,1198 cc,3.0,4.0,DOHC,MPFI,Petrol,MPI Petrol Engine,BS IV,1049 kg,FWD,Manual,74 bhp
+792,1197 cc,4.0,4.0,DOHC,MPFi,Petrol,VTVT Engine,BS VI,855-885 kg,FWD,Manual,81.80 bhp
+793,1197 cc,4.0,4.0,DOHC,MPFi,Petrol,VTVT Engine,BS VI,855-885 kg,FWD,Manual,81.80 bhp
+794,999 cc,3.0,4.0,,,Petrol,1.0 SCe,BS VI 2.0,,FWD,Manual,67.06 bhp
+795,1248 cc,4.0,4.0,DOHC,CRDi,Diesel,DDiS Diesel Engine,BS IV,985 kg,FWD,Manual,74 bhp
+796,1496 cc,3.0,4.0,,,Petrol,1.5 L Petrol Engine,BS VI,1300 kg,FWD,Automatic,120.69 bhp
+797,1086 cc,4.0,3.0,SOHC,MPFI,CNG,1.1 L Bi-Fuel,BS VI,1070 kg,FWD,Manual,59.17 bhp
+798,1498 cc,4.0,2.0,SOHC,Direct Injection,Diesel,TDCi Diesel Engine,BS IV,1240 kg,FWD,Manual,98.59 bhp
+799,1248 cc,4.0,4.0,DOHC,CRDI,Diesel,DDiS Diesel Engine,,955-990 kg,FWD,Manual,74.02 bhp
+800,1197 cc,4.0,4.0,DOHC,MPFI,Petrol,K Series VVT Engine,BS IV,945 kg,FWD,Manual,83.14 bhp
+801,1199 cc,4.0,4.0,SOHC,MPFi,Petrol,i-VTEC Petrol Engine,BS VI,917 kg,FWD,Manual,88.76 bhp
+802,1497 cc,4.0,4.0,SOHC,PGM-Fi,Petrol,i VTEC Engine,BS IV,1049 kg,FWD,Manual,117.3 bhp
+803,998 cc,3.0,4.0,DOHC,,Petrol,K10B Petrol Engine,BS IV,890 kg,FWD,Automatic,67 bhp
+804,1197 cc,4.0,4.0,DOHC,MPFI,Petrol,Kappa VTVT Petrol Engine,BS IV,1066 kg,FWD,Manual,81.83 bhp
+805,1199 cc,4.0,4.0,SOHC,MPFi,Petrol,i-VTEC Petrol Engine,BS VI,945 kg,FWD,Automatic,88.76 bhp
+806,999 cc,3.0,4.0,,,Petrol,1.0L TSI,BS VI 2.0,1210 kg,FWD,Manual,113.98 bhp
+807,1968 cc,4.0,4.0,DOHC,Direct Injection,Diesel,Diesel Engine,BS IV,1395 kg,FWD,Automatic,141 bhp
+808,1968 cc,4.0,4.0,DOHC,common rail system,Diesel,2.0TDI Diesel Engine,BS IV,1395 kg,FWD,Automatic,141 bhp
+809,1396 cc,4.0,4.0,DOHC,CRDi,Diesel,U2 CRDI Engine,BS VI,1260 kg,FWD,Manual,88.7 bhp
+810,1582 cc,4.0,4.0,DOHC,CRDi,Diesel,U2 VGT Diesel Engine,BS IV,1285 kg,FWD,Automatic,126.2 bhp
+811,1197 cc,4.0,4.0,,,CNG,1.2 Kappa petrol,BS VI,1100 kg,,Manual,68.05 bhp
+812,1497 cc,4.0,2.0,iDSI,PGM-FI (Programmed Fuel Injection),Petrol,In-Line Engine,Bharat Stage III,1085 kg,FWD,Automatic,
+813,2393 cc,7.0,4.0,DOHC,CRDi,Diesel,2-GD FTV Engine,BS VI,1860 kg,RWD,Manual,147.51 bhp
+814,1956 cc,4.0,4.0,,,Diesel,Kryotec 2.0 L Turbocharged Engine,BS VI,1725 kg,,Manual,167.67 bhp
+815,1497 cc,4.0,4.0,,MPi,Petrol,SmartStream G1.5,BS VI 2.0,,2WD,Manual,113.42 bhp
+816,1498 cc,4.0,4.0,,,Petrol,i-VTEC,BS VI 2.0,1213 kg,FWD,Automatic,119 bhp
+817,1497 cc,4.0,4.0,,,Petrol,1.5L MPi Petrol,BS VI 2.0,,FWD,Manual,113.18 bhp
+818,1497 cc,4.0,4.0,DOHC with VIS,MPi,Petrol,1.5 l MPi petrol,BS VI,1200 kg,,Automatic,113.18 bhp
+819,2694 cc,4.0,4.0,DOHC,MPFi,Petrol,Dual VVTi Petrol Engine,BS IV,2160 kg,RWD,Manual,163.7 bhp
+820,1497 cc,4.0,4.0,SOHC,EFI(Electronic Fuel Injection),Petrol,In-Line Engine,,1100 kg,FWD,Manual,
+821,1197 cc,4.0,4.0,DOHC,MPFI,Petrol,Kappa VTVT Petrol Engine,BS IV,1066 kg,FWD,Manual,81.83 bhp
+822,1396 cc,4.0,4.0,DOHC,CRDi,Diesel,U2 CRDI Engine,BS VI,1260 kg,FWD,Manual,88.7 bhp
+823,1086 cc,4.0,3.0,SOHC,MPFI,Petrol,IRDE2 Engine,BS IV,860 kg,FWD,Manual,68.05 bhp
+824,,,,,,Electric,,ZEV,1316 kg,FWD,Automatic,56.21 bhp
+825,999 cc,3.0,4.0,,,Petrol,1.0 TSI Petrol Engine,BS VI 2.0,1193-1248 kg,FWD,Manual,113.98 bhp
+826,998 cc,3.0,4.0,,GDi,Petrol,Kappa 1.0 L Turbo GDi Petrol,BS VI,1340 kg,FWD,Manual,118.35 bhp
+827,998 cc,3.0,4.0,,GDi,Petrol,,,1440 kg,FWD,Automatic,118.35 bhp
+828,998 cc,3.0,4.0,,GDi,Petrol,,,1440 kg,FWD,Automatic,118.35 bhp
+829,998 cc,3.0,4.0,,GDi,Petrol,,,1440 kg,FWD,Automatic,118.35 bhp
+830,1197 cc,4.0,4.0,,,Petrol,1.2 l Kappa dual petrol,BS VI,1050 kg,,Manual,81.86 bhp
+831,1396 cc,4.0,4.0,DOHC,CRDi,Diesel,U2 CRDI Engine,,1240 kg,FWD,Manual,88.7 bhp
+832,999 cc,3.0,4.0,DOHC,MPFi,Petrol,Petrol Engine,BS VI,730 kg,FWD,Manual,67 bhp
+833,799 cc,3.0,4.0,,,Petrol,0.8 SCe,BS VI,690 kg,,Manual,53.26 bhp
+834,1197 cc,4.0,4.0,DOHC,MPFI,Petrol,In-Line Engine,Bharat Stage IV,1020 kg,FWD,Manual,
+835,1086 cc,4.0,3.0,SOHC,MPFI,Petrol,IRDE2 Engine,BS IV,860 kg,FWD,Manual,68.05 bhp
+836,999 cc,3.0,4.0,DOHC,MPFi,Petrol,Petrol Engine,,710 kg,FWD,Manual,67 bhp
+837,1198 cc,4.0,4.0,SOHC,PGM - Fi,Petrol,i-VTEC Engine,BS IV,930 kg,FWD,Manual,86.8 bhp
+838,1047 cc,3.0,4.0,DOHC,CRDi,Diesel,Revotorq Engine,BS IV,1050 kg,FWD,Manual,69 bhp
+839,1248 cc,4.0,4.0,DOHC,CRDi,Diesel,DDiS 190 Engine,BS IV,960 kg,FWD,Manual,74 bhp
+840,1199 cc,3.0,4.0,DOHC,MPFi,Petrol,Revotron Engine,,1052 kg,FWD,Manual,84 bhp
+841,1194 cc,3.0,4.0,,,Petrol,1.2 L Petrol Engine,BS VI,1081-1094 kg,FWD,Automatic,95.48 bhp
+842,1197 cc,4.0,4.0,DOHC,MPFI,Petrol,Kappa VTVT Petrol Engine,BS IV,1066 kg,FWD,Manual,81.83 bhp
+843,1497 cc,4.0,4.0,SOHC,PGM-Fi,Petrol,i VTEC Engine,BS IV,1085 kg,FWD,Automatic,117.3 bhp
+844,1199 cc,4.0,4.0,SOHC,MPFi,Petrol,i-VTEC Petrol Engine,BS VI,905 kg,FWD,Manual,88.76 bhp
+845,1197 cc,4.0,4.0,DOHC,MPFI,Petrol,K12M Petrol Engine,BS VI,830-845 kg,FWD,Automatic,81.80 bhp
+846,2393 cc,4.0,4.0,,,Diesel,,BS VI 2.0,,,Manual,147.51 bhp
+847,1482 cc,4.0,4.0,,,Petrol,1.5L Turbo GDi Petrol,BS VI 2.0,,FWD,Manual,157.57 bhp
+848,1956 cc,4.0,4.0,,,Diesel,Kryotec 2.0 L Turbocharged Engine,BS VI 2.0,1675 kg,,Manual,167.67 bhp
+849,999 cc,3.0,4.0,,,Petrol,1.0L TSI,BS VI 2.0,1255 kg,FWD,Automatic,113.98 bhp
+850,1493 cc,4.0,4.0,,CRDi,Diesel,1.5L CRDi VGT,BS VI 2.0,,FWD,Manual,114 bhp
+851,1493 cc,4.0,4.0,,CRDi,Diesel,1.5 L CRDi VGT,BS VI,1535 kg,FWD,Manual,113.43 bhp
+852,999 cc,3.0,4.0,,,Petrol,1.0L TSI,BS VI 2.0,1224 kg,FWD,Automatic,113.98 bhp
+853,1497 cc,4.0,4.0,SOHC,EFI(Electronic Fuel Injection),Petrol,In-Line Engine,,1100 kg,FWD,Manual,
+854,998 cc,3.0,4.0,,GDi,Petrol,Smartstream G1.0 T - GDi,BS VI,1245 kg,FWD,Automatic,118.36 bhp
+855,1498 cc,4.0,4.0,,CRDi,Diesel,U2 CRDi Diesel,BS VI,1360 kg,FWD,Manual,98.6 bhp
+856,1353 cc,4.0,4.0,,GDi,Petrol,Smartstream G1.4,BS VI,1535 kg,FWD,Automatic,138.08 bhp
+857,1582 cc,4.0,4.0,DOHC,CRDi,Diesel,U2 CRDI VGT Engine,BS VI,1300 kg,FWD,Manual,126.2 bhp
+858,1956 cc,4.0,4.0,,,Diesel,2.0L Turbocharged Diesel,BS VI,1860 kg,,Manual,167.67 bhp
+859,1497 cc,4.0,4.0,,MPI,Petrol,SMARTSTREAM G1.5,BS VI,1404 kg,FWD,Manual,113.43 bhp
+860,1582 cc,4.0,4.0,DOHC,CRDi,Diesel,U2 CRDI VGT Engine,BS VI,1280 kg,FWD,Manual,126.2 bhp
+861,2494 cc,4.0,4.0,DOHC,Common Rail,Diesel,2KD-FTV Diesel Engine,BS III,1675 kg,RWD,Manual,100.6 bhp
+862,1984 cc,4.0,4.0,,,Petrol,2.0 L TFSI,BS VI,1970 kg,AWD,Automatic,245.59 bhp
+863,1397 cc,4.0,4.0,DOHC,GDi,Petrol,1.4 L Turbo GDi Petrol,BS VI 2.0,1465 kg,,Automatic,138.12 bhp
+864,1493 cc,4.0,4.0,,CRDi,Diesel,1.5 L CRDi VGT,BS VI,1468 kg,FWD,Automatic,113.43 bhp
+865,998 cc,3.0,4.0,DOHC with TIS,GDi,Petrol,1.0 l Kappa turbo GDi petrol,BS VI,1260 kg,,Automatic,118.41 bhp
+866,1497 cc,4.0,4.0,,MPi,Petrol,SmartStream G1.5,BS VI 2.0,,2WD,Automatic,113.42 bhp
+867,1591 cc,4.0,4.0,,MPFI,Petrol,VTVT Petrol Engine,BSIV,1198 kg,FWD,Automatic,121.4 bhp
+868,2393 cc,4.0,4.0,DOHC,CRDi,Diesel,2.4L Diesel Engine,BS VI 2.0,,RWD,Manual,147.51 bhp
+869,1950 cc,4.0,4.0,DOHC,CRDI,Diesel,V Type Engine,BS VI,2150 kg,AWD,Automatic,241.38 bhp
+870,1086 cc,4.0,3.0,SOHC,MPFI,Petrol,IRDE2 Engine,BS IV,860 kg,FWD,Manual,68.05 bhp
+871,796 cc,3.0,4.0,,,Petrol,F8D Petrol Engine,BS VI,755 kg,,Manual,47.33 bhp
+872,1198 cc,3.0,4.0,DOHC,,Petrol,In Line Petrol Engine,BS IV,1100 kg,FWD,Automatic,75.94 bhp
+873,1582 cc,4.0,4.0,DOHC,CRDi,Diesel,U2 VGT Diesel Engine,BS IV,1230 kg,FWD,Manual,126.2 bhp
+874,1197 cc,4.0,4.0,DOHC,MPFI,Petrol,1.2L VVT Engine,BS VI,865-890 kg,FWD,Manual,81.80 bhp
+875,1497 cc,3.0,4.0,DOHC,Direct Injection,Petrol,Ti-VCT Petrol Engine,BS IV,1320 kg,FWD,Automatic,121.36 bhp
+876,1591 cc,4.0,4.0,DOHC,MPFi,Petrol,VTVT Petrol Engine,BS VI,1280 kg,FWD,Automatic,121.3 bhp
+877,999 cc,,,,,Petrol,,,,FWD,Automatic,98.63 bhp
+878,1582 cc,4.0,4.0,DOHC,CRDi,Diesel,U2 VGT Diesel Engine,BS IV,1285 kg,FWD,Automatic,126.2 bhp
+879,1396 cc,4.0,4.0,DOHC,CRDi,Diesel,U2 CRDI Engine,,1200 kg,FWD,Manual,88.7 bhp
+880,1198 cc,4.0,4.0,SOHC,PGM - Fi,Petrol,i-VTEC Engine,BS IV,925 kg,FWD,Manual,86.8 bhp
+881,999 cc,3.0,4.0,,,Petrol,1.0L HRAO,BS VI 2.0,,FWD,Automatic,98.63 bhp
+882,1086 cc,4.0,3.0,SOHC,MPFI,Petrol,1.1 L Petrol,BS VI,990 kg,FWD,Manual,68.05 bhp
+883,2393 cc,4.0,4.0,DOHC,CRDi,Diesel,2.4L Diesel Engine,BS VI 2.0,,RWD,Manual,147.51 bhp
+884,1497 cc,4.0,4.0,,,Petrol,1.5L MPi Petrol,BS VI 2.0,,FWD,Automatic,113.18 bhp
+885,1332 cc,4.0,4.0,,,Petrol,L4 200,BS VI,1395 kg,,Automatic,160.92 bhp
+886,1199 cc,3.0,4.0,,,Petrol,1.2l Turbocharged Revotron Engine,BS VI 2.0,,,Manual,118.35 bhp
+887,1482 cc,4.0,4.0,,,Petrol,1.5L Turbo GDi Petrol,BS VI 2.0,,FWD,Manual,157.57 bhp
+888,2494 cc,4.0,4.0,DOHC,CRDi,Diesel,2KD-FTV Diesel Engine,BS IV,1675 kg,RWD,Manual,100.6 bhp
+889,999 cc,3.0,4.0,DOHC,MPFi,Petrol,Petrol Engine,BS VI,730 kg,FWD,Manual,67 bhp
+890,1086 cc,4.0,3.0,SOHC,MPFI,Petrol,IRDE2 Engine,BS IV,860 kg,FWD,Manual,68.05 bhp
+891,796 cc,3.0,4.0,SOHC,MPFI,Petrol,In-Line Engine,Bharat Stage IV,705 kg,FWD,Manual,46.3 bhp
+892,1497 cc,4.0,4.0,SOHC,EFI (Electronic Fuel Injection),Petrol,In-Line Engine,,1100 kg,FWD,Manual,
+893,1493 cc,4.0,4.0,DOHC,CRDi,Diesel,1.5 L U2 CRDi Diesel,BS VI,1430 kg,,Manual,113.98 bhp
+894,1497 cc,4.0,2.0,iDSI,PGM-FI (Programmed Fuel Injection),Petrol,In-Line Engine,Bharat Stage III,1085 kg,FWD,Automatic,
+895,1199 cc,4.0,4.0,SOHC,MPFi,Petrol,i-VTEC Petrol Engine,BS IV,985 kg,FWD,Automatic,88.7 bhp
+896,1498 cc,4.0,4.0,DOHC,Multi Point Fuel Injection,Petrol,1.5L Petrol,BS VI,1315 kg,FWD,Manual,104.55 bhp
+897,1197 cc,3.0,4.0,DOHC,MPFI,Petrol,1.2 Petrol Engine,BS IV,1435 kg,FWD,Manual,110 bhp
+898,1497 cc,4.0,4.0,SOHC,PGM-Fi,Petrol,i VTEC Engine,BS IV,1065 kg,FWD,Automatic,117.3 bhp
+899,1497 cc,4.0,4.0,SOHC,,Petrol,i-VTEC,BS VI,1063 kg,,Manual,117.60 bhp
+900,998 cc,3.0,4.0,DOHC,,CNG,K10B Engine,BS IV,960 kg,FWD,Manual,58.16 bhp
+901,1498 cc,4.0,4.0,DOHC,Direct Injection,Diesel,Diesel Engine,BS IV,1182 kg,FWD,Automatic,103.52 bhp
+902,1497 cc,4.0,4.0,,,Diesel,1.5 l Turbocharged Revotorq,BS VI,1187 kg,,Manual,88.77 bhp
+903,1956 cc,4.0,4.0,,,Diesel,Kryotec 2.0 L Turbocharged Engine,BS VI,1675 kg,,Automatic,167.67 bhp
+904,998 cc,3.0,4.0,,GDi,Petrol,1.0 l Kappa Turbo,BS VI 2.0,,FWD,Automatic,118 bhp
+905,1199 cc,3.0,4.0,,,CNG,1.2 L Revotron,BS VI 2.0,,FWD,Manual,74.46 bhp
+906,1199 cc,3.0,4.0,,,Petrol,1.2 l Revotron Engine,BS VI,1130 kg,,Automatic,86.63 bhp
+907,1582 cc,4.0,4.0,DOHC,CRDi,Diesel,U2 VGT Diesel Engine,BS IV,1285 kg,FWD,Automatic,126.2 bhp
+908,1493 cc,4.0,4.0,,CRDi,Diesel,1.5 L CRDi VGT,BS VI,kerb weight kg,FWD,Automatic,113.43 bhp
+909,998 cc,3.0,4.0,DOHC with TIS,GDi,Petrol,1.0 l Kappa turbo GDi petrol,BS VI,1260 kg,,Automatic,118.41 bhp
+910,2755 cc,4.0,4.0,DOHC,Direct Injection,Diesel,2.8 L Diesel engine,BS VI 2.0,,2WD,Manual,201.15 bhp
+911,1332 cc,4.0,4.0,,,Petrol,L4 200,BS VI,1395 kg,,Automatic,160.92 bhp
+912,1199 cc,3.0,4.0,,,Petrol,1.2l Turbocharged Revotron Engine,BS VI 2.0,1230 kg,,Manual,118.35 bhp
+913,1248 cc,4.0,4.0,DOHC,CRDi,Diesel,DDiS Diesel Engine,BS IV,960-985 kg,FWD,Manual,74 bhp
+914,1248 cc,4.0,4.0,DOHC,CRDi,Diesel,DDiS Diesel Engine,BS IV,960-985 kg,FWD,Manual,74 bhp
+915,1199 cc,3.0,4.0,,,CNG,1.2L Revotron,BS VI 2.0,,FWD,Manual,74.46 bhp
+916,1199 cc,3.0,4.0,DOHC,MPFi,Petrol,Revotron Engine,BS IV,1012 kg,FWD,Automatic,83.83 bhp
+917,998 cc,3.0,4.0,,,Petrol,1.0 l Turbo GDi petrol,BS VI,1280 kg,,Automatic,118.36 bhp
+918,998 cc,3.0,4.0,DOHC,,CNG,K10B Engine,BS IV,960 kg,FWD,Manual,58.16 bhp
+919,1197 cc,4.0,4.0,DOHC,MPFi,Petrol,VTVT Engine,BS VI,855-885 kg,FWD,Manual,81.80 bhp
+920,1197 cc,4.0,4.0,DOHC,MPFi,Petrol,VTVT Engine,BS VI,855-885 kg,FWD,Manual,81.80 bhp
+921,1497 cc,4.0,4.0,,,Diesel,1.5l Turbocharged Revotorq Engine,BS VI,1395 kg,,Manual,108.49 bhp
+922,998 cc,3.0,4.0,,GDi,Petrol,1.0 l Kappa Turbo,BS VI 2.0,,FWD,Automatic,118 bhp
+923,998 cc,3.0,4.0,,GDi,Petrol,1.0 l Kappa Turbo,BS VI 2.0,,FWD,Automatic,118 bhp
+924,1462 cc,4.0,4.0,DOHC,,Petrol,K15B Petrol Engine,BS VI,1110-1130 kg,FWD,Manual,103.26 bhp
+925,1582 cc,4.0,4.0,DOHC,CRDi,Diesel,U2 CRDI VGT Engine,BS VI,1320 kg,FWD,Automatic,126.2 bhp
+926,998 cc,3.0,4.0,,GDi,Petrol,1.0 l Kappa Turbo,BS VI 2.0,,FWD,Automatic,118 bhp
+927,1497 cc,4.0,4.0,,,Diesel,1.5l Turbocharged Revotorq Engine,BS VI,1395 kg,,Manual,108.49 bhp
+928,1462 cc,4.0,4.0,,,Petrol,K15C Smart Hybrid,BS VI,1150-1205 kg,2WD,Manual,101.65 bhp
+929,1197 cc,4.0,4.0,,,CNG,1.2 l  Bi-Fuel,BS VI 2.0,,FWD,Manual,67.72 bhp
+930,1199 cc,3.0,4.0,,,CNG,1.2L Revotron,BS VI 2.0,,FWD,Manual,74.47 bhp
+931,1373 cc,4.0,4.0,DOHC,MPFI,Petrol,K14B Petrol Engine,BS IV,1175 kg,FWD,Manual,91.1 bhp
+932,1582 cc,4.0,4.0,DOHC,CRDi,Diesel,U2 CRDI VGT Engine,,1340 kg,FWD,Automatic,126.2 bhp
+933,998 cc,3.0,4.0,,,Petrol,K10C,BS VI 2.0,,FWD,Manual,65.71 bhp
+934,3198 cc,4.0,4.0,DOHC,TDCi,Diesel,Diesel Engine,BS IV,1879 kg,4WD,Automatic,197 bhp
+935,1462 cc,4.0,4.0,DOHC,MPFI,Petrol,K15 Smart Hybrid,BS VI,1135-1170 kg,FWD,Manual,103.26 bhp
+936,1373 cc,4.0,4.0,DOHC,MPFI,Petrol,K14B Petrol Engine,BS IV,1180 kg,FWD,Manual,91.1 bhp
+937,1999 cc,4.0,4.0,,,Petrol,mStallion,BS VI 2.0,,FWD,Automatic,197 bhp
+938,1493 cc,4.0,4.0,DOHC,CRDi,Diesel,1.5 L U2 CRDi Diesel,BS VI 2.0,1565 kg,2WD,Manual,113.45 bhp
+939,2755 cc,4.0,4.0,DOHC,Direct Injection,Diesel,2.8 L Diesel engine,BS VI 2.0,,2WD,Automatic,201.15 bhp
+940,1198 cc,3.0,4.0,DOHC,MPFI,Petrol,mFALCON G80 Engine,BSIV,1175 kg,FWD,Manual,82 bhp
+941,1199 cc,3.0,4.0,,,CNG,1.2L Revotron Engine,BS VI,1030 kg,,Manual,72.40 bhp
+942,1199 cc,3.0,4.0,,,CNG,1.2 L Revotron,BS VI 2.0,,FWD,Manual,74.46 bhp
+943,1199 cc,3.0,4.0,,,CNG,1.2L Revotron,BS VI 2.0,,FWD,Manual,74.46 bhp
+944,1396 cc,4.0,4.0,DOHC,CRDi,Diesel,U2 CRDI Engine,,1200 kg,FWD,Manual,88.7 bhp
+945,1968 cc,4.0,4.0,DOHC,CRDI,Diesel,TDI Quattro Engine,Euro V,1830 kg,AWD,Automatic,174.3 bhp
+946,2993 cc,6.0,4.0,,Direct Injection,Diesel,TwinPower Turbo 6-cylinder engine,BS VI,1890 kg,4WD,Automatic,261.50 bhp
+947,,,,,,Electric,,ZEV,,FWD,Automatic,73.75 bhp
+948,1197 cc,4.0,4.0,,Dual Jet VVT,Petrol,Advanced K Series,BS VI 2.0,875-905 kg,FWD,Manual,88.50 bhp
+949,998 cc,3.0,4.0,,,Petrol,K Series Petrol Engine,BS IV,760 kg,FWD,Manual,67.1 bhp
+950,1497 cc,4.0,4.0,,CRDi,Diesel,D15 1.5 Liter Diesel Engi,BS IV,1650 s kg,FWD,Manual,121 bhp
+951,1373 cc,4.0,4.0,DOHC,MPFI,Petrol,K14B Petrol Engine,BS IV,1175 kg,FWD,Manual,91.1 bhp
+952,1493 cc,3.0,4.0,,,Diesel,mHAWk100,BS VI 2.0,,RWD,Manual,98.56 bhp
+953,1197 cc,4.0,4.0,,,Petrol,K Series Dual jet,BS VI,875-905 kg,,Manual,88.50 bhp
+954,2184 cc,4.0,4.0,,,Diesel,mHawk 130 CRDe,BS VI 2.0,,4WD,Automatic,130.07 bhp
+955,2184 cc,4.0,4.0,,,Diesel,mHawk 130 Engine,BS VI,1755 kg,4X4,Automatic,130 bhp
+956,1197 cc,3.0,4.0,,,Petrol,Z12E,BS VI 2.0,920 kg,FWD,Manual,80.46 bhp
+957,1582 cc,4.0,4.0,DOHC,CRDi,Diesel,U2 VGT Diesel Engine,BS IV,1270 kg,FWD,Manual,126.2 bhp
+958,1462 cc,4.0,4.0,DOHC,MPFI,CNG,K15B,BS VI,1235 kg,FWD,Manual,91.19 bhp
+959,2982 cc,4.0,4.0,DOHC,CRDi,Diesel,D-4D Diesel Engine,BS IV,1880 kg,FWD,Automatic,168.5 bhp
+960,2982 cc,4.0,4.0,DOHC,CRDi,Diesel,D-4D Diesel Engine,BS IV,1880 kg,FWD,Automatic,168.5 bhp
+961,1462 cc,4.0,4.0,DOHC,MPFI,CNG,K15B,BS VI,1235 kg,FWD,Manual,91.19 bhp
+962,999 cc,3.0,4.0,DOHC,MPFi,Petrol,Petrol Engine,,730 kg,FWD,Automatic,67 bhp
+963,1995 cc,4.0,4.0,DOHC,CRDi,Diesel,sDrive20d Diesel Engine,BS IV,1550 kg,RWD,Automatic,188 bhp
+964,1995 cc,4.0,4.0,DOHC,CRDi,Diesel,Diesel Engine,BS IV,1590 kg,FWD,Automatic,188 bhp
+965,1493 cc,3.0,2.0,,CRDi,Diesel,mHawk 100 Diesel Engine,,1755 kg,RWD,Manual,100 bhp
+966,796 cc,3.0,4.0,,,Petrol,F8D Petrol Engine,BS VI,755 kg,,Manual,47.33 bhp
+967,1197 cc,4.0,4.0,DOHC,MPFI,Petrol,Kappa VTVT Petrol Engine,BS IV,1066 kg,FWD,Manual,81.83 bhp
+968,1186 cc,3.0,4.0,DOHC,CRDI,Diesel,1.2L U2 CRDi Diesel,BS IV,1080 kg,FWD,Manual,73.97 bhp
+969,1199 cc,3.0,4.0,DOHC,MPFi,Petrol,Revotron Engine,BS IV,1012 kg,FWD,Manual,84 bhp
+970,1396 cc,4.0,4.0,DOHC,CRDI,Diesel,U2 CRDI Diesel Engine,BS IV,1515 kg,FWD,Manual,88.73 bhp
+971,1086 cc,4.0,3.0,SOHC,MPFI,Petrol,IRDE2 Engine,BS IV,860 kg,FWD,Manual,68.05 bhp
+972,1198 cc,3.0,4.0,DOHC,MPFI,Petrol,In-Line Engine,Bharat Stage IV,1070 kg,Two Wheel Drive,Manual,73.9 bhp
+973,999 cc,3.0,4.0,DOHC,MPFi,Petrol,1.0L Petrol Engine,BS IV,750 kg,2WD,Manual,67 bhp
+974,1198 cc,4.0,4.0,SOHC,,Petrol,i-VTEC Petrol Engine,BS IV,950 kg,FWD,Manual,86.7 bhp
+975,1197 cc,4.0,4.0,,MPFI,Petrol,K Series VVT Engine,BS IV,970 kg,FWD,Manual,85.8 bhp
+976,1197 cc,4.0,4.0,,MPFI,Petrol,K Series VVT Engine,BS IV,970 kg,FWD,Manual,85.8 bhp
+977,1498 cc,4.0,2.0,SOHC,Common Rail,Diesel,TDCi Diesel Engine,BS IV,1040-1130 kg,FWD,Manual,99 bhp
+978,1086 cc,4.0,3.0,SOHC,MPFI,Petrol,In-Line Engine,Bharat Stage III,854 kg,,Manual,62 bhp
+979,1086 cc,4.0,3.0,SOHC,MPFI,Petrol,IRDE2 Engine,BS IV,860 kg,FWD,Manual,68.05 bhp
+980,1197 cc,4.0,4.0,DOHC,MPFI,Petrol,Kappa Petrol Engine,BSIV,930 kg,FWD,Manual,78.9 bhp
+981,1197 cc,4.0,4.0,DOHC,MPFI,Petrol,DOHC Kappa2 Engine,BSIV,1100 kg,FWD,Manual,78.9 bhp
+982,1248 cc,4.0,4.0,DOHC,CRDi,Diesel,Quadrajet Engine,BS IV,1155 kg,FWD,Manual,88.7 bhp
+983,1197 cc,4.0,4.0,DOHC,MPFI,Petrol,Kappa Petrol Engine,BSIV,930 kg,FWD,Manual,78.9 bhp
+984,1197 cc,4.0,4.0,DOHC,MPFI,Petrol,Kappa Petrol Engine,BSIV,930 kg,FWD,Manual,78.9 bhp
+985,1197 cc,4.0,4.0,DOHC,MPFI,Petrol,Kappa VTVT Petrol Engine,,1060 kg,FWD,Manual,81.86 bhp
+986,1199 cc,3.0,4.0,,,Petrol,1.2 L Revotron,BS VI,1100 kg,,Manual,84.82 bhp
+987,1186 cc,3.0,4.0,DOHC,CRDI,Diesel,U2 CRDI Diesel Engine,,1100 kg,FWD,Manual,73.97 bhp
+988,1199 cc,3.0,4.0,DOHC,MPFi,Petrol,Revotron Engine,BS IV,980 kg,FWD,Manual,84 bhp
+989,1197 cc,4.0,4.0,DOHC,MPFI,Petrol,Kappa VTVT Petrol Engine,BS IV,1066 kg,FWD,Manual,81.83 bhp
+990,1120 cc,3.0,4.0,DOHC,CRDi,Diesel,U2 CRDi  Diesel Engine,BS IV,1025 kg,FWD,Manual,70 bhp
+991,1497 cc,4.0,4.0,SOHC,PGM-Fi,Petrol,i VTEC Engine,BS IV,1042 kg,FWD,Manual,117.3 bhp
+992,1396 cc,4.0,4.0,DOHC,CRDI,Diesel,U2 CRDI Diesel Engine,,1160 kg,FWD,Manual,88.76 bhp
+993,1497 cc,4.0,4.0,SOHC,PGM-Fi,Petrol,i VTEC Engine,BS IV,1063 kg,FWD,Manual,117.6 bhp
+994,1197 cc,4.0,4.0,DOHC,MPFI,Petrol,Kappa VTVT Petrol Engine,BSIV,1040 kg,FWD,Manual,82.85 bhp
+995,1199 cc,4.0,4.0,SOHC,MPFi,Petrol,i-VTEC Petrol Engine,BS IV,917 kg,FWD,Manual,88.76 bhp
+996,1086 cc,4.0,3.0,SOHC,MPFI,Petrol,IRDE2 Engine,BS IV,860 kg,FWD,Manual,68.05 bhp
+997,1197 cc,4.0,4.0,DOHC,MPFI,Petrol,Kappa VTVT Petrol Engine,BS IV,1066 kg,FWD,Manual,81.83 bhp
+998,1197 cc,4.0,4.0,DOHC,Direct Injection,Petrol,Kappa VTVT Petrol Engine,BS IV,1160 kg,FWD,Manual,82 bhp
+999,1497 cc,4.0,4.0,SOHC,PGM-Fi,Petrol,i VTEC Engine,BS IV,1100 kg,FWD,Automatic,117.6 bhp
+1000,1199 cc,4.0,4.0,SOHC,,Petrol,i-VTEC,BS VI,907-934 kg,,Manual,88.50 bhp
+1001,1591 cc,4.0,4.0,DOHC,MPFI,Petrol,VTVT Petrol Engine,,1260 kg,FWD,Manual,121.3 bhp
+1002,1956 cc,4.0,4.0,,,Diesel,Kryotec 2.0L,BS VI 2.0,,FWD,Manual,167.62 bhp
+1003,1086 cc,4.0,3.0,SOHC,MPFI,Petrol,IRDE2 Engine,BS IV,860 kg,FWD,Manual,68.05 bhp
+1004,1498 cc,4.0,4.0,,TSI,Petrol,1.5L TSI EVO with ACT,BS VI 2.0,1312 kg,FWD,Automatic,147.51 bhp
+1005,1956 cc,4.0,4.0,DOHC,CRDI,Diesel,2.0-Litre 4-Cyl Multijet,,1551 s kg,4X2,Manual,170.63 bhp
+1006,1497 cc,4.0,4.0,,MPi,Petrol,SmartStream G1.5,BS VI 2.0,,2WD,Automatic,113.42 bhp
+1007,1462 cc,4.0,4.0,,,Petrol,K15B,BS VI 2.0,1145-1290 kg,FWD,Manual,101.64 bhp
+1008,1984 cc,4.0,4.0,,Direct Injection,Petrol,2.0 TSI,BS VI,1703 kg,AWD,Automatic,187.74 bhp
+1009,998 cc,3.0,4.0,,,Petrol,K Series Petrol Engine,BS IV,760 kg,FWD,Manual,67.1 bhp
+1010,1364 cc,4.0,4.0,,,Diesel,,,920 kg,,Manual,
+1011,1198 cc,3.0,4.0,DOHC,EFI,Petrol,Naturally Aspirated 12V D,BS IV,882 kg,FWD,Manual,67 bhp
+1012,1498 cc,4.0,4.0,DOHC,CRDi,Diesel,i-DTEC Diesel Engine,BS IV,1065 kg,FWD,Manual,98.6 bhp
+1013,998 cc,3.0,4.0,DOHC,,Petrol,K10B Petrol Engine,BS IV,885 kg,FWD,Manual,67.04 bhp
+1014,1199 cc,3.0,4.0,DOHC,MPFi,Petrol,Revotron Engine,BS IV,1012 kg,FWD,Manual,84 bhp
+1015,998 cc,3.0,4.0,,MPFI,Petrol,K Series Petrol Engine,BS IV,870 kg,FWD,Manual,67.1 bhp
+1016,998 cc,3.0,4.0,DOHC,,Petrol,K10B Petrol Engine,BS IV,885 kg,FWD,Manual,67.04 bhp
+1017,998 cc,3.0,4.0,,MPFI,Petrol,K Series Petrol Engine,BS IV,885 kg,FWD,Manual,67.1 bhp
+1018,1193 cc,4.0,2.0,SOHC,MPFi,Petrol,Revotron Engine,BS IV,1115 kg,FWD,Manual,88.7 bhp
+1019,999 cc,3.0,4.0,DOHC,MPFi,Petrol,Petrol Engine,,730 kg,FWD,Manual,67 bhp
+1020,998 cc,3.0,4.0,DOHC,,Petrol,K10B Petrol Engine,BS IV,870 kg,FWD,Manual,67.04 bhp
+1021,998 cc,3.0,4.0,,MPFI,Petrol,K Series Petrol Engine,BS IV,885 kg,FWD,Manual,67.1 bhp
+1022,1461 cc,4.0,2.0,SOHC,Common Rail,Diesel,In-Line Diesel Engine,Bharat Stage IV,1008 kg,Two Whhel Drive,Manual,63.1 bhp
+1023,1198 cc,3.0,4.0,DOHC,EFI,Petrol,Naturally Aspirated 12V D,BS IV,882 kg,FWD,Manual,67 bhp
+1024,998 cc,3.0,4.0,DOHC,MPFi,Petrol,K10B Engine,BS IV,835 kg,FWD,Manual,67.04 bhp
+1025,814 cc,3.0,3.0,SOHC,MPFI,Petrol,Petrol Engine,,860 kg,FWD,Manual,55.2 bhp
+1026,1120 cc,3.0,4.0,DOHC,CRDI,Diesel,U2 CRDI Diesel Engine,BS IV,1100 kg,FWD,Manual,71 bhp
+1027,1248 cc,4.0,4.0,,CRDI,Diesel,DDiS Diesel Engine,BS IV,1080 kg,FWD,Manual,74 bhp
+1028,1798 cc,4.0,4.0,DOHC,EFI(Electronic Fuel Injection),Petrol,DOHC Dual VVT-i Petrol En,BS IV,1340 kg,FWD,Manual,138.1 bhp
+1029,998 cc,3.0,4.0,DOHC,,Petrol,K10B Petrol Engine,BS IV,885 kg,FWD,Manual,67.04 bhp
+1030,998 cc,3.0,4.0,DOHC,,Petrol,K10B Petrol Engine,BS IV,870 kg,FWD,Manual,67.04 bhp
+1031,1197 cc,4.0,4.0,DOHC,MPFI,Petrol,Petrol Engine,BSIV,930 kg,FWD,Manual,78.9 bhp
+1032,1198 cc,3.0,4.0,DOHC,Electronic Fuel Injection,Petrol,In Line Petrol Engine,BS IV,940 kg,FWD,Manual,75 bhp
+1033,1591 cc,4.0,4.0,DOHC,MPFI,Petrol,VTVT Petrol Engine,BS VI,"1,300 kg",FWD,Manual,121.3 bhp
+1034,1496 cc,4.0,4.0,DOHC,EFI(Electronic Fuel Injection),Petrol,Petrol Engine,,920 kg,,Manual,88.73 bhp
+1035,1248 cc,4.0,4.0,DOHC,CRDi,Diesel,DDiS Diesel Engine,BS IV,985 kg,FWD,Manual,74 bhp
+1036,1248 cc,4.0,4.0,,,Diesel,DDiS Diesel Engine,BS VI,945 kg,,Manual,74.02 bhp
+1037,1198 cc,4.0,4.0,SOHC,MPFi,Petrol,i-VTEC Petrol Engine,BS IV,955 kg,FWD,Manual,86.7 bhp
+1038,1248 cc,4.0,4.0,DOHC,CRDI,Diesel,DDiS Diesel Engine,BS IV,1045 kg,FWD,Manual,74 bhp
+1039,1199 cc,4.0,4.0,SOHC,MPFi,Petrol,i-VTEC Petrol Engine,BS IV,921 kg,FWD,Manual,88.76 bhp
+1040,1197 cc,4.0,4.0,DOHC,MPFI,Petrol,K Series VVT Engine,BS VI,860-895 kg,FWD,Manual,81.80 bhp
+1041,1197 cc,4.0,4.0,DOHC,MPFI,Petrol,1.2L Kappa Dual VTVT Petr,BS IV,1120 kg,FWD,Manual,81.86 bhp
+1042,1197 cc,4.0,4.0,DOHC,MPFI,Petrol,K Series VVT Engine,BS IV,945 kg,FWD,Manual,83.14 bhp
+1043,1396 cc,4.0,4.0,DOHC,CRDI,Diesel,U2 CRDI Diesel Engine,BS IV,1515 kg,FWD,Manual,88.73 bhp
+1044,1197 cc,4.0,4.0,DOHC,MPFI,Petrol,VVT Petrol Engine,BS IV,880 kg,FWD,Manual,83.1 bhp
+1045,1591 cc,4.0,4.0,DOHC,MPFI,Petrol,VTVT Petrol Engine,BS IV,,FWD,Manual,121.3 bhp
+1046,1248 cc,4.0,4.0,DOHC,CRDI,Diesel,DDiS Diesel Engine,BS IV,1055 kg,FWD,Manual,74 bhp
+1047,1197 cc,4.0,4.0,SOHC,MPFI,Petrol,1.2-Litre VVT Petrol Engi,BS IV,835 kg,FWD,Manual,81.80 bhp
+1048,1396 cc,4.0,4.0,DOHC,CRDI,Diesel,U2 CRDI Diesel Engine,BS IV,1120 kg,FWD,Manual,88.76 bhp
+1049,998 cc,3.0,4.0,DOHC,,Petrol,K10B Petrol Engine,BS IV,895 kg,FWD,Automatic,67 bhp
+1050,1498 cc,4.0,4.0,DOHC,Direct Injection,Diesel,i DTEC Diesel Engine,BS IV,1125 kg,FWD,Manual,98.6 bhp
+1051,,,,,,,,,,,,
+1052,1956 cc,4.0,4.0,DOHC,CRDI,Diesel,2.0-Litre 4-Cyl Multijet,BS IV,1551 s kg,4X2,Manual,170 bhp
+1053,999 cc,3.0,4.0,,Direct Injection,Petrol,1.0 L TSI Petrol,BS VI 2.0,1160-1216 kg,FWD,Manual,113.98 bhp
+1054,1199 cc,3.0,4.0,,,Petrol,1.2L Revotron Engine,BS VI,1030 kg,,Manual,84.82 bhp
+1055,1956 cc,4.0,4.0,DOHC,,Diesel,2.0-Litre 4-Cyl Multijet,BS IV,1562 s kg,4X2,Manual,170 bhp
+1056,1451 cc,4.0,4.0,,,Petrol,1.5 L Turbocharged Intercooled,BS VI 2.0,,FWD,Automatic,141.04 bhp
+1057,1451 cc,4.0,4.0,,,Petrol,1.5L Turbocharged Intercooled,BS VI,1820 kg,,Automatic,141 bhp
+1058,1198 cc,4.0,4.0,SOHC,PGM - Fi,Petrol,i-VTEC Engine,BS IV,925 kg,FWD,Manual,86.8 bhp
+1059,1496 cc,4.0,4.0,DOHC,EFI,Petrol,1.5 Dual VVT-i Engine,,1135 kg,FWD,Automatic,105.5 bhp
+1060,1248 cc,4.0,4.0,DOHC,DDIS,Diesel,DDiS 200 Diesel Engine,BS IV,1230 kg,FWD,Manual,88.5 bhp
+1061,2694 cc,4.0,4.0,DOHC,Direct Injection,Petrol,2.7L Petrol Engine,BS VI 2.0,,2WD,Manual,163.60 bhp
+1062,2198 cc,4.0,4.0,DOHC,TDCi,Diesel,TDCI Diesel Engine,BS IV,2238 kg,RWD,Automatic,158.2 bhp
+1063,1197 cc,4.0,4.0,DOHC,MPFI,Petrol,Kappa VTVT Petrol Engine,,1120 kg,FWD,Manual,81.86 bhp
+1064,1995 cc,4.0,4.0,DOHC,CRDi,Diesel,TwinPower Turbo 4-cylinder engine,BS VI,1690 kg,AWD,Automatic,187.7 bhp
+1065,999 cc,3.0,4.0,,,Petrol,1.0 TSI Petrol,BS VI 2.0,1160-1216 kg,FWD,Manual,114 bhp
+1066,1396 cc,4.0,4.0,DOHC,CRDi,Diesel,U2 CRDI Engine,BS VI,1240 kg,FWD,Manual,88.7 bhp
+1067,1197 cc,4.0,4.0,DOHC,MPFI,Petrol,Kappa VTVT Petrol Engine,,1120 kg,FWD,Manual,81.86 bhp
+1068,1197 cc,4.0,4.0,DOHC,MPFI,Petrol,Kappa VTVT Petrol Engine,,1120 kg,FWD,Manual,81.86 bhp
+1069,1197 cc,4.0,4.0,DOHC,MPFI,Petrol,Kappa VTVT Petrol Engine,BS IV,935 kg,FWD,Manual,82 bhp
+1070,2523 cc,4.0,4.0,,,Diesel,m2DiCR 4 Cyl 2.5L,BS VI 2.0,1620 kg,RWD,Manual,65.03 bhp
+1071,2694 cc,4.0,4.0,DOHC,Direct Injection,Petrol,2.7L Petrol Engine,BS VI 2.0,,2WD,Manual,163.60 bhp
+1072,1197 cc,4.0,4.0,DOHC,MPFI,Petrol,Kappa VTVT Petrol Engine,,1100 kg,FWD,Manual,81.86 bhp
+1073,1086 cc,4.0,3.0,SOHC,MPFI,Petrol,IRDE2 Engine,BS IV,860 kg,FWD,Manual,68.05 bhp
