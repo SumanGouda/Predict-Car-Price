@@ -1,0 +1,13 @@
+Engine
+No. of Cylinders
+Valves Per Cylinder
+Valve Configuration
+Fuel Supply System
+Turbo Charger 
+Fuel Type
+Engine Type
+Emission Norm Compliance
+Kerb Weight
+Drive Type
+Transmission
+Power
