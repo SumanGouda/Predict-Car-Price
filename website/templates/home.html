@@ -1,0 +1,226 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <title>Predict Second Hand Car Details</title>
+        <link rel = "stylesheet" href = "{{ url_for('static', filename='style.css') }}">
+    </head>
+    <body>
+
+        <div class="page">
+            <div class="header">
+                <h1>Car Details</h1>
+                <div class="card"> 
+                <form action="/predict/mileage" method="post" class="form-grid">
+
+                    <!-- Engine -->
+                    <div class="form-group">
+                        <label>Engine</label>
+                        <input class="form-input" type="number" name="engine" step="any" placeholder="Enter Engine Displacement" required>
+                    </div>
+
+                    <!-- Kerb Weight -->
+                    <div class="form-group">
+                        <label>Kerb Weight</label>
+                        <input class="form-input" type="number" name="kerb_weight" step="any" placeholder="Enter Kerb Weight" required>
+                    </div>
+
+                    <!-- Fuel -->
+                    <div class="form-group">
+                        <label>Fuel Type</label>
+                        <select class="form-dropdown" name="fuel_type" required>
+                            <option value="" disabled selected>Select Fuel Type</option>
+                            <option value="Petrol">Petrol</option>
+                            <option value="Diesel">Diesel</option>
+                            <option value="CNG">CNG</option>
+                        </select>
+                    </div>
+
+                    <!-- Transmission Type -->
+                    <div class="form-group">
+                        <label>Transmission Type</label>
+                        <select class="form-dropdown" name="transmission_type" required>
+                            <option value="" disabled selected>Select Transmission Type</option>
+                            <option value="0">Manual</option>
+                            <option value="1">Automatic</option>
+                        </select>
+                    </div>
+
+                    <!-- Power -->
+                    <div class="form-group">
+                        <label>Power</label>
+                        <input class="form-input" type="number" name="power" step="any" placeholder="Enter Power in BHP" required>
+                    </div>
+
+                    <!-- No. of Cylinders -->
+                    <div class="form-group">
+                        <label>No. of Cylinders</label>
+                        <input class="form-input" type="number" name="cylinders" step="any" placeholder="Enter No. of Cylinders" required>
+                    </div>
+
+                    <!-- Registration Year -->
+                    <div class="form-group">
+                        <label>Registration Year</label>
+                        <input class="form-input" type="number" name="year" step="1" min="1990" max="2025" placeholder="Enter Registration Year" required>
+                    </div>
+
+                    <!-- Submit Button -->
+                    <div class="form-group">
+                        <button type="submit" class="form-btn">Predict Mileage</button>
+                    </div>
+
+                </form>
+                
+                <!-- Result -->
+                {% if mileage_prediction %}
+                <div class="result-card">
+                    <h3>Predicted Mileage</h3>
+                    <p class="result-value">{{ mileage_prediction }} kmpl</p>
+                </div>
+                {% endif %}
+
+                <form action="/predict/power" method="POST" class="form-grid">
+
+                    <!-- Engine -->
+                    <div class="form-group">
+                        <label>Engine</label>
+                        <input class="form-input" type="number" name="engine" step="any" placeholder="Enter Engine Displacement" required>
+                    </div>
+
+                    <!-- No. of Cylinders -->
+                    <div class="form-group">
+                        <label>No. of Cylinders</label>
+                        <input class="form-input" type="number" name="cylinders" step="any" placeholder="Enter No. of Cylinders" required>
+                    </div>
+
+                    <!-- Valves Per Cylinder -->
+                    <div class="form-group">
+                        <label>Valves Per Cylinder</label>
+                        <input class="form-input" type="number" name="valves_per_cylinder" step="any" placeholder="Enter Valves Per Cylinder" required>
+                    </div>
+
+                    <!-- Valve Configuration -->
+                     <div class="form-group">
+                        <label>Valve Configuration</label>
+                        <select class="form-dropdown" name="valve_configuration">
+                            <option value="DOHC" selected>DOHC</option>
+                            <option value="SOHC">SOHC</option>
+                            <option value="iDSI">iDSI</option>
+                        </select>
+                     </div>
+
+                    <!-- Fuel Supply System -->
+                     <div class="form-group">
+                        <label>Fuel Supply System</label>
+                        <select class="form-dropdown" name="fuel_supply_system">
+                            <option value="MPFI" selected>MPFI</option>
+                            <option value="CRDI">CRDI</option>
+                            <option value="GDI">GDI</option>
+                            <option value="Other">Other</option>
+                            <option value="EFI">EFI</option>
+                        </select>
+                     </div>
+
+                    <!-- Turbo Charger -->
+                    <div class="form-group">
+                        <label>Turbo Charger</label>
+                        <select class="form-dropdown" name="turbo_charger" required>
+                            <option value="" disabled selected>Select Turbo Charger</option>
+                            <option value="1">Yes</option>
+                            <option value="0">No</option>
+                        </select>
+                    </div>
+
+                    <!-- Fuel Type -->
+                    <div class="form-group">
+                        <label>Fuel Type</label>
+                        <select class="form-dropdown" name="fuel_type" required>
+                            <option value="" disabled selected>Select Fuel Type</option>
+                            <option value="Petrol">Petrol</option>
+                            <option value="Diesel">Diesel</option>
+                            <option value="CNG">CNG</option>  
+                        </select>
+                    </div>
+
+                    <!-- Engine Type -->
+                     <div class="form-group">
+                        <label>Engine Type</label>
+                        <select class="form-dropdown" name="engine_type">
+                            <option value="Kappa" selected>Kappa</option>
+                            <option value="DDiS">DDiS</option>
+                            <option value="Diesel">Diesel</option>
+                            <option value="F8D">F8D</option>
+                            <option value="IRDE2">IRDE2</option>
+                            <option value="In-Line">In-Line</option>
+                            <option value="K Series">K Series</option>
+                            <option value="Kryotec">Kryotec</option>
+                            <option value="Other">Other</option>
+                            <option value="Petrol">Petrol</option>
+                            <option value="Revotorq">Revotorq</option>
+                            <option value="Revotron">Revotron</option>
+                            <option value="SmartStream">SmartStream</option>
+                            <option value="TDI">TDI</option>
+                            <option value="TSI">TSI</option>
+                            <option value="Toyota Diesel">Toyota Diesel</option>
+                            <option value="TwinPower">TwinPower</option>
+                            <option value="VVT">VVT</option>
+                            <option value="i-DTEC">i-DTEC</option>
+                            <option value="i-VTEC">i-VTEC</option>
+                            <option value="mHawk">mHawk</option>
+                            <option value="mStallion">mStallion</option>
+                        </select>
+                     </div>
+
+                    <!-- Emission Norm Compliance -->
+                     <div class="form-group">
+                        <label>Emission Norm Compliance</label>
+                        <select class="form-dropdown" name="emission_norm">
+                            <option value="BS6" selected>BS6</option>
+                            <option value="BS4">BS4</option>
+                            <option value="EURO">EURO</option>
+                        </select>
+                     </div>
+
+                    <!-- Kerb Weight -->
+                    <div class="form-group">
+                        <label>Kerb Weight</label>
+                        <input class="form-input" type="number" name="kerb_weight" step="any" placeholder="Enter Kerb Weight (kg)" required>
+                    </div>
+
+                    <!-- Drive Type -->
+                    <div class="form-group">
+                        <label>Drive Type</label>
+                        <select class="form-dropdown" name="drive_type">
+                            <option value="FWD" selected>FWD</option>
+                            <option value="RWD">RWD</option>
+                        </select>
+                    </div>
+
+                    <!-- Transmission -->
+                    <div class="form-group">
+                        <label>Transmission</label>
+                        <select class="form-dropdown" name="transmission" required>
+                            <option value="" disabled selected>Select Transmission</option>
+                            <option value="0">Manual</option>
+                            <option value="1">Automatic</option>
+                        </select>
+                    </div> 
+
+                    <!-- Submit Button -->
+                    <div class="form-group">
+                        <button type="submit" class="form-btn">Predict Price</button>
+                    </div>
+
+                </form>
+                
+                <!---Result-->
+                {% if power_prediction %}
+                <div class="result-card">
+                    <h3>Predicted Power</h3>
+                    <p class="result-value">{{ power_prediction }} BHP</p>
+                </div>
+                {% endif %}
+
+            </div>  
+        </div>
+    </body>
+</html>
