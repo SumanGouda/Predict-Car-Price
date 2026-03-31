@@ -3627,3 +3627,744 @@ Mileage,Engine,Kerb Weight,Fuel,Transmission Type,Power,No. of Cylinders,Registr
 34.43 km/kg,998 cc,905 kg,CNG,Manual,55.92 bhp,3.0,Nov 2018
 26.6 km/kg,998 cc,960 kg,CNG,Manual,58.16 bhp,3.0,Jul 2018
 19.28 kmpl,1199 cc,1030 kg,Petrol,Manual,84.82 bhp,3.0,Aug 2022
+,2993 cc,1885 kg,Diesel,Automatic,261.4 bhp,6.0,2018
+16.65 kmpl,1968 cc,1720 kg,,Automatic,141 bhp,4.0,Nov 2018
+20 kmpl,1399 cc,1130 kg,Diesel,Manual,68.05 bhp,4.0,Jul 2015
+17.8 kmpl,1493 cc,1495 kg,Diesel,Automatic,113.42 bhp,4.0,Jan 2019
+20.7 kmpl,1197 cc,1140 kg,Petrol,Automatic,81.86 bhp,4.0,2019
+18.9 kmpl,1197 cc,1060 kg,Petrol,Manual,81.86 bhp,4.0,Nov 2017
+,1969 cc,1945 kg,Petrol,Automatic,250 bhp,4.0,Feb 2023
+12 kmpl,2755 cc,,Diesel,Automatic,201.15 bhp,4.0,Aug 2023
+20.7 kmpl,1197 cc,1100 kg,Petrol,Manual,81.86 bhp,4.0,2022
+8 kmpl,1997 cc,,,Automatic,150.19 bhp,4.0,2023
+19.33 kmpl,1199 cc,1135 kg,Petrol,Manual,86.83 bhp,3.0,2021
+13.14 kmpl,1798 cc,1520 kg,Petrol,Manual,,4.0,2013
+17.24 kmpl,1198 cc,1055 kg,Petrol,Manual,73.9 bhp,3.0,2010
+,1462 cc,1225 kg,Petrol,Automatic,101.64 bhp,4.0,2023
+16.47 kmpl,1198 cc,1053 kg,Petrol,Manual,74 bhp,3.0,2014
+23.8 kmpl,1498 cc,1039 kg,Diesel,Automatic,78.9 bhp,4.0,Jul 2018
+18.9 kmpl,1197 cc,935 kg,Petrol,Automatic,82 bhp,4.0,Jan 2014
+18.45 kmpl,1497 cc,1200 kg,Petrol,Automatic,113.18 bhp,4.0,May 2023
+25.1 kmpl,1248 cc,1240 kg,,Manual,88.5 bhp,4.0,Jan 2020
+,2987 cc,1835 kg,Diesel,Automatic,254.8 bhp,6.0,Feb 2017
+16.47 kmpl,1198 cc,1030 kg,Petrol,Manual,73.9 bhp,3.0,May 2012
+16.47 kmpl,1198 cc,1055 kg,Petrol,Manual,73.9 bhp,3.0,May 2015
+17.1 kmpl,1956 cc,1551 s kg,,Manual,170 bhp,4.0,Oct 2020
+20.5 kmpl,999 cc,1021 kg,Petrol,Manual,71.01 bhp,3.0,2021
+21 kmpl,1197 cc,1160 kg,Petrol,Manual,81.80 bhp,4.0,Jun 2021
+22.54 kmpl,1396 cc,1180 kg,Diesel,Manual,88.76 bhp,4.0,Mar 2019
+18 kmpl,998 cc,,Petrol,Automatic,118.41 bhp,3.0,2024
+16 kmpl,1197 cc,,Petrol,Manual,82 bhp,4.0,Feb 2023
+22.38 kmpl,1197 cc,875-905 kg,Petrol,Manual,88.50 bhp,4.0,Jan 2021
+18.6 kmpl,1197 cc,1066 kg,Petrol,Manual,81.83 bhp,4.0,Sept 2017
+21.7 kmpl,1498 cc,1277 kg,,Manual,98.96 bhp,4.0,2020
+18.6 kmpl,1197 cc,1120 kg,Petrol,Manual,81.86 bhp,4.0,Jul 2019
+25 kmpl,1493 cc,1260 kg,Diesel,Manual,98.63 bhp,4.0,Jun 2022
+17.4 kmpl,1197 cc,1054-1093 kg,Petrol,Automatic,81.86 bhp,4.0,Feb 2020
+16 kmpl,2179 cc,1960 kg,,Automatic,140 bhp,4.0,Nov 2016
+17.4 kmpl,1197 cc,1054-1093 kg,Petrol,Automatic,81.86 bhp,4.0,Sept 2018
+17.4 kmpl,1197 cc,1054-1093 kg,Petrol,Automatic,81.86 bhp,4.0,Aug 2018
+16 kmpl,1197 cc,,Petrol,Manual,82 bhp,4.0,Mar 2024
+22.56 kmpl,1197 cc,875-905 kg,Petrol,Automatic,88.50 bhp,4.0,Jul 2022
+17 kmpl,1197 cc,1100 kg,Petrol,Manual,,4.0,Oct 2011
+18.4 kmpl,1197 cc,,Petrol,Manual,81.8 bhp,4.0,2024
+20 kmpl,1197 cc,,Petrol,Automatic,87 bhp,4.0,Apr 2023
+22.38 kmpl,1197 cc,875-905 kg,Petrol,Manual,88.50 bhp,4.0,Feb 2019
+21 kmpl,1197 cc,1120 kg,Petrol,Manual,81.80 bhp,4.0,Feb 2021
+18.6 kmpl,1197 cc,1066 kg,Petrol,Manual,81.83 bhp,4.0,Mar 2021
+20.4 kmpl,1197 cc,855 kg,Petrol,Manual,83.11 bhp,4.0,May 2015
+17 kmpl,1197 cc,1485 kg,Petrol,Automatic,108.62 bhp,3.0,2022
+16.47 kmpl,1198 cc,1030 kg,Petrol,Manual,73.9 bhp,3.0,2013
+18.6 kmpl,1197 cc,1160 kg,Petrol,Manual,81.86 bhp,4.0,Jun 2020
+18.6 kmpl,1197 cc,1140 kg,Petrol,Manual,81.86 bhp,4.0,Jul 2019
+18.9 kmpl,1197 cc,1060 kg,Petrol,Manual,81.86 bhp,4.0,Mar 2020
+18 kmpl,1497 cc,1080 kg,Petrol,Automatic,117.6 bhp,4.0,2019
+21.21 kmpl,1197 cc,855-885 kg,Petrol,Manual,81.80 bhp,4.0,Jul 2015
+17.4 kmpl,1197 cc,1054-1093 kg,Petrol,Automatic,81.86 bhp,4.0,Aug 2019
+21.21 kmpl,1197 cc,855-885 kg,Petrol,Manual,81.80 bhp,4.0,Mar 2019
+17.4 kmpl,1197 cc,1054-1093 kg,Petrol,Automatic,81.86 bhp,4.0,Dec 2018
+22.38 kmpl,1197 cc,875-905 kg,Petrol,Manual,88.50 bhp,4.0,Jul 2023
+22.38 kmpl,1197 cc,875-905 kg,Petrol,Manual,88.50 bhp,4.0,Jul 2013
+,1995 cc,1720 kg,Diesel,Automatic,188 bhp,4.0,Nov 2018
+20 kmpl,998 cc,1210 kg,Petrol,Automatic,118.41 bhp,3.0,Aug 2023
+20.89 kmpl,1197 cc,840-865 kg,Petrol,Manual,81.80 bhp,4.0,Dec 2022
+22.56 kmpl,1197 cc,875-905 kg,Petrol,Automatic,88.50 bhp,4.0,Mar 2019
+,2987 cc,2185 kg,Diesel,Automatic,,6.0,Oct 2015
+20.4 kmpl,1197 cc,865 kg,Petrol,Manual,81.80 bhp,4.0,Jun 2016
+16.1 kmpl,1197 cc,1010 kg,Petrol,Manual,,4.0,Apr 2011
+22.94 kmpl,1197 cc,940-960 kg,Petrol,Automatic,88.50 bhp,4.0,Dec 2022
+18.6 kmpl,1197 cc,1140 kg,Petrol,Manual,81.86 bhp,4.0,2019
+21.21 kmpl,1197 cc,855-885 kg,Petrol,Manual,81.80 bhp,4.0,2018
+20 kmpl,998 cc,1240 kg,Petrol,Manual,118.36 bhp,3.0,2021
+18.6 kmpl,1197 cc,1066 kg,Petrol,Manual,81.83 bhp,4.0,2018
+20.36 kmpl,1197 cc,930 kg,Petrol,Manual,78.9 bhp,4.0,2011
+18.9 kmpl,1197 cc,935 kg,Petrol,Manual,82 bhp,4.0,2013
+21.4 kmpl,1197 cc,880 kg,Petrol,Manual,83.1 bhp,4.0,Apr 2019
+22.56 kmpl,1197 cc,875-905 kg,Petrol,Automatic,88.50 bhp,4.0,Dec 2019
+23.1 kmpl,998 cc,835 kg,Petrol,Manual,67.04 bhp,3.0,Jul 2018
+21.21 kmpl,1197 cc,855-885 kg,Petrol,Manual,81.80 bhp,4.0,Jun 2021
+15 kmpl,1396 cc,1220 kg,Petrol,Automatic,,4.0,Oct 2011
+18.9 kmpl,1197 cc,1120 kg,Petrol,Manual,81.86 bhp,4.0,Mar 2021
+22.38 kmpl,1197 cc,875-905 kg,Petrol,Manual,88.50 bhp,4.0,Dec 2018
+24.97 kmpl,998 cc,820 kg,Petrol,Manual,67.77 bhp,3.0,Nov 2022
+21.21 kmpl,1197 cc,855-885 kg,Petrol,Manual,81.80 bhp,4.0,Oct 2021
+22.54 kmpl,1396 cc,1515 kg,Diesel,Manual,88.73 bhp,4.0,Jul 2018
+21.21 kmpl,1197 cc,855-885 kg,Petrol,Manual,81.80 bhp,4.0,Apr 2019
+18.6 kmpl,1197 cc,990 kg,Petrol,Manual,85.8 bhp,4.0,May 2023
+25.2 kmpl,1248 cc,985 kg,Diesel,Manual,74 bhp,4.0,Jun 2016
+21.21 kmpl,1197 cc,855-885 kg,Petrol,Automatic,81.80 bhp,4.0,Jan 2019
+21.21 kmpl,1197 cc,855-885 kg,Petrol,Manual,81.80 bhp,4.0,Mar 2016
+26 kmpl,998 cc,820 kg,Petrol,Automatic,65.71 bhp,3.0,Dec 2022
+20.4 kmpl,1197 cc,855 kg,Petrol,Manual,81.80 bhp,4.0,Jun 2016
+21.4 kmpl,1197 cc,880 kg,Petrol,Manual,83.1 bhp,4.0,Nov 2017
+18.6 kmpl,1197 cc,990 kg,Petrol,Manual,85.8 bhp,4.0,Jan 2013
+21.21 kmpl,1197 cc,855-885 kg,Petrol,Manual,81.80 bhp,4.0,Jan 2016
+22 kmpl,1197 cc,870 kg,Petrol,Manual,81.80 bhp,4.0,Apr 2015
+25.24 kmpl,998 cc,810 kg,Petrol,Manual,67.77 bhp,3.0,Apr 2018
+21 kmpl,1197 cc,1140 kg,Petrol,Manual,81.86 bhp,4.0,Aug 2022
+22 kmpl,1197 cc,860s kg,Petrol,Manual,81.80 bhp,4.0,Mar 2014
+21.4 kmpl,1197 cc,890 kg,Petrol,Manual,83.1 bhp,4.0,Jul 2016
+25.2 kmpl,1248 cc,960 kg,Diesel,Manual,74 bhp,4.0,Oct 2017
+25.24 kmpl,998 cc,810 kg,Petrol,Manual,67.77 bhp,3.0,Sept 2018
+20.25 kmpl,998 cc,1220 kg,Petrol,Automatic,118.41 bhp,3.0,Aug 2021
+26 kmpl,998 cc,820 kg,Petrol,Automatic,67.77 bhp,3.0,Jun 2017
+18.9 kmpl,1197 cc,1080 kg,Petrol,Manual,81.86 bhp,4.0,Oct 2017
+18 kmpl,1197 cc,,Petrol,Manual,82 bhp,4.0,Mar 2025
+27.39 kmpl,1248 cc,985 kg,Diesel,Manual,74 bhp,4.0,Sept 2018
+20.89 kmpl,1197 cc,835 kg,Petrol,Manual,81.80 bhp,4.0,Feb 2018
+19.81 kmpl,1086 cc,860 kg,Petrol,Manual,68.05 bhp,4.0,May 2014
+20.7 kmpl,998 cc,1180 kg,Petrol,Manual,98.63 bhp,3.0,Dec 2025
+21.4 kmpl,1197 cc,890 kg,Petrol,Manual,83.1 bhp,4.0,Dec 2017
+21.4 kmpl,1197 cc,880 kg,Petrol,Manual,83.1 bhp,4.0,Jan 2019
+23.1 kmpl,998 cc,835 kg,Petrol,Manual,67.04 bhp,3.0,Aug 2017
+18.6 kmpl,1498 cc,1107-1153 kg,Petrol,Manual,119.35 bhp,4.0,2021
+20.7 kmpl,1197 cc,1100 kg,Petrol,Manual,81.86 bhp,4.0,Apr 2021
+34.05 km/kg,998 cc,920 kg,CNG,Manual,55.92 bhp,3.0,Jul 2023
+27 km/kg,1197 cc,,CNG,Manual,68 bhp,4.0,Oct 2022
+20.7 kmpl,1197 cc,1160 kg,Petrol,Manual,81.86 bhp,4.0,Jan 2022
+18.9 kmpl,1197 cc,935 kg,Petrol,Manual,82 bhp,4.0,Mar 2014
+22 kmpl,1197 cc,865 kg,Petrol,Automatic,81.80 bhp,4.0,May 2019
+21.01 kmpl,1197 cc,865-890 kg,Petrol,Manual,81.80 bhp,4.0,Nov 2021
+19.33 kmpl,1199 cc,,Petrol,Manual,86.79 bhp,3.0,Nov 2020
+18.9 kmpl,1197 cc,1120 kg,Petrol,Manual,81.86 bhp,4.0,Apr 2016
+25.2 kmpl,1248 cc,965 kg,Diesel,Manual,74 bhp,4.0,Apr 2016
+23.01 kmpl,999 cc,730 kg,Petrol,Manual,67 bhp,3.0,Aug 2018
+26 kmpl,998 cc,825 kg,Petrol,Automatic,67.77 bhp,3.0,Mar 2023
+18.9 kmpl,1197 cc,1100 kg,Petrol,Automatic,81.86 bhp,4.0,Nov 2018
+26 kmpl,998 cc,820 kg,Petrol,Automatic,67.77 bhp,3.0,Jul 2016
+18.9 kmpl,1197 cc,935 kg,Petrol,Automatic,82 bhp,4.0,Aug 2014
+20.52 kmpl,1197 cc,830-845 kg,Petrol,Manual,81.80 bhp,4.0,Jan 2022
+19.33 kmpl,1199 cc,1025 kg,Petrol,Manual,86.83 bhp,3.0,Jul 2021
+22.05 kmpl,796 cc,755 kg,Petrol,Manual,47.33 bhp,3.0,Jun 2017
+22.74 kmpl,796 cc,725 kg,Petrol,Manual,47.3 bhp,3.0,Jun 2016
+19.01 kmpl,1199 cc,,Petrol,Manual,85 bhp,3.0,Feb 2023
+24.76 kmpl,998 cc,736-775 kg,Petrol,Manual,65.71 bhp,3.0,Jan 2023
+19.81 kmpl,1086 cc,860 kg,Petrol,Manual,68.05 bhp,4.0,Mar 2017
+21.63 kmpl,998 cc,850 kg,Petrol,Automatic,67 bhp,3.0,Oct 2018
+20.7 kmpl,1197 cc,1160 kg,Petrol,Manual,81.86 bhp,4.0,Nov 2020
+22.9 kmpl,1248 cc,1060 kg,Diesel,Manual,74 bhp,4.0,Oct 2013
+20.51 kmpl,998 cc,885 kg,Petrol,Manual,67.04 bhp,3.0,Apr 2016
+21.19 kmpl,1396 cc,1080 kg,Diesel,Manual,88.73 bhp,4.0,May 2016
+18.5 kmpl,1197 cc,1015 kg,Petrol,Manual,85.80 bhp,4.0,Mar 2014
+21.4 kmpl,1197 cc,910 kg,Petrol,Automatic,83.1 bhp,4.0,Apr 2018
+22.25 kmpl,799 cc,690 kg,Petrol,Manual,53.26 bhp,3.0,Oct 2018
+20.36 kmpl,1197 cc,930 kg,Petrol,Manual,78.9 bhp,4.0,Jan 2012
+20.36 kmpl,1197 cc,930 kg,Petrol,Manual,78.9 bhp,4.0,Oct 2010
+20.7 kmpl,1197 cc,1140 kg,Petrol,Automatic,81.86 bhp,4.0,May 2020
+21.4 kmpl,1197 cc,880 kg,Petrol,Manual,83.1 bhp,4.0,Mar 2017
+20.51 kmpl,998 cc,885 kg,Petrol,Manual,67.04 bhp,3.0,Apr 2018
+22.9 kmpl,1248 cc,1060 kg,Diesel,Manual,74 bhp,4.0,Feb 2015
+16.95 kmpl,1197 cc,990 kg,Petrol,Automatic,78.9 bhp,4.0,Jul 2013
+23.1 kmpl,998 cc,850 kg,Petrol,Automatic,67.04 bhp,3.0,Dec 2018
+21.4 kmpl,1197 cc,865 kg,Petrol,Manual,83.1 bhp,4.0,Sept 2018
+21.01 kmpl,1197 cc,865-890 kg,Petrol,Manual,81.80 bhp,4.0,May 2018
+25.24 kmpl,998 cc,810 kg,Petrol,Manual,67.77 bhp,3.0,Jul 2015
+18.9 kmpl,998 cc,885 kg,Petrol,Manual,67.1 bhp,3.0,Jul 2011
+24.35 kmpl,998 cc,810-835 kg,Petrol,Manual,65.71 bhp,3.0,Oct 2014
+25.17 kmpl,799 cc,710 kg,Petrol,Manual,53.3 bhp,3.0,Jul 2016
+21.4 kmpl,1197 cc,920 kg,Petrol,Automatic,83.1 bhp,4.0,Oct 2018
+17.4 kmpl,1197 cc,1054-1093 kg,Petrol,Automatic,81.86 bhp,4.0,Apr 2019
+24.7 kmpl,796 cc,727 kg,Petrol,Manual,47.3 bhp,3.0,Jan 2017
+23.1 kmpl,998 cc,847 kg,Petrol,Automatic,67.04 bhp,3.0,Feb 2019
+23.95 kmpl,998 cc,784 kg,Petrol,Automatic,67.05 bhp,3.0,Mar 2016
+20.51 kmpl,998 cc,885 kg,Petrol,Manual,67.04 bhp,3.0,Oct 2014
+25.17 kmpl,799 cc,710 kg,Petrol,Manual,53.3 bhp,3.0,Nov 2016
+26.2 kmpl,1186 cc,1180 kg,Diesel,Automatic,73.97 bhp,4.0,Mar 2021
+22.05 kmpl,796 cc,755 kg,Petrol,Manual,47.33 bhp,3.0,Oct 2015
+23.84 kmpl,1199 cc,980 kg,Petrol,Manual,84 bhp,3.0,Dec 2016
+18.9 kmpl,1197 cc,935 kg,Petrol,Manual,82 bhp,4.0,Apr 2016
+20.7 kmpl,1197 cc,1140 kg,Petrol,Automatic,81.86 bhp,4.0,May 2023
+21.4 kmpl,1197 cc,890 kg,Petrol,Manual,83.1 bhp,4.0,Nov 2015
+22.05 kmpl,796 cc,755 kg,Petrol,Manual,47.33 bhp,3.0,Mar 2015
+19.33 kmpl,1199 cc,1135 kg,Petrol,Manual,86.83 bhp,3.0,Oct 2023
+24.7 kmpl,796 cc,725 kg,Petrol,Manual,47.3 bhp,3.0,Jan 2018
+23.84 kmpl,1199 cc,1012 kg,Petrol,Manual,84 bhp,3.0,Oct 2016
+21.46 kmpl,999 cc,,Petrol,Manual,67.06 bhp,3.0,Jan 2025
+23.01 kmpl,999 cc,730 kg,Petrol,Manual,67 bhp,3.0,Apr 2018
+19.33 kmpl,1199 cc,1025 kg,Petrol,Manual,86.83 bhp,3.0,Jan 2022
+18.9 kmpl,1197 cc,935 kg,Petrol,Automatic,82 bhp,4.0,Jun 2016
+21.1 kmpl,1248 cc,1100 kg,Diesel,Manual,73.9 bhp,4.0,Jan 2010
+23.84 kmpl,1199 cc,1012 kg,Petrol,Manual,84 bhp,3.0,Feb 2017
+25.17 kmpl,799 cc,710 kg,Petrol,Manual,53.3 bhp,3.0,Jun 2018
+22.35 kmpl,1197 cc,920-955 kg,Petrol,Manual,88.50 bhp,4.0,Oct 2021
+16.95 kmpl,1197 cc,990 kg,Petrol,Automatic,78.9 bhp,4.0,Mar 2012
+19.2 kmpl,1197 cc,1120 kg,Petrol,Automatic,,4.0,Jul 2009
+23.95 kmpl,998 cc,784 kg,Petrol,Automatic,67.1 bhp,3.0,Apr 2019
+17.74 kmpl,999 cc,1030 kg,Petrol,Manual,75.10 bhp,3.0,Sept 2018
+23.84 kmpl,1199 cc,1012 kg,Petrol,Manual,84 bhp,3.0,Jan 2020
+22.74 kmpl,796 cc,720 kg,Petrol,Manual,47.3 bhp,3.0,Aug 2014
+23.84 kmpl,1199 cc,1012 kg,Petrol,Manual,83.83 bhp,3.0,May 2019
+18.06 kmpl,1198 cc,930 kg,Petrol,Manual,75 bhp,3.0,Jul 2011
+17.74 kmpl,999 cc,1030 kg,Petrol,Manual,75.10 bhp,3.0,Nov 2018
+24.12 kmpl,998 cc,736-775 kg,Petrol,Manual,65.71 bhp,3.0,Feb 2023
+23.84 kmpl,1199 cc,1012 kg,Petrol,Automatic,83.83 bhp,3.0,Dec 2020
+21.63 kmpl,998 cc,850 kg,Petrol,Automatic,67.05 bhp,3.0,Nov 2020
+23.95 kmpl,998 cc,784 kg,Petrol,Automatic,67.1 bhp,3.0,Jan 2019
+23.95 kmpl,998 cc,784 kg,Petrol,Manual,67.05 bhp,3.0,Apr 2019
+24 kmpl,1120 cc,1025 kg,Diesel,Manual,70 bhp,3.0,Oct 2016
+19.4 kmpl,1198 cc,925 kg,Petrol,Manual,86.8 bhp,4.0,Nov 2013
+18.9 kmpl,1197 cc,935 kg,Petrol,Automatic,81.86 bhp,4.0,May 2020
+20.7 kmpl,1197 cc,1140 kg,Petrol,Automatic,81.86 bhp,4.0,Feb 2023
+25.17 kmpl,799 cc,690 kg,Petrol,Manual,53.3 bhp,3.0,Jan 2020
+20.36 kmpl,1197 cc,930 kg,Petrol,Manual,78.9 bhp,4.0,Apr 2015
+21.4 kmpl,1197 cc,910 kg,Petrol,Automatic,83.1 bhp,4.0,Dec 2015
+21.1 kmpl,814 cc,910 kg,Petrol,Manual,55.2 bhp,3.0,Jun 2014
+20.51 kmpl,998 cc,890 kg,Petrol,Automatic,67 bhp,3.0,Mar 2016
+25.19 kmpl,998 cc,835 kg,Petrol,Automatic,65.71 bhp,3.0,Sept 2023
+24.39 kmpl,998 cc,,Petrol,Manual,65.71 bhp,3.0,Aug 2023
+21.63 kmpl,998 cc,850 kg,Petrol,Automatic,67.05 bhp,3.0,Dec 2018
+19.15 kmpl,1198 cc,1100 kg,Petrol,Automatic,75.94 bhp,3.0,Dec 2013
+22.3 kmpl,799 cc,710 kg,Petrol,Manual,53.26 bhp,3.0,Nov 2016
+22.35 kmpl,1197 cc,920-955 kg,Petrol,Manual,88.50 bhp,4.0,Dec 2022
+18.97 kmpl,1198 cc,1055 kg,Petrol,Manual,67.04 bhp,3.0,Jul 2018
+23.84 kmpl,1199 cc,1012 kg,Petrol,Manual,83.83 bhp,3.0,Dec 2020
+19.01 kmpl,1199 cc,982 kg,Petrol,Manual,84.82 bhp,3.0,Apr 2023
+24.7 kmpl,796 cc,725 kg,Petrol,Manual,47.3 bhp,3.0,May 2018
+24 kmpl,1186 cc,1100 kg,Diesel,Manual,73.97 bhp,3.0,Jan 2014
+20.51 kmpl,998 cc,885 kg,Petrol,Manual,67.04 bhp,3.0,Mar 2016
+22.25 kmpl,799 cc,690 kg,Petrol,Manual,53.26 bhp,3.0,Aug 2022
+16.47 kmpl,1198 cc,1030 kg,Petrol,Manual,73.9 bhp,3.0,Jan 2016
+18.78 kmpl,999 cc,1030 kg,Petrol,Manual,75 bhp,3.0,Jul 2018
+18.9 kmpl,1197 cc,935 kg,Petrol,Manual,82 bhp,4.0,Oct 2013
+22.3 kmpl,999 cc,,Petrol,Automatic,67.06 bhp,3.0,Jun 2024
+21.79 kmpl,998 cc,805-825 kg,Petrol,Manual,67.05 bhp,3.0,Oct 2014
+16.2 kmpl,1199 cc,1030 kg,Petrol,Manual,74 bhp,3.0,Jan 2018
+,1086 cc,,Petrol,Manual,,4.0,Jul 2006
+17.01 kmpl,1499 cc,1040-1130 kg,Petrol,Automatic,110.4 bhp,4.0,Feb 2016
+17.1 kmpl,1199 cc,1044 kg,Petrol,Manual,88.50 bhp,4.0,Oct 2017
+16.2 kmpl,1199 cc,1044 kg,Petrol,Manual,74 bhp,3.0,Oct 2016
+23.95 kmpl,998 cc,779 kg,Petrol,Manual,67.05 bhp,3.0,Oct 2018
+18.2 kmpl,1199 cc,1066 kg,Petrol,Automatic,88.7 bhp,4.0,Apr 2019
+19.4 kmpl,1198 cc,925 kg,Petrol,Manual,86.8 bhp,4.0,May 2014
+22.3 kmpl,999 cc,699 kg,Petrol,Automatic,67.06 bhp,3.0,Apr 2022
+23.84 kmpl,1199 cc,970 kg,Petrol,Manual,83.83 bhp,3.0,Aug 2019
+23.95 kmpl,998 cc,784 kg,Petrol,Automatic,67.05 bhp,3.0,Mar 2015
+19.4 kmpl,1198 cc,925 kg,Petrol,Manual,86.8 bhp,4.0,Oct 2016
+18.78 kmpl,999 cc,1044 kg,Petrol,Manual,75 bhp,3.0,Oct 2018
+24 kmpl,1186 cc,1100 kg,Diesel,Manual,73.97 bhp,3.0,Oct 2018
+22.7 kmpl,799 cc,730 kg,Petrol,Manual,53.64 bhp,3.0,Mar 2017
+15 kmpl,1086 cc,995 kg,Petrol,Manual,,4.0,Oct 2007
+21.21 kmpl,1197 cc,860-895 kg,Petrol,Manual,81.80 bhp,4.0,Oct 2020
+23.84 kmpl,1199 cc,1016 kg,Petrol,Manual,112.44 bhp,3.0,May 2019
+22.74 kmpl,796 cc,720 kg,Petrol,Manual,47.3 bhp,3.0,May 2013
+22.5 kmpl,999 cc,730 kg,Petrol,Manual,67 bhp,3.0,Jan 2020
+19 kmpl,1194 cc,1026 kg,Petrol,Manual,94.68 bhp,3.0,Jul 2018
+22.3 kmpl,999 cc,719 kg,Petrol,Automatic,67.06 bhp,3.0,Jan 2023
+17.21 kmpl,1197 cc,1109 kg,Petrol,Automatic,103.5 bhp,4.0,Oct 2018
+18.16 kmpl,1196 cc,1040-1130 kg,Petrol,Manual,86.8 bhp,4.0,May 2016
+27.3 kmpl,1498 cc,1155 kg,Diesel,Manual,98.6 bhp,4.0,Aug 2015
+20.89 kmpl,1197 cc,855 kg,Petrol,Automatic,81.80 bhp,4.0,Dec 2017
+20.51 kmpl,998 cc,895 kg,Petrol,Automatic,67 bhp,3.0,Jul 2017
+23.84 kmpl,1199 cc,990 kg,Petrol,Manual,83.83 bhp,3.0,Jan 2019
+26.49 km/kg,1199 cc,,CNG,Manual,74.46 bhp,3.0,May 2022
+23.64 kmpl,1497 cc,1105 kg,Diesel,Manual,88.77 bhp,4.0,Nov 2020
+20.09 kmpl,1199 cc,1150 kg,Petrol,Automatic,84.82 bhp,3.0,Nov 2021
+21.1 kmpl,1248 cc,1100 kg,Diesel,Manual,73.9 bhp,4.0,Jan 2011
+20.09 kmpl,1199 cc,1015 kg,Petrol,Automatic,84.48 bhp,3.0,May 2022
+17.19 kmpl,1197 cc,1020 kg,Petrol,Manual,81.86 bhp,4.0,Aug 2016
+19.4 kmpl,1198 cc,925 kg,Petrol,Manual,86.8 bhp,4.0,Apr 2016
+21.74 kmpl,999 cc,730 kg,Petrol,Manual,67 bhp,3.0,Sept 2020
+18.2 kmpl,1199 cc,1064 kg,Petrol,Automatic,88.7 bhp,4.0,Apr 2018
+19 kmpl,1194 cc,1036 kg,Petrol,Manual,94.68 bhp,3.0,Sept 2018
+22.94 kmpl,1197 cc,940-960 kg,Petrol,Automatic,88.50 bhp,4.0,Jan 2025
+27.3 kmpl,1498 cc,1145 kg,Diesel,Manual,98.6 bhp,4.0,Sept 2015
+19.33 kmpl,1199 cc,1030 kg,Petrol,Manual,86.83 bhp,3.0,Jan 2024
+18.78 kmpl,999 cc,1015 kg,Petrol,Manual,75 bhp,3.0,Sept 2019
+23.64 kmpl,1497 cc,1105 kg,Diesel,Manual,88.77 bhp,4.0,Aug 2020
+17.92 kmpl,1086 cc,825 kg,Petrol,Manual,62.1 bhp,3.0,Aug 2013
+22.94 kmpl,1197 cc,940-960 kg,Petrol,Automatic,88.50 bhp,4.0,Mar 2024
+23.84 kmpl,1199 cc,980 kg,Petrol,Automatic,83.83 bhp,3.0,Mar 2019
+23.84 kmpl,1199 cc,980 kg,Petrol,Automatic,84 bhp,3.0,Feb 2019
+21.1 kmpl,814 cc,860 kg,Petrol,Manual,55.2 bhp,3.0,Jul 2014
+18.78 kmpl,999 cc,1015 kg,Petrol,Manual,75 bhp,3.0,Jun 2018
+20.5 kmpl,1598 cc,1205 kg,Diesel,Manual,103.5 bhp,4.0,Aug 2013
+23.08 kmpl,1461 cc,1008 kg,Diesel,Manual,63.1 bhp,4.0,May 2013
+20.65 kmpl,1462 cc,1120 kg,Petrol,Manual,103.25 bhp,4.0,Nov 2021
+20.25 kmpl,998 cc,1210 kg,Petrol,Automatic,118.41 bhp,3.0,Nov 2023
+22.41 kmpl,1197 cc,880-915 kg,Petrol,Manual,88.50 bhp,4.0,Oct 2014
+21.21 kmpl,1197 cc,860-895 kg,Petrol,Manual,81.80 bhp,4.0,Sept 2017
+23.08 kmpl,1461 cc,1008 kg,Diesel,Manual,63.1 bhp,4.0,Dec 2011
+22.07 kmpl,1199 cc,1125 kg,Diesel,Manual,73.9 bhp,3.0,Apr 2012
+23.59 kmpl,1364 cc,895 kg,Diesel,Manual,,4.0,Dec 2012
+18.2 kmpl,1199 cc,1064 kg,Petrol,Automatic,88.7 bhp,4.0,Nov 2015
+17.3 kmpl,993 cc,765 kg,Petrol,Manual,,4.0,Jul 2005
+17.21 kmpl,1197 cc,1109 kg,Petrol,Automatic,103.5 bhp,4.0,Aug 2017
+21.21 kmpl,1197 cc,860-895 kg,Petrol,Manual,81.80 bhp,4.0,Nov 2019
+19.7 kmpl,796 cc,705 kg,Petrol,Manual,46.3 bhp,3.0,Feb 2010
+19.4 kmpl,1198 cc,925 kg,Petrol,Manual,86.8 bhp,4.0,Sept 2012
+19.4 kmpl,1198 cc,925 kg,Petrol,Manual,86.8 bhp,4.0,Jul 2025
+20 kmpl,999 cc,,Petrol,Manual,71.01 bhp,3.0,Jun 2021
+22.94 kmpl,1197 cc,940-960 kg,Petrol,Automatic,88.50 bhp,4.0,Jul 2024
+15.8 kmpl,1591 cc,1320 kg,Petrol,Manual,121.3 bhp,4.0,Aug 2019
+17.92 kmpl,1086 cc,825 kg,Petrol,Manual,62.1 bhp,3.0,Nov 2007
+20.1 kmpl,1197 cc,1110 kg,Petrol,Automatic,81.86 bhp,4.0,Mar 2020
+22.41 kmpl,1197 cc,880-915 kg,Petrol,Manual,88.50 bhp,4.0,Nov 2021
+22.07 kmpl,1199 cc,1125 kg,Diesel,Manual,73.9 bhp,3.0,Sept 2011
+20 kmpl,999 cc,947 kg,Petrol,Manual,71.01 bhp,3.0,Apr 2022
+20.73 kmpl,1373 cc,1030 kg,Petrol,Manual,91.1 bhp,4.0,Dec 2016
+18.55 kmpl,1462 cc,1130-1170 kg,Petrol,Manual,103.25 bhp,4.0,Aug 2017
+21.21 kmpl,1197 cc,860-895 kg,Petrol,Automatic,81.80 bhp,4.0,Jan 2019
+21.21 kmpl,1197 cc,860-895 kg,Petrol,Manual,81.80 bhp,4.0,Mar 2019
+15.6 kmpl,1196 cc,1075 kg,Petrol,Manual,70 bhp,4.0,May 2010
+20.09 kmpl,1199 cc,,,Manual,86.63 bhp,3.0,Feb 2022
+17.03 kmpl,1462 cc,1110-1130 kg,Petrol,Manual,103.26 bhp,4.0,Jun 2022
+17.52 kmpl,1197 cc,1100 kg,Petrol,Manual,81.86 bhp,4.0,Nov 2021
+17.03 kmpl,1462 cc,1110-1130 kg,Petrol,Manual,103.26 bhp,4.0,Nov 2020
+20.3 kmpl,1248 cc,1130 kg,Diesel,Manual,75 bhp,4.0,Jun 2013
+20.3 kmpl,1248 cc,1165 kg,Diesel,Manual,75 bhp,4.0,Sept 2015
+22.07 kmpl,1199 cc,1125 kg,Diesel,Manual,73.9 bhp,3.0,Oct 2011
+22.41 kmpl,1197 cc,880-915 kg,Petrol,Manual,88.50 bhp,4.0,Aug 2014
+17.52 kmpl,1197 cc,1080 kg,Petrol,Manual,81.86 bhp,4.0,Oct 2021
+21.56 kmpl,1462 cc,1045 kg,Petrol,Manual,103.25 bhp,4.0,Dec 2019
+15.29 kmpl,1591 cc,1300 kg,,Manual,121.3 bhp,4.0,Oct 2016
+25.32 kmpl,1198 cc,905 kg,Diesel,Manual,77 bhp,3.0,Mar 2017
+18.55 kmpl,1462 cc,1130-1170 kg,Petrol,Manual,103.25 bhp,4.0,Mar 2018
+17.52 kmpl,1197 cc,1100 kg,Petrol,Manual,81.86 bhp,4.0,Mar 2021
+19.17 kmpl,999 cc,1012 kg,Petrol,Manual,71.01 bhp,3.0,Apr 2021
+17 kmpl,1591 cc,1248 kg,Petrol,Manual,121.3 bhp,4.0,Sept 2018
+17.03 kmpl,1462 cc,1110-1130 kg,Petrol,Manual,103.26 bhp,4.0,Sept 2020
+18.55 kmpl,1462 cc,1130-1170 kg,Petrol,Manual,103.25 bhp,4.0,Dec 2021
+19.1 kmpl,1197 cc,1120 kg,Petrol,Manual,82 bhp,4.0,Apr 2016
+19.1 kmpl,1197 cc,,Petrol,Manual,82 bhp,4.0,Feb 2016
+21.21 kmpl,1197 cc,860-895 kg,Petrol,Automatic,81.80 bhp,4.0,Jul 2017
+17.52 kmpl,1197 cc,1100 kg,Petrol,Manual,81.86 bhp,4.0,Feb 2022
+15.6 kmpl,1196 cc,1060 kg,Petrol,Manual,70 bhp,4.0,Oct 2010
+20 kmpl,999 cc,,Petrol,Manual,71.01 bhp,3.0,Feb 2022
+17.7 kmpl,1497 cc,1160 kg,Petrol,Manual,113.18 bhp,4.0,Jan 2022
+18 kmpl,998 cc,1340 kg,Petrol,Manual,118.35 bhp,3.0,Apr 2021
+15.5 kmpl,1586 cc,1170 kg,Petrol,Manual,103.3 bhp,4.0,Jan 2013
+19.1 kmpl,1197 cc,1100 kg,Petrol,Manual,82 bhp,4.0,Aug 2015
+21.56 kmpl,1462 cc,1045 kg,Petrol,Manual,103.25 bhp,4.0,Dec 2018
+18.27 kmpl,998 cc,1340 kg,Petrol,Manual,118.35 bhp,3.0,Jul 2022
+28.4 kmpl,1248 cc,955-990 kg,Diesel,Manual,74.02 bhp,4.0,Mar 2019
+15.5 kmpl,1586 cc,1200 kg,Petrol,Manual,103.3 bhp,4.0,Mar 2011
+18.24 kmpl,999 cc,,,Automatic,98.63 bhp,3.0,Apr 2022
+18.27 kmpl,998 cc,1340 kg,Petrol,Manual,118.35 bhp,3.0,Sept 2019
+22.7 kmpl,1598 cc,1250 kg,,Manual,118 bhp,4.0,Jul 2015
+24.3 kmpl,1248 cc,1200 kg,,Manual,88.5 bhp,4.0,May 2016
+13 kmpl,1591 cc,1280 kg,,Manual,121.3 bhp,4.0,Oct 2018
+17.4 kmpl,1497 cc,1063 kg,Petrol,Manual,117.60 bhp,4.0,Aug 2021
+23.7 kmpl,1493 cc,1320 kg,Diesel,Manual,98.6 bhp,4.0,Jan 2022
+20.85 kmpl,1197 cc,965 kg,Petrol,Manual,83.14 bhp,4.0,Aug 2015
+19.1 kmpl,1197 cc,970 kg,Petrol,Manual,85.8 bhp,4.0,Jul 2012
+18 kmpl,1198 cc,950 kg,Petrol,Manual,86.7 bhp,4.0,Jan 2016
+25.44 kmpl,936 cc,1010 kg,Diesel,Manual,57.6 bhp,3.0,Mar 2012
+19.65 kmpl,1197 cc,1160 kg,Petrol,Automatic,86.80 bhp,4.0,2022
+21.21 kmpl,1197 cc,860-895 kg,Petrol,Automatic,81.80 bhp,4.0,Mar 2019
+20 kmpl,999 cc,947 kg,Petrol,Manual,71.01 bhp,3.0,Oct 2023
+20.85 kmpl,1197 cc,965 kg,Petrol,Manual,83.14 bhp,4.0,Aug 2014
+19.1 kmpl,1197 cc,970 kg,Petrol,Manual,85.8 bhp,4.0,Mar 2013
+19.67 kmpl,1582 cc,1280 kg,,Manual,126.2 bhp,4.0,Jul 2017
+19.1 kmpl,1197 cc,970 kg,Petrol,Manual,85.8 bhp,4.0,Jun 2014
+17 kmpl,1198 cc,1044 kg,Petrol,Manual,73.75 bhp,3.0,Jan 2018
+28.4 kmpl,1248 cc,955-990 kg,Diesel,Automatic,74.02 bhp,4.0,May 2017
+24.3 kmpl,1248 cc,1200 kg,,Manual,88.5 bhp,4.0,Jul 2016
+18.15 kmpl,998 cc,1440 kg,Petrol,Automatic,118.35 bhp,3.0,Jun 2020
+15.41 kmpl,1598 cc,1121 kg,Petrol,Manual,103.2 bhp,4.0,Jan 2019
+19.81 kmpl,1086 cc,860 kg,Petrol,Manual,68.05 bhp,4.0,Aug 2011
+13 kmpl,1591 cc,1280 kg,,Automatic,121.3 bhp,4.0,Sept 2017
+18.6 kmpl,1197 cc,990 kg,Petrol,Manual,85.8 bhp,4.0,2014
+18 kmpl,1198 cc,950 kg,Petrol,Manual,86.7 bhp,4.0,Apr 2014
+20.28 kmpl,1462 cc,1105 kg,Petrol,Automatic,103.25 bhp,4.0,Jan 2019
+17 kmpl,1198 cc,1059 kg,Petrol,Manual,73.75 bhp,3.0,Sept 2016
+19.5 kmpl,1199 cc,921 kg,Petrol,Manual,88.76 bhp,4.0,Jul 2018
+17.4 kmpl,999 cc,1039 kg,Petrol,Automatic,98.63 bhp,3.0,Feb 2021
+18.15 kmpl,1198 cc,1195 kg,,Manual,82 bhp,3.0,Jan 2017
+18.24 kmpl,999 cc,,,Automatic,98.63 bhp,3.0,Mar 2023
+26.59 kmpl,1248 cc,1070 kg,Diesel,Manual,74 bhp,4.0,Apr 2013
+19.5 kmpl,1199 cc,921 kg,Petrol,Manual,88.76 bhp,4.0,May 2018
+18.6 kmpl,1199 cc,934 kg,Petrol,Manual,88.50 bhp,4.0,Jan 2024
+25.4 kmpl,1186 cc,1150 kg,Diesel,Automatic,73.97 bhp,4.0,Feb 2020
+24.3 kmpl,1248 cc,1200 kg,,Manual,88.5 bhp,4.0,Sept 2018
+19.12 kmpl,1373 cc,1010 kg,Petrol,Automatic,91.1 bhp,4.0,Aug 2017
+24.4 kmpl,1120 cc,1120 kg,Diesel,Manual,71 bhp,3.0,Sept 2015
+24.4 kmpl,1120 cc,1120 kg,Diesel,Manual,71 bhp,3.0,Dec 2014
+18.9 kmpl,1197 cc,935 kg,Petrol,Manual,82 bhp,4.0,2014
+17.8 kmpl,1497 cc,1029 kg,Petrol,Manual,117.3 bhp,4.0,Jan 2016
+23.9 kmpl,1582 cc,1230 kg,Diesel,Manual,126.2 bhp,4.0,Feb 2016
+20.28 kmpl,1462 cc,1105 kg,Petrol,Automatic,103.25 bhp,4.0,Jul 2017
+14.8 kmpl,1591 cc,1300 kg,Petrol,Automatic,121.3 bhp,4.0,Oct 2018
+23.7 kmpl,1498 cc,1360 kg,Diesel,Manual,98.6 bhp,4.0,Jul 2020
+14.8 kmpl,1591 cc,1300 kg,Petrol,Automatic,121.3 bhp,4.0,Aug 2019
+20.36 kmpl,1197 cc,930 kg,Petrol,Manual,78.9 bhp,4.0,2010
+18.6 kmpl,1199 cc,924 kg,Petrol,Manual,88.76 bhp,4.0,Aug 2019
+17.4 kmpl,1497 cc,1061 kg,Petrol,Manual,117.6 bhp,4.0,Feb 2018
+16.1 kmpl,1298 cc,890 kg,Petrol,Manual,,4.0,2008
+23.9 kmpl,1582 cc,1270 kg,Diesel,Manual,126.2 bhp,4.0,Mar 2015
+25.44 kmpl,936 cc,995 kg,Diesel,Manual,56.3 bhp,3.0,Jul 2016
+24.7 kmpl,1498 cc,1029 kg,Diesel,Manual,98.63 bhp,4.0,Jan 2020
+25.71 kmpl,1197 cc,920-960 kg,Petrol,Automatic,80 bhp,3.0,May 2025
+16.09 kmpl,1598 cc,1145 kg,Petrol,Manual,103.5 bhp,4.0,Apr 2019
+19 kmpl,1199 cc,924 kg,Petrol,Automatic,88.76 bhp,4.0,Jun 2019
+21.21 kmpl,1197 cc,855-885 kg,Petrol,Manual,81.80 bhp,4.0,2021
+17.5 kmpl,1199 cc,1104 kg,,Manual,88.7 bhp,4.0,Oct 2017
+15.85 kmpl,1499 cc,1200 kg,,Manual,110.4 bhp,4.0,Nov 2017
+23.65 kmpl,1248 cc,1215 kg,,Manual,88.5 bhp,4.0,Dec 2021
+19.2 kmpl,999 cc,1195-1255 kg,,Manual,113.98 bhp,3.0,Aug 2022
+18.6 kmpl,1199 cc,924 kg,Petrol,Manual,88.76 bhp,4.0,Oct 2020
+15.85 kmpl,1499 cc,1250 kg,,Manual,110.4 bhp,4.0,Feb 2016
+25.8 kmpl,1498 cc,1065 kg,Diesel,Manual,98.6 bhp,4.0,Feb 2022
+20 kmpl,999 cc,947 kg,Petrol,Manual,71.01 bhp,3.0,Oct 2022
+26.49 km/kg,1199 cc,1030 kg,CNG,Manual,72.40 bhp,3.0,May 2022
+18.6 kmpl,1197 cc,1066 kg,Petrol,Manual,81.83 bhp,4.0,2014
+23.4 kmpl,1248 cc,1060 kg,Diesel,Manual,74 bhp,4.0,Aug 2013
+19 kmpl,1199 cc,945 kg,Petrol,Automatic,88.76 bhp,4.0,Aug 2019
+18.6 kmpl,1199 cc,920 kg,Petrol,Manual,88.50 bhp,4.0,Sept 2017
+19.81 kmpl,1086 cc,860 kg,Petrol,Manual,68.05 bhp,4.0,2012
+26.59 kmpl,1248 cc,1070 kg,Diesel,Manual,74 bhp,4.0,May 2013
+18.6 kmpl,1199 cc,917 kg,Petrol,Manual,88.76 bhp,4.0,May 2015
+18.1 kmpl,1199 cc,985 kg,Petrol,Automatic,88.7 bhp,4.0,May 2017
+21.64 kmpl,1461 cc,1080 kg,Diesel,Manual,84.8 bhp,4.0,Jul 2013
+19 kmpl,1199 cc,942 kg,Petrol,Automatic,88.76 bhp,4.0,Mar 2019
+25.4 kmpl,1186 cc,1150 kg,Diesel,Automatic,73.97 bhp,4.0,Aug 2024
+21.66 kmpl,1498 cc,1153 kg,Diesel,Manual,108.62 bhp,4.0,Jul 2017
+25.8 kmpl,1498 cc,1055 kg,Diesel,Manual,98.6 bhp,4.0,Jul 2015
+15.5 kmpl,1198 cc,990 kg,Petrol,Automatic,86.7 bhp,4.0,Mar 2016
+18 kmpl,1198 cc,950 kg,Petrol,Manual,86.7 bhp,4.0,Sept 2015
+17.33 kmpl,1998 cc,1250 kg,Petrol,Automatic,189.08 bhp,4.0,Jan 2019
+17.33 kmpl,1998 cc,1250 kg,Petrol,Automatic,189.08 bhp,4.0,Nov 2019
+17.01 kmpl,1591 cc,1260 kg,Petrol,Manual,121.3 bhp,4.0,Mar 2012
+15.04 kmpl,1598 cc,1121 kg,Petrol,Manual,103.6 bhp,4.0,Oct 2010
+18.3 kmpl,1199 cc,945 kg,Petrol,Automatic,88.76 bhp,4.0,Dec 2018
+17 kmpl,1497 cc,1360 kg,Petrol,Manual,113.18 bhp,4.0,Apr 2023
+15.4 kmpl,1497 cc,1225 kg,,Manual,117.3 bhp,4.0,Jul 2018
+17.33 kmpl,1998 cc,1250 kg,Petrol,Automatic,189.08 bhp,4.0,Feb 2019
+15.3 kmpl,1596 cc,1130 kg,Petrol,Manual,99.6 bhp,4.0,Sept 2012
+18 kmpl,1198 cc,940 kg,Petrol,Manual,86.7 bhp,4.0,Jan 2014
+18.19 kmpl,1197 cc,1179 kg,Petrol,Automatic,103.2 bhp,4.0,Apr 2019
+18.19 kmpl,1197 cc,1179 kg,Petrol,Automatic,103.2 bhp,4.0,Aug 2019
+19.44 kmpl,999 cc,1039 kg,Petrol,Manual,75 bhp,3.0,Jul 2018
+16 kmpl,1197 cc,,Petrol,Manual,82 bhp,4.0,2024
+15.4 kmpl,1497 cc,1225 kg,,Manual,117.3 bhp,4.0,Aug 2017
+17 kmpl,1198 cc,1059 kg,Petrol,Manual,73.75 bhp,3.0,May 2017
+17.8 kmpl,1198 cc,955 kg,Petrol,Manual,86.7 bhp,4.0,Aug 2015
+16.35 kmpl,999 cc,1175 kg,Petrol,Automatic,108.62 bhp,3.0,Apr 2021
+18 kmpl,1198 cc,960 kg,Petrol,Manual,86.7 bhp,4.0,Sept 2015
+15.4 kmpl,1497 cc,1235 kg,,Manual,117.3 bhp,4.0,Aug 2016
+22.1 kmpl,1396 cc,1240 kg,Diesel,Manual,88.7 bhp,4.0,Jun 2017
+14.53 kmpl,1798 cc,1315 kg,Petrol,Manual,138.1 bhp,4.0,Oct 2014
+18 kmpl,1497 cc,1107 kg,Petrol,Automatic,117.6 bhp,4.0,Sept 2019
+17 kmpl,1497 cc,1274 kg,,Manual,121.36 bhp,3.0,Aug 2019
+18.49 kmpl,1493 cc,1650 kg,,Manual,100 bhp,3.0,Mar 2019
+17.01 kmpl,1591 cc,1260 kg,Petrol,Manual,121.3 bhp,4.0,Nov 2013
+17.01 kmpl,1582 cc,1320 kg,,Automatic,126.2 bhp,4.0,Mar 2018
+17.29 kmpl,1493 cc,1505 kg,,Manual,100 bhp,3.0,Dec 2022
+19.8 kmpl,1462 cc,,,Automatic,101.64 bhp,4.0,Sept 2022
+17.05 kmpl,1199 cc,,Petrol,Automatic,118.35 bhp,3.0,Aug 2022
+23.5 kmpl,1498 cc,1157 kg,Diesel,Manual,,4.0,Apr 2012
+17.01 kmpl,1582 cc,1320 kg,,Automatic,126.2 bhp,4.0,Aug 2015
+16.09 kmpl,1598 cc,1145 kg,Petrol,Manual,103.5 bhp,4.0,Jun 2017
+17.2 kmpl,1396 cc,995 kg,Diesel,Manual,,4.0,Jul 2007
+17.8 kmpl,1198 cc,965 kg,Petrol,Manual,86.7 bhp,4.0,Aug 2014
+26 kmpl,1498 cc,1165 kg,Diesel,Manual,98.6 bhp,4.0,Apr 2016
+17.8 kmpl,1198 cc,965 kg,Petrol,Manual,86.7 bhp,4.0,Nov 2015
+18.8 kmpl,1199 cc,,Petrol,Automatic,86.63 bhp,3.0,Jul 2023
+16.1 kmpl,1298 cc,890 kg,Petrol,Manual,,4.0,2007
+16.24 kmpl,999 cc,1139-1169 kg,Petrol,Automatic,108.62 bhp,3.0,Sept 2020
+18 kmpl,1497 cc,1085 kg,Petrol,Automatic,117.3 bhp,4.0,Mar 2016
+18.19 kmpl,1197 cc,1169 kg,Petrol,Automatic,103.5 bhp,4.0,Apr 2015
+18.49 kmpl,1493 cc,1755 kg,,Manual,100 bhp,3.0,Mar 2018
+19.01 kmpl,1199 cc,,Petrol,Manual,85 bhp,3.0,2023
+18 kmpl,1497 cc,1085 kg,Petrol,Automatic,117.3 bhp,4.0,Feb 2014
+21.19 kmpl,1497 cc,1395 kg,Diesel,Manual,108.49 bhp,4.0,Feb 2022
+14.5 kmpl,998 cc,,Petrol,Manual,118 bhp,3.0,Dec 2024
+17.4 kmpl,1497 cc,1042 kg,Petrol,Manual,117.3 bhp,4.0,Aug 2014
+25.5 kmpl,1498 cc,1198 kg,,Manual,98.6 bhp,4.0,Mar 2019
+16.82 kmpl,1197 cc,1450 kg,Petrol,Manual,108.62 bhp,3.0,Jun 2016
+,1984 cc,1465 kg,Petrol,Automatic,,4.0,Jun 2010
+15.5 kmpl,1198 cc,995 kg,Petrol,Automatic,86.7 bhp,4.0,Sept 2016
+17 kmpl,1198 cc,1252 kg,Petrol,Manual,108.5 bhp,3.0,Mar 2019
+16.5 kmpl,1499 cc,1290 kg,,Automatic,110 bhp,4.0,Mar 2014
+14.8 kmpl,1591 cc,1300 kg,Petrol,Automatic,121.3 bhp,4.0,May 2019
+22.77 kmpl,1498 cc,1240 kg,,Manual,98.59 bhp,4.0,Mar 2016
+19.28 kmpl,1199 cc,1030 kg,Petrol,Manual,84.82 bhp,3.0,Jan 2022
+21.4 kmpl,1197 cc,870 kg,Petrol,Manual,83.1 bhp,4.0,2018
+25.8 kmpl,1498 cc,1055 kg,Diesel,Manual,98.6 bhp,4.0,Feb 2015
+25.8 kmpl,1498 cc,1055 kg,Diesel,Manual,98.6 bhp,4.0,Sept 2014
+26 kmpl,1498 cc,1150 kg,Diesel,Manual,98.6 bhp,4.0,Mar 2015
+16.05 kmpl,1499 cc,1270 kg,,Automatic,110.4 bhp,4.0,Jun 2016
+15.74 kmpl,1591 cc,1198 kg,Petrol,Automatic,121.3 bhp,4.0,Aug 2019
+16.5 kmpl,1499 cc,1290 kg,,Automatic,110 bhp,4.0,Sept 2016
+17.1 kmpl,1956 cc,1562 s kg,,Manual,170 bhp,4.0,Sept 2017
+18.6 kmpl,1498 cc,1107-1153 kg,Petrol,Manual,119.35 bhp,4.0,May 2021
+17.97 kmpl,1498 cc,1040 kg,Petrol,Automatic,99.61 bhp,4.0,Sept 2014
+21.14 kmpl,1498 cc,1206 kg,Diesel,Manual,103.52 bhp,4.0,Jun 2019
+17.6 kmpl,1496 cc,920 kg,Petrol,Manual,,4.0,May 2012
+18 kmpl,1497 cc,1100 kg,Petrol,Automatic,117.6 bhp,4.0,May 2019
+26 kmpl,1498 cc,1125 kg,Diesel,Manual,98.6 bhp,4.0,Aug 2016
+25.8 kmpl,1498 cc,1055 kg,Diesel,Manual,98.6 bhp,4.0,May 2016
+17.7 kmpl,1497 cc,1200 kg,Petrol,Manual,113.18 bhp,4.0,Mar 2023
+19.89 kmpl,1462 cc,,,Manual,101.64 bhp,4.0,Jun 2023
+16.8 kmpl,1497 cc,1110 kg,Petrol,Manual,116.3 bhp,4.0,May 2013
+17 kmpl,1497 cc,1100 kg,Petrol,Manual,,4.0,Oct 2014
+15.63 kmpl,1499 cc,1250 kg,,Automatic,110.4 bhp,4.0,Jul 2015
+21.14 kmpl,1498 cc,1206 kg,Diesel,Manual,103.52 bhp,4.0,May 2017
+19.01 kmpl,1462 cc,1180 kg,Petrol,Manual,103.2 bhp,4.0,Nov 2021
+17.5 kmpl,1199 cc,1103 kg,,Manual,88.7 bhp,4.0,Jan 2018
+22.77 kmpl,1498 cc,1240 kg,,Manual,98.59 bhp,4.0,Apr 2021
+19 kmpl,1199 cc,945 kg,Petrol,Automatic,88.76 bhp,4.0,Feb 2019
+17.8 kmpl,1497 cc,1049 kg,Petrol,Manual,117.3 bhp,4.0,Aug 2017
+18.1 kmpl,1199 cc,985 kg,Petrol,Automatic,88.7 bhp,4.0,Jan 2016
+,1462 cc,1225 kg,Petrol,Automatic,101.65 bhp,4.0,Nov 2022
+,1462 cc,1190 kg,Petrol,Automatic,103.2 bhp,4.0,Oct 2022
+,1796 cc,1605 kg,Petrol,Automatic,,4.0,Jan 2007
+26 kmpl,1498 cc,1150 kg,Diesel,Manual,98.6 bhp,4.0,Jun 2014
+14.3 kmpl,1598 cc,1180 kg,Petrol,Automatic,103.6 bhp,4.0,Feb 2015
+17.99 kmpl,1462 cc,1190 kg,Petrol,Automatic,103.2 bhp,4.0,Feb 2022
+,2143 cc,1425 kg,Diesel,Automatic,120.7 bhp,4.0,Mar 2014
+19.2 kmpl,998 cc,1260 kg,Petrol,Automatic,118.41 bhp,3.0,Jan 2023
+19.8 kmpl,1462 cc,,,Automatic,101.64 bhp,4.0,Jul 2022
+17 kmpl,1198 cc,1252 kg,Petrol,Automatic,108.5 bhp,3.0,Oct 2018
+16 kmpl,2179 cc,1860 kg,,Manual,140 bhp,4.0,Jun 2015
+17.4 kmpl,1497 cc,1061 kg,Petrol,Manual,117.6 bhp,4.0,Oct 2018
+14 kmpl,1497 cc,1430 kg,Petrol,Manual,113.18 bhp,4.0,Jul 2022
+27.97 kmpl,1490 cc,1290-1295 kg,,Automatic,91.18 bhp,3.0,Jan 2024
+20.3 kmpl,1199 cc,1035-1062 kg,Petrol,Automatic,83.81 bhp,3.0,Jul 2019
+23.1 kmpl,998 cc,835 kg,Petrol,Manual,67.04 bhp,3.0,2016
+24.7 kmpl,1498 cc,1029 kg,Diesel,Manual,98.63 bhp,4.0,Aug 2013
+17 kmpl,1497 cc,1100 kg,Petrol,Manual,,4.0,Dec 2014
+15 kmpl,1598 cc,1145 kg,Petrol,Manual,103.52 bhp,4.0,Jul 2012
+15.8 kmpl,1591 cc,1260 kg,Petrol,Manual,121.3 bhp,4.0,Mar 2019
+19.4 kmpl,1198 cc,925 kg,Petrol,Manual,86.8 bhp,4.0,2014
+11 kmpl,1353 cc,1465 kg,Petrol,Automatic,138.12 bhp,4.0,Mar 2022
+17.19 kmpl,1197 cc,1040 kg,Petrol,Manual,81.86 bhp,4.0,2016
+13 kmpl,1591 cc,1280 kg,,Manual,121.3 bhp,4.0,Jan 2020
+23 kmpl,1498 cc,1300 kg,,Manual,98.96 bhp,4.0,Jun 2018
+30.61 km/kg,1197 cc,1020-1035 kg,CNG,Manual,76.43 bhp,4.0,2023
+17.99 kmpl,1462 cc,1190 kg,Petrol,Automatic,103.2 bhp,4.0,Mar 2021
+19.2 kmpl,1197 cc,,Petrol,Automatic,81.8 bhp,4.0,Aug 2024
+21.14 kmpl,1498 cc,1206 kg,Diesel,Manual,103.52 bhp,4.0,Jun 2016
+17 kmpl,1198 cc,1252 kg,Petrol,Manual,108.5 bhp,3.0,Aug 2018
+13 kmpl,1591 cc,1280 kg,,Manual,121.3 bhp,4.0,Jul 2018
+,1462 cc,1190 kg,Petrol,Automatic,103.2 bhp,4.0,Jan 2021
+17 kmpl,1497 cc,1100 kg,Petrol,Manual,,4.0,Sept 2013
+15 kmpl,1598 cc,1145 kg,Petrol,Manual,103.5 bhp,4.0,Jan 2013
+20.58 kmpl,1462 cc,1185 - 1210 kg,Petrol,Automatic,101.64 bhp,4.0,Jan 2024
+19.2 kmpl,1197 cc,,Petrol,Automatic,81.8 bhp,4.0,Jan 2024
+22.77 kmpl,1498 cc,1220 kg,,Manual,98.59 bhp,4.0,Aug 2015
+22.77 kmpl,1498 cc,1240 kg,,Manual,98.59 bhp,4.0,Aug 2015
+15.6 kmpl,1497 cc,1145 kg,Petrol,Automatic,116.3 bhp,4.0,Jul 2011
+23 kmpl,1498 cc,1268 kg,,Manual,98.96 bhp,4.0,Jun 2017
+18.2 kmpl,1482 cc,,Petrol,Automatic,158 bhp,4.0,Sept 2024
+15.04 kmpl,1598 cc,1121 kg,Petrol,Manual,103.6 bhp,4.0,Sept 2013
+18.49 kmpl,1493 cc,1650 kg,,Manual,100 bhp,3.0,Feb 2018
+17.8 kmpl,1498 cc,1107 kg,Petrol,Manual,119.35 bhp,4.0,Jul 2023
+27.97 kmpl,1490 cc,1290 - 1295 kg,Petrol,Automatic,91.18 bhp,3.0,Nov 2022
+17.21 kmpl,1493 cc,1640 kg,,Manual,100 bhp,3.0,Jan 2014
+18 kmpl,1497 cc,1085 kg,Petrol,Automatic,117.3 bhp,4.0,Aug 2014
+14 kmpl,1497 cc,1450 kg,Petrol,Automatic,113.18 bhp,4.0,Aug 2021
+17.4 kmpl,1497 cc,,,Manual,113.18 bhp,4.0,Jun 2024
+15.31 kmpl,1498 cc,1259 kg,Petrol,Manual,119 bhp,4.0,Jun 2023
+18 kmpl,1493 cc,1220 kg,Diesel,Manual,113.45 bhp,4.0,Nov 2022
+16.5 kmpl,1353 cc,1525 kg,Petrol,Manual,138.08 bhp,4.0,Sept 2023
+18 kmpl,1493 cc,1430 kg,Diesel,Manual,113.98 bhp,4.0,Jan 2023
+14 kmpl,1497 cc,1450 kg,Petrol,Automatic,113.18 bhp,4.0,Jul 2021
+17 kmpl,1497 cc,1100 kg,Petrol,Manual,,4.0,Jan 2021
+25 kmpl,1493 cc,1220 kg,Diesel,Manual,113.45 bhp,4.0,Jan 2022
+,,1400 kg,,Automatic,127 bhp,,Oct 2021
+,1462 cc,1225 kg,Petrol,Automatic,101.64 bhp,4.0,Jan 2023
+19.4 kmpl,1198 cc,915 kg,Petrol,Manual,86.8 bhp,4.0,2012
+22.15 kmpl,1498 cc,1238 kg,Diesel,Automatic,108.6 bhp,4.0,Aug 2016
+18.6 kmpl,1498 cc,1107-1153 kg,Petrol,Manual,119.35 bhp,4.0,Jan 2022
+17 kmpl,1497 cc,,Petrol,Manual,113.42 bhp,4.0,Nov 2022
+16.5 kmpl,1353 cc,1525 kg,Petrol,Manual,138.08 bhp,4.0,May 2022
+19.2 kmpl,999 cc,1220 kg,,Manual,114 bhp,3.0,Apr 2022
+15.43 kmpl,1498 cc,1450 kg,Petrol,Manual,108.49 bhp,4.0,Feb 2022
+,1595 cc,1425 kg,Petrol,Automatic,120.7 bhp,4.0,Mar 2013
+20.51 kmpl,1462 cc,1150-1205 kg,Petrol,Manual,101.64 bhp,4.0,May 2024
+18.6 kmpl,1498 cc,1107-1153 kg,Petrol,Manual,119.35 bhp,4.0,Apr 2021
+25.17 kmpl,799 cc,710 kg,Petrol,Manual,53.3 bhp,3.0,2016
+16.94 kmpl,1462 cc,1195 kg,,Manual,103 bhp,4.0,Aug 2024
+18 kmpl,1493 cc,1635 kg,Diesel,Manual,113.45 bhp,4.0,Oct 2023
+18.4 kmpl,1498 cc,1107 kg,Petrol,Automatic,119.35 bhp,4.0,May 2023
+18.9 kmpl,998 cc,870 kg,Petrol,Manual,67.1 bhp,3.0,2011
+17.95 kmpl,1498 cc,1303 kg,,Manual,147.51 bhp,4.0,Jul 2022
+20.34 kmpl,1498 cc,1211 kg,Diesel,Manual,103.2 bhp,4.0,Feb 2015
+25 kmpl,1493 cc,1220 kg,Diesel,Manual,113.45 bhp,4.0,Jan 2023
+20.5 kmpl,1598 cc,1205 kg,Diesel,Manual,103.5 bhp,4.0,Nov 2012
+19.7 kmpl,796 cc,705 kg,Petrol,Manual,46.3 bhp,3.0,2012
+17.5 kmpl,1482 cc,,Petrol,Manual,158 bhp,4.0,Sept 2024
+,1353 cc,1630 kg,Petrol,Automatic,138.05 bhp,4.0,Jun 2023
+14.8 kmpl,1497 cc,1320 kg,,Automatic,121.36 bhp,3.0,Jan 2018
+12.95 kmpl,1999 cc,1537 kg,,Automatic,152.88 bhp,4.0,Jul 2018
+16.5 kmpl,1353 cc,1525 kg,Petrol,Manual,138.08 bhp,4.0,Jul 2023
+18 kmpl,1493 cc,1565 kg,Diesel,Manual,113.45 bhp,4.0,Oct 2021
+19.1 kmpl,1493 cc,,Diesel,Automatic,114 bhp,4.0,Sept 2021
+18.2 kmpl,1482 cc,,Petrol,Automatic,158 bhp,4.0,Apr 2024
+19.44 kmpl,999 cc,1039 kg,Petrol,Manual,75 bhp,3.0,Apr 2019
+17.33 kmpl,1199 cc,1280 kg,Petrol,Manual,118.35 bhp,3.0,Jul 2023
+19 kmpl,1194 cc,1026 kg,Petrol,Manual,94.68 bhp,3.0,2018
+16.47 kmpl,1198 cc,1030 kg,Petrol,Manual,73.9 bhp,3.0,2011
+18.76 kmpl,1462 cc,1135-1150 kg,Petrol,Automatic,103.26 bhp,4.0,Aug 2021
+,2494 cc,1675 kg,Diesel,Manual,,4.0,Apr 2009
+12.8 kmpl,2494 cc,1670 kg,Diesel,Manual,,4.0,Oct 2011
+18.15 kmpl,998 cc,1440 kg,Petrol,Automatic,118.35 bhp,3.0,Sept 2020
+17.4 kmpl,1497 cc,1088 kg,Petrol,Manual,117.6 bhp,4.0,Nov 2019
+,2143 cc,"1,575 kg",Diesel,Automatic,,4.0,May 2010
+16.1 kmpl,796 cc,665 kg,Petrol,Manual,37 bhp,3.0,2008
+,2143 cc,1610 kg,Diesel,Automatic,170 bhp,4.0,Oct 2011
+16.5 kmpl,1499 cc,1290 kg,,Automatic,110 bhp,4.0,Nov 2013
+20.7 kmpl,1197 cc,1140 kg,Petrol,Automatic,81.86 bhp,4.0,2020
+16.82 kmpl,1197 cc,,Petrol,Manual,108.62 bhp,3.0,May 2022
+20.51 kmpl,998 cc,890 kg,Petrol,Automatic,67 bhp,3.0,2017
+21.19 kmpl,1497 cc,1395 kg,Diesel,Manual,108.49 bhp,4.0,Nov 2022
+21.38 kmpl,1396 cc,1260 kg,,Manual,88.7 bhp,4.0,Nov 2020
+18.6 kmpl,1498 cc,1107-1153 kg,Petrol,Manual,119.35 bhp,4.0,Jul 2022
+19.3 kmpl,1198 cc,987 kg,Petrol,Manual,80.46 bhp,3.0,2024
+16.82 kmpl,1197 cc,,Petrol,Manual,108.62 bhp,3.0,Feb 2021
+16.8 kmpl,1497 cc,1335 kg,Petrol,Manual,113.43 bhp,4.0,Aug 2020
+18.3 kmpl,998 cc,1230 kg,Petrol,Automatic,118.36 bhp,3.0,Jan 2022
+21.01 kmpl,1197 cc,890 kg,Petrol,Manual,81.80 bhp,4.0,2021
+20.58 kmpl,1462 cc,1185-1210 kg,,Automatic,101.64 bhp,4.0,Mar 2024
+23.8 kmpl,1493 cc,,Diesel,Automatic,113.98 bhp,4.0,Jul 2023
+22.7 kmpl,1498 cc,1290 kg,,Manual,89.84 bhp,4.0,Jun 2014
+,1395 cc,1450 kg,Petrol,Automatic,147.51 bhp,4.0,Jan 2018
+17.1 kmpl,1956 cc,1551 s kg,,Manual,170 bhp,4.0,Nov 2017
+16.82 kmpl,1197 cc,1430 kg,Petrol,Manual,108.62 bhp,3.0,Dec 2021
+23.01 kmpl,999 cc,745 kg,Petrol,Manual,67 bhp,3.0,2019
+13.79 kmpl,1451 cc,,Petrol,Manual,141 bhp,4.0,May 2021
+24.52 kmpl,1248 cc,1260 kg,Diesel,Manual,88.5 bhp,4.0,Jul 2016
+,1991 cc,1550 kg,Petrol,Automatic,301.73 bhp,4.0,Dec 2022
+11.2 kmpl,1497 cc,,Petrol,Manual,113.42 bhp,4.0,Feb 2024
+18.3 kmpl,1498 cc,1107-1153 kg,Petrol,Automatic,119.35 bhp,4.0,Oct 2021
+18.4 kmpl,1498 cc,1350 kg,Petrol,Automatic,147.94 bhp,4.0,Sept 2020
+11.2 kmpl,1969 cc,1945 kg,,Automatic,250 bhp,5.0,Feb 2023
+21.46 kmpl,999 cc,699 kg,Petrol,Manual,67.06 bhp,3.0,2022
+16.8 kmpl,1497 cc,1340 kg,Petrol,Manual,113.43 bhp,4.0,Feb 2023
+17.7 kmpl,1497 cc,,Petrol,Automatic,113.18 bhp,4.0,Nov 2024
+23 kmpl,1498 cc,1268 kg,,Manual,98.96 bhp,4.0,Mar 2017
+19.4 kmpl,999 cc,1188 kg,Petrol,Manual,113.98 bhp,3.0,Feb 2023
+8 kmpl,1997 cc,1825 kg,,Automatic,150 bhp,4.0,Oct 2021
+17.4 kmpl,1497 cc,1061 kg,Petrol,Manual,117.60 bhp,4.0,2022
+17.4 kmpl,1497 cc,1061 kg,Petrol,Manual,117.6 bhp,4.0,May 2018
+16.7 kmpl,1395 cc,1260 kg,Petrol,Manual,148 bhp,4.0,Jan 2015
+15.2 kmpl,1997 cc,1845 kg,,Automatic,150 bhp,4.0,Dec 2021
+16.8 kmpl,1497 cc,1555 kg,Petrol,Automatic,113.42 bhp,4.0,Dec 2019
+22.25 kmpl,799 cc,710 kg,Petrol,Manual,53.26 bhp,3.0,2022
+17.42 kmpl,2993 cc,1695 kg,Diesel,Automatic,261.49 bhp,6.0,Apr 2022
+23.22 kmpl,1497 cc,1330 kg,Diesel,Manual,113.42 bhp,4.0,Aug 2022
+21.5 kmpl,1497 cc,1305 kg,Diesel,Automatic,108.5 bhp,4.0,Aug 2019
+16 kmpl,1493 cc,1630 kg,Diesel,Manual,74.96 bhp,3.0,Mar 2022
+20 kmpl,1399 cc,1130 kg,Diesel,Manual,68 bhp,4.0,2011
+17.92 kmpl,1086 cc,825 kg,Petrol,Manual,62.1 bhp,3.0,2008
+18.3 kmpl,1498 cc,1107-1153 kg,Petrol,Automatic,119.35 bhp,4.0,Nov 2021
+23.08 kmpl,1461 cc,1050 kg,Diesel,Manual,63.1 bhp,4.0,2016
+17.8 kmpl,1498 cc,1107 kg,Petrol,Manual,119.35 bhp,4.0,Aug 2023
+17.2 kmpl,1969 cc,2400 kg,Petrol,Automatic,295.89 bhp,4.0,Jul 2022
+17.05 kmpl,1199 cc,1355 kg,Petrol,Automatic,118.35 bhp,3.0,Jan 2022
+,1991 cc,1525 kg,Petrol,Automatic,183 bhp,4.0,Jul 2017
+17.41 kmpl,1956 cc,1860 kg,,Manual,167.68 bhp,4.0,Oct 2022
+14.85 kmpl,1498 cc,1400 kg,Petrol,Automatic,108.49 bhp,4.0,Dec 2021
+,1497 cc,1595 kg,Diesel,Manual,114.41 bhp,4.0,Mar 2026
+21.58 kmpl,1248 cc,1170 kg,Diesel,Automatic,88.7 bhp,4.0,Jun 2015
+14.45 kmpl,1984 cc,1418 kg,Petrol,Automatic,227 bhp,4.0,Feb 2018
+22.3 kmpl,999 cc,,Petrol,Automatic,67.06 bhp,3.0,2024
+,1998 cc,1555 kg,Petrol,Automatic,187.74 bhp,4.0,Mar 2023
+20.8 kmpl,1493 cc,1435 kg,Diesel,Manual,113.43 bhp,4.0,Sept 2022
+,2494 cc,2075 kg,Petrol,Automatic,115.32 bhp,4.0,Aug 2021
+22.1 kmpl,1396 cc,1240 kg,Diesel,Manual,88.7 bhp,4.0,Dec 2018
+12.8 kmpl,3604 cc,2374 kg,,Automatic,285.6 bhp,6.0,Jun 2018
+23.59 kmpl,1364 cc,920 kg,Diesel,Manual,,4.0,Dec 2012
+17 kmpl,1493 cc,,Diesel,Manual,114.41 bhp,4.0,Mar 2021
+,1798 cc,1545 kg,Petrol,Automatic,167.62 bhp,4.0,Jun 2015
+19.16 kmpl,2487 cc,1665 kg,Petrol,Automatic,214.5 bhp,4.0,Feb 2022
+24.3 kmpl,1248 cc,1200 kg,,Manual,88.5 bhp,4.0,Apr 2018
+15.63 kmpl,1499 cc,1250 kg,,Automatic,110.4 bhp,4.0,Feb 2016
+,2487 cc,1665mm kg,Petrol,Automatic,175.67 bhp,4.0,Feb 2022
+17.21 kmpl,1197 cc,1109 kg,Petrol,Automatic,103.5 bhp,4.0,2017
+18.6 kmpl,1199 cc,990 kg,Petrol,Manual,79.4 bhp,4.0,2013
+19.1 kmpl,1493 cc,,Diesel,Automatic,114.41 bhp,4.0,Feb 2020
+16.8 kmpl,1497 cc,1555 kg,Petrol,Automatic,113.42 bhp,4.0,Jul 2020
+,1995 cc,1660 kg,Diesel,Automatic,187.74 bhp,4.0,Apr 2018
+20.08 kmpl,999 cc,1255 kg,Petrol,Manual,113.98 bhp,3.0,Aug 2022
+22.7 kmpl,1498 cc,1290 kg,,Manual,89.84 bhp,4.0,Nov 2013
+17 kmpl,1493 cc,,Diesel,Manual,114.41 bhp,4.0,Feb 2021
+,1493 cc,1630 kg,Diesel,Automatic,114.41 bhp,4.0,Mar 2022
+18.6 kmpl,1498 cc,1269-1300 kg,Petrol,Manual,147.51 bhp,4.0,Feb 2024
+,2487 cc,1665mm kg,Petrol,Automatic,175.67 bhp,4.0,May 2022
+17 kmpl,1896 cc,1335 kg,Diesel,Automatic,,4.0,May 2010
+17.2 kmpl,999 cc,1245-1280 kg,,Automatic,113.98 bhp,3.0,May 2022
+18.15 kmpl,1198 cc,975 kg,Petrol,Manual,82 bhp,3.0,2017
+16.8 kmpl,1497 cc,1555 kg,Petrol,Automatic,113.42 bhp,4.0,Sept 2020
+8 kmpl,1997 cc,1825 kg,,Automatic,150 bhp,4.0,Mar 2022
+,2993 cc,2030 kg,Diesel,Automatic,258 bhp,6.0,Jul 2018
+17 kmpl,1197 cc,990 kg,Petrol,Manual,,4.0,2010
+18 kmpl,1493 cc,1540 kg,Diesel,Automatic,113.43 bhp,4.0,Sept 2022
+,1493 cc,,Diesel,Automatic,114.41 bhp,4.0,Jul 2023
+,1493 cc,,Diesel,Automatic,114.41 bhp,4.0,Mar 2023
+,2494 cc,2075 kg,Petrol,Automatic,115.32 bhp,4.0,Nov 2022
+20.8 kmpl,1493 cc,1465 kg,Diesel,Manual,113.43 bhp,4.0,Dec 2019
+19.81 kmpl,1086 cc,860 kg,Petrol,Manual,68.05 bhp,4.0,2009
+15.1 kmpl,2179 cc,1635 kg,Diesel,Manual,140 bhp,4.0,Nov 2015
+,1493 cc,1351 kg,Diesel,Manual,98.63 bhp,4.0,Jan 2022
+18.8 kmpl,1248 cc,1200 . kg,Diesel,Manual,,4.0,Jul 2011
+20 kmpl,1497 cc,1325 kg,,Manual,115 bhp,4.0,Jan 2023
+,1987 cc,,Petrol,Automatic,183.72 bhp,4.0,Sept 2024
+,1998 cc,"1,520 kg",Petrol,Automatic,254.79 bhp,4.0,Sept 2019
+18.4 kmpl,1498 cc,1107 kg,Petrol,Automatic,119.35 bhp,4.0,May 2025
+,2925 cc,2045 kg,Diesel,Automatic,281.61 bhp,6.0,Feb 2021
+16.5 kmpl,1799 cc,1300 kg,Petrol,Automatic,139.46 bhp,4.0,Nov 2019
+,1998 cc,1530 kg,Petrol,Automatic,254.79 bhp,4.0,Dec 2020
+,1999 cc,2064 kg,Diesel,Automatic,147.5 bhp,4.0,Nov 2017
+14.67 kmpl,1798 cc,1540 kg,Petrol,Automatic,177.46 bhp,4.0,Jan 2016
+17.2 kmpl,1969 cc,2350 kg,,Automatic,235 bhp,4.0,Aug 2016
+,2393 cc,1880 kg,Diesel,Manual,148 bhp,4.0,Jun 2022
+18 kmpl,1493 cc,1480 kg,Diesel,Automatic,113.43 bhp,4.0,Oct 2023
+11 kmpl,1999 cc,1850 kg,Petrol,Automatic,197.13 bhp,4.0,Aug 2022
+18.12 kmpl,999 cc,1245 kg,Petrol,Automatic,113.98 bhp,3.0,Jul 2022
+17.9 kmpl,1482 cc,,Petrol,Automatic,157.81 bhp,4.0,Jan 2024
+14 kmpl,1493 cc,1685 kg,Diesel,Automatic,113.45 bhp,4.0,Apr 2023
+17.7 kmpl,1497 cc,,Petrol,Automatic,113.42 bhp,4.0,Oct 2019
+,2998 cc,1915 kg,Petrol,Automatic,375.48 bhp,6.0,May 2023
+16 kmpl,2179 cc,1655 kg,,Manual,140 bhp,4.0,Mar 2016
+8 kmpl,1997 cc,1825 kg,,Automatic,150 bhp,4.0,Mar 2021
+,2993 cc,"1,670 kg",Diesel,Automatic,258 bhp,6.0,Feb 2018
+,2494 cc,1600 kg,Diesel,Manual,100.6 bhp,4.0,Nov 2015
+,1998 cc,1885 kg,Petrol,Automatic,254.7 bhp,4.0,May 2020
+14.11 kmpl,1984 cc,1740 kg,Petrol,Automatic,241.3 bhp,4.0,Oct 2021
+,2143 cc,1650 kg,Diesel,Automatic,201.15 bhp,4.0,Nov 2012
+23.9 kmpl,1597 cc,1358 kg,Diesel,Manual,118 bhp,4.0,Feb 2020
+,2393 cc,1805 kg,Diesel,Manual,147.8 bhp,4.0,Mar 2018
+16.38 kmpl,1999 cc,1775 kg,,Automatic,177 bhp,4.0,Mar 2017
+,1493 cc,1630 kg,Diesel,Automatic,114.41 bhp,4.0,Aug 2022
+,1497 cc,1650 s kg,Diesel,Manual,121 bhp,4.0,Apr 2018
+17.41 kmpl,1956 cc,1525 kg,Diesel,Manual,167.68 bhp,4.0,Oct 2019
+14.11 kmpl,1984 cc,1740 kg,Petrol,Automatic,241.3 bhp,4.0,Mar 2021
+,1997 cc,2072 kg,Petrol,Automatic,,4.0,Jun 2021
+19.1 kmpl,1493 cc,,Diesel,Automatic,114.41 bhp,4.0,Jul 2021
+19.7 kmpl,796 cc,705 kg,Petrol,Manual,46.3 bhp,3.0,2011
+15.81 kmpl,1984 cc,1430 kg,Petrol,Automatic,187.74 bhp,4.0,Jul 2022
+,1968 cc,1799 kg,Diesel,Automatic,148 bhp,4.0,Aug 2018
+17.05 kmpl,1199 cc,1310 kg,Petrol,Automatic,118.35 bhp,3.0,Jul 2023
+14.08 kmpl,1956 cc,1825 kg,Diesel,Automatic,167.67 bhp,4.0,Mar 2022
+24.3 kmpl,1248 cc,1195 kg,,Automatic,88.5 bhp,4.0,Mar 2019
+16.92 kmpl,1498 cc,1213 kg,Petrol,Automatic,119 bhp,4.0,Mar 2023
+,1395 cc,1415 kg,Petrol,Automatic,150 bhp,4.0,Jul 2019
+,1950 cc,1805 kg,Diesel,Automatic,191.7 bhp,4.0,Nov 2019
+,1498 cc,1500 kg,Petrol,Automatic,108.49 bhp,4.0,Oct 2023
+17.1 kmpl,1956 cc,1562 s kg,,Manual,170.63 bhp,4.0,Oct 2020
+,2755 cc,1830 kg,Diesel,Automatic,171.5 bhp,4.0,Dec 2019
+,1999 cc,1615 kg,Diesel,Automatic,177 bhp,4.0,Mar 2018
+,1995 cc,1500 kg,Diesel,Automatic,184 bhp,4.0,Aug 2013
+16.8 kmpl,1497 cc,1095 kg,Petrol,Manual,116.3 bhp,4.0,Jul 2018
+,1493 cc,1468 kg,Diesel,Automatic,113.43 bhp,4.0,Aug 2023
