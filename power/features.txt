@@ -6,8 +6,7 @@ Fuel Supply System
 Turbo Charger 
 Fuel Type
 Engine Type
-Emission Norm Compliance
-Kerb Weight
+Emission Norm Compliance 
 Drive Type
 Transmission
 Power
