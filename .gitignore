@@ -15,8 +15,7 @@ __pycache__/
 *.pkl
 
 # Dataset Files
-*.csv
-*.json
+
 
 # VS Code
 .vscode/
