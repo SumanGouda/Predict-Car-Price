@@ -1,12 +1,9 @@
 Engine
 No. of Cylinders
-Valves Per Cylinder
-Valve Configuration
-Fuel Supply System
-Turbo Charger 
+Drive Type
+Transmission
 Fuel Type
 Engine Type
 Emission Norm Compliance 
-Drive Type
-Transmission
+Valves Per Cylinder
 Power
