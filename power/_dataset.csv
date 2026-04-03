@@ -1241,3 +1241,162 @@ Engine,No. of Cylinders,Drive Type,Transmission,Fuel Type,Engine Type,Valves Per
 1186 cc,3.0,FWD,Manual,Diesel,U2 CRDI Diesel Engine,4.0,73.97 bhp
 1198 cc,3.0,FWD,Manual,Petrol,Naturally Aspirated 12V D,4.0,67 bhp
 1248 cc,4.0,,Manual,Diesel,DDiS Diesel Engine,4.0,74.02 bhp
+1196 cc,4.0,,Manual,CNG,G12B,4.0,61.68 bhp
+1493 cc,3.0,FWD,Automatic,Diesel,1.5 L CRDi VGT,4.0,113.43 bhp
+1396 cc,4.0,FWD,Manual,Diesel,CR4 Diesel Engine,4.0,69 bhp
+1498 cc,4.0,FWD,Manual,Diesel,TDI Diesel Engine,4.0,88.5 bhp
+1995 cc,4.0,AWD,Automatic,Diesel,M9R Diesel Engine,4.0,147.6 bhp
+2494 cc,4.0,FWD,Manual,Diesel,2KD-FTV Diesel Engine,4.0,100.6 bhp
+1330 cc,4.0,FWD,Automatic,Petrol,1.3 L HR13DDT Turbo Petrol,4.0,153.87 bhp
+1997 cc,4.0,FWD,Automatic,Petrol,i-VTEC Engine,4.0,141.1 bhp
+2894 cc,6.0,AWD,Automatic,Petrol,3.0-litre turbocharged V6 engine,4.0,348.66 bhp
+999 cc,3.0,,Automatic,Petrol,1.0L energy,4.0,71.01 bhp
+1197 cc,4.0,,Manual,Petrol,1.2 L K Series Engine,4.0,88.50 bhp
+2995 cc,6.0,AWD,Automatic,Petrol,3.0L Ti6 Petrol Engine,4.0,335.25 bhp
+2179 cc,4.0,AWD,Manual,Diesel,2.2 LTR. VARICOR 320,4.0,147.94 bhp
+2967 cc,6.0,AWD,Automatic,Diesel,V6 Diesel Engine,4.0,240 bhp
+998 cc,4.0,,Manual,Petrol,1.2 Kappa petrol,4.0,81.80 bhp
+1597 cc,4.0,FWD,Automatic,Diesel,i-DTEC Diesel Engine,4.0,118.3 bhp
+1396 cc,4.0,FWD,Manual,Diesel,,4.0,88.7 bhp
+1364 cc,4.0,FWD,Manual,Diesel,D-4D Diesel Engine,4.0,67.04 bhp
+2993 cc,6.0,AWD,Automatic,Diesel,Diesel Engine,4.0,271.23 bhp
+1998 cc,4.0,,Automatic,Diesel,2.0-litre muiltjet,4.0,167.67 bhp
+1984 cc,5.0,FWD,Automatic,Diesel,Turbo Diesel Engine,4.0,181 bhp
+2179 cc,4.0,AWD,Manual,Diesel,mHawk Diesel Engine,4.0,155 bhp
+1498 cc,4.0,FWD,Automatic,Petrol,H4K Petrol Engine,4.0,104.5 bhp
+1462 cc,4.0,FWD,Manual,Petrol,K15C HYBRID,4.0,101.64 bhp
+1493 cc,4.0,FWD,Manual,Petrol,In-Line Engine,4.0,106 bhp
+1956 cc,4.0,FWD,Manual,Diesel,2.0 L Multijet II Diesel,4.0,168 bhp
+1582 cc,4.0,FWD,Manual,Diesel,VGT CRDi Diesel Engine,4.0,126.3 bhp
+1598 cc,4.0,FWD,Manual,Petrol,K4M Petrol Engine,4.0,102.57 bhp
+999 cc,3.0,FWD,Manual,Petrol,1.0 L Petrol Engine,4.0,67.05 bhp
+1493 cc,4.0,FWD,Manual,Diesel,In-Line Engine,4.0,
+1248 cc,4.0,FWD,Manual,Diesel,DDiS Diesel Engine,4.0,73.94 bhp
+2494 cc,4.0,FWD,Manual,Diesel,In-Line Engine,4.0,100 bhp
+2993 cc,4.0,RWD,Manual,Diesel,2.4L Diesel Engine,4.0,147.51 bhp
+1462 cc,4.0,FWD,Manual,Petrol,K15C Smart Hybrid`,4.0,101.64 bhp
+2198 cc,4.0,RWD,Manual,Diesel,mHawk (CRDi),4.0,172.45 bhp
+2995 cc,6.0,AWD,Automatic,Petrol,3.0TFSIq Tiptronic Petrol,4.0,348.66 bhp
+1197 cc,4.0,FWD,Automatic,Petrol,K12M VVT I4,4.0,88.50 bhp
+2198 cc,4.0,4WD,Manual,Diesel,Diesel Engine,4.0,157.7 bhp
+1995 cc,4.0,4WD,Automatic,Diesel,xDrive20d Diesel Engine,4.0,184 bhp
+1598 cc,4.0,FWD,Manual,Diesel,Common Rail Diesel Engine,4.0,103.6 bhp
+796 cc,3.0,FWD,Manual,CNG,F8D Petrol Engine,4.0,47.3 bhp
+1461 cc,4.0,FWD,Manual,Diesel,dCi CRDi Diesel Engine,2.0,65 bhp
+1956 cc,4.0,FWD,Manual,Diesel,2.0L Turbocharged,4.0,167.67 bhp
+1248 cc,4.0,2 WD,Manual,Diesel,In-Line Engine,4.0,73.9 bhp
+1991 cc,4.0,AWD,Automatic,Petrol,Petrol Engine,4.0,245 bhp
+1997 cc,4.0,FWD,Manual,Petrol,i-VTEC Petrol Engine,4.0,153.86 bhp
+1497 cc,4.0,FWD,Automatic,Diesel,1.5L Turbo Diesel,4.0,115 bhp
+2184 cc,4.0,RWD,Manual,Diesel,mHAWK 4 Cylinder,4.0,130 bhp
+1498 cc,4.0,FWD,Automatic,Diesel,TDI Diesel Engine,4.0,108.495 bhp
+2489 cc,4.0,RWD,Manual,Diesel,mDI CRDe Diesel Engine,2.0,93.7 bhp
+2179 cc,4.0,RWD,Manual,Diesel,mHawk Diesel  Engine,4.0,120 bhp
+1248 cc,4.0,,Manual,Diesel,In-Line Engine,4.0,
+1493 cc,4.0,FWD,Automatic,Diesel,In-Line Engine,4.0,
+1086 cc,4.0,,Automatic,Petrol,,4.0,
+998 cc,3.0,FWD,Manual,Petrol,Boosterjet Petrol Engine,4.0,100 bhp
+1498 cc,4.0,FWD,Automatic,Petrol,HR15 Petrol Engine,4.0,99.6 bhp
+1498 cc,4.0,FWD,Automatic,Diesel,TDI Diesel Engine,4.0,103.2 bhp
+1061 cc,3.0,FWD,Manual,LPG,FC Petrol Engine,4.0,67 bhp
+2497 cc,6.0,AWD,Automatic,Petrol,In-Line Engine,4.0,
+2925 cc,6.0,AWD,Automatic,Diesel,,0.0,325.86 bhp
+1968 cc,4.0,Permanent all-wheel drive quattro,Automatic,Diesel,InLine 4-cylinder Engine,4.0,167.6 bhp
+2993 cc,6.0,4WD,Automatic,Diesel,xDrive30d Diesel Engine,4.0,245 bhp
+2993 cc,4.0,4WD,Automatic,Diesel,,4.0,296 bhp
+1995 cc,4.0,RWD,Automatic,Diesel,TwinPower Turbo Inline 4,4.0,187.74 bhp
+1984 cc,4.0,FWD,Automatic,Diesel,Turbo Diesel Engine,4.0,181 bhp
+2999 cc,6.0,AWD,Automatic,Petrol,3.0-litre 6-cylinder In-lineTurbo Engine,4.0,435 bhp
+2497 cc,6.0,,Automatic,Petrol,In-Line Engine,4.0,
+1995 cc,4.0,,Automatic,Diesel,In-Line Engine,4.0,
+1197 cc,4.0,,Automatic,Petrol,1.2 L K Series Engine,4.0,88.50 bhp
+1497 cc,4.0,FWD,Automatic,Diesel,1.5L Revotorq Turbocharged,4.0,108.50 bhp
+1984 cc,4.0,AWD,Automatic,Petrol,TFSI Quattro Engine,4.0,248 bhp
+2179 cc,4.0,,Manual,Diesel,,4.0,
+1461 cc,4.0,2WD,Manual,Diesel,1.5 K9K Diesel,4.0,108.5 bhp
+1498 cc,4.0,FWD,Automatic,Petrol,1.5L TGDi Hyperion,4.0,158 bhp
+1582 cc,4.0,FWD,Automatic,Diesel,VGT CRDi Diesel Engine,4.0,126.3 bhp
+1798 cc,4.0,FWD,Automatic,Petrol,Petrol Engine,4.0,157.75 bhp
+624 cc,2.0,RWD,Manual,Petrol,"2 cylinder, MPFI",2.0,
+2982 cc,4.0,2WD,Automatic,Diesel,4 Cylinders In-line,4.0,169 bhp
+1968 cc,4.0,FWD,Automatic,Diesel,2.0 TDI Diesel Engine,4.0,187.74 bhp
+1968 cc,4.0,AWD,Automatic,Diesel,TDI Quattro Diesel Engine,4.0,181 bhp
+2982 cc,4.0,4WD,Automatic,Diesel,D-4D Diesel Engine,4.0,
+2995 cc,6.0,AWD,Automatic,Petrol,3.0L V6 TFSI,4.0,335 bhp
+4999 cc,8.0,4WD,Automatic,Petrol,V-Type Petrol Engine,4.0,557.86 bhp
+,3.0,FWD,Manual,Petrol,1.2 l Revotron,4.0,
+1199 cc,3.0,2WD,Manual,Petrol,1.2 l Revotron Engine,4.0,86.63 bhp
+998 cc,3.0,FWD,Manual,Petrol,1.0L Turbo Boosterjet,4.0,98.69 bhp
+2179 cc,4.0,RWD,Manual,Diesel,VTT VARICOR Diesel Engine,4.0,147.94 bhp
+1582 cc,4.0,FWD,Manual,Diesel,U2 CRDI Engine,4.0,126.2 bhp
+1248 cc,4.0,FWD,Automatic,Diesel,DDiS 190 Engine,4.0,74 bhp
+1598 cc,4.0,FWD,Automatic,Petrol,Petrol Engine,4.0,103.2 bhp
+1997 cc,4.0,RWD,Manual,Diesel,mHawk Diesel Engine,4.0,120 bhp
+998 cc,3.0,FWD,Manual,Petrol,K10B Petrol Engine,4.0,67.06 bhp
+1596 cc,4.0,FWD,Manual,Petrol,In-Line Engine,4.0,
+1493 cc,4.0,2WD,Manual,Diesel,1.5 T-GRDi VGT,4.0,114.41 bhp
+2179 cc,4.0,RWD,Automatic,Diesel,mHawk Diesel Engine,4.0,120 bhp
+1198 cc,3.0,FWD,Manual,Petrol,In Line Petrol Engine,4.0,67 bhp
+1998 cc,4.0,AWD,Automatic,Diesel,Diesel Engine,4.0,112 bhp
+1197 cc,4.0,2WD,Manual,Petrol,SMARTSTREAM G1.2,4.0,81.86 bhp
+998 cc,3.0,FWD,Automatic,Petrol,Smartstream G1.0T-GDi,4.0,118 bhp
+1997 cc,4.0,2WD,Automatic,Petrol,mStallion,4.0,200 bhp
+1499 cc,4.0,FWD,Manual,Petrol,Ti-VCT Petrol Engine,4.0,107.5 bhp
+1997 cc,4.0,AWD,Automatic,Diesel,2.0L Ingenium Turbocharged I4,4.0,201.15 bhp
+2755 cc,4.0,4WD,Manual,Diesel,1-GD FTV Engine,4.0,174.5 bhp
+2982 cc,4.0,4WD,Manual,Diesel,D-4D Diesel Engine,4.0,168.5 bhp
+1493 cc,3.0,RWD,Automatic,Diesel,mHawk 100 Diesel Engine,2.0,100 bhp
+1061 cc,3.0,FWD,Manual,Petrol,FC Petrol Engine,4.0,67 bhp
+,,AWD,Automatic,Electric,,,320.55 bhp
+1998 cc,4.0,FWD,Manual,Diesel,VCDi Diesel Engine,4.0,163.7 bhp
+1950 cc,4.0,FWD,Automatic,Diesel,L4 200,4.0,160.92 bhp
+1995 cc,4.0,RWD,Automatic,Diesel,TwinPower Turbo 4 Cylinder Engine,4.0,187.74 bhp
+998 cc,3.0,FWD,Manual,Petrol,Smartstream G1.0 T-GDi,4.0,118.36 bhp
+999 cc,3.0,FWD,Manual,Petrol,1.0 B4D,4.0,71 bhp
+1493 cc,4.0,2WD,Manual,Diesel,mHAWK D70 Diesel Engine,4.0,70 bhp
+796 cc,3.0,FWD,Manual,CNG,F8D,4.0,40.36 bhp
+1199 cc,3.0,FWD,Automatic,Petrol,1.2L Revotron,4.0,84.48 bhp
+2198 cc,4.0,FWD,Manual,Diesel,mHawk,4.0,152 bhp
+1061 cc,4.0,,Manual,Petrol,In-Line Engine,4.0,
+2477 cc,4.0,4WD,Manual,Diesel,DI-Diesel Engine,4.0,175.56 bhp
+1197 cc,4.0,FWD,Manual,CNG,1.2 L CNG Engine,4.0,76.43 bhp
+1991 cc,4.0,AWD,Manual,Diesel,In-Line Engine,4.0,147.9 bhp
+998 cc,3.0,FWD,Manual,Petrol,1.0L K-Series Turbo,4.0,98.69 bhp
+1497 cc,4.0,FWD,Automatic,Diesel,1.5 L CRDi VGT,4.0,113.43 bhp
+1493 cc,3.0,RWD,Manual,Diesel,mHAWK75,4.0,74.96 bhp
+1993 cc,4.0,AWD,Automatic,Diesel,,4.0,194 bhp
+2198 cc,4.0,2WD,Automatic,Diesel,mHawk,4.0,172.45 bhp
+1396 cc,4.0,FWD,Manual,Diesel,Diesel Engine,4.0,88.7 bhp
+1495 cc,4.0,,Manual,Petrol,In-Line Engine,3.0,
+2092 cc,4.0,2WD,Manual,Petrol,In-Line Engine,4.0,
+2179 cc,4.0,RWD,Manual,Diesel,mHAWK Diesel Engine,4.0,120 bhp
+1461 cc,4.0,FWD,Manual,Diesel,dCI Engine,4.0,108.5 bhp
+796 cc,3.0,FWD,Manual,LPG,In-Line Engine,2.0,
+1199 cc,3.0,FWD,Manual,Petrol,1.2 L Turbo Petrol,4.0,118.35 bhp
+,,,Manual,Petrol,,,
+1796 cc,4.0,Two Wheel Drive,Manual,Petrol,CGI Petrol Engine,4.0,185 bhp
+1998 cc,4.0,FWD,Automatic,Petrol,2.0L Twin power turbo,4.0,189.08 bhp
+796 cc,3.0,,Manual,CNG,F8D Petrol Engine,4.0,40.36 bhp
+1197 cc,4.0,FWD,Automatic,Petrol,"1.2L Dual Jet, Dual VVT",4.0,88.50 bhp
+1199 cc,4.0,,Manual,Petrol,,4.0,
+1956 cc,4.0,4x2,Automatic,Diesel,2.0 L Multijet Diesel,4.0,172.35 bhp
+998 cc,3.0,FWD,Automatic,Petrol,1.0L K-Series Turbo,4.0,98.69 bhp
+1330 cc,4.0,FWD,Manual,Petrol,1.3 L HR13DDT Turbo Petrol,4.0,153.87 bhp
+1498 cc,4.0,FWD,Manual,Petrol,,4.0,105 bhp
+1497 cc,4.0,FWD,Automatic,Diesel,1.5L Revotorq Turbocharged,4.0,108.5 bhp
+1997 cc,4.0,RWD,Manual,Diesel,mHawk Diesel  Engine,4.0,120 bhp
+1248 cc,4.0,2WD,Manual,Diesel,DDIS Smart Hybrid Diesel,4.0,88.5 bhp
+1482 cc,4.0,FWD,Automatic,Petrol,1.5 l Turbo GDi Petrol,4.0,157.57 bhp
+,,FWD,Automatic,Electric,,,201.15 bhp
+2179 cc,4.0,AWD,Manual,Diesel,2.2 LTR. VARICOR 400,4.0,153.86 bhp
+1199 cc,3.0,FWD,Automatic,CNG,1.2L Revotron,4.0,74.47 bhp
+1997 cc,4.0,4WD,Automatic,Petrol,,4.0,296.36 bhp
+2143 cc,4.0,RWD,Automatic,Diesel,2.0L V 220 d,4.0,161 bhp
+2995 cc,6.0,AWD,Automatic,Petrol,3.0L V6 TFSI,4.0,335.25 bhp
+1956 cc,4.0,,Automatic,Diesel,2.0 Multijet II Diesel,4.0,167.67 bhp
+,,,Automatic,Electric,,,225.29 bhp
+,,FWD,Automatic,Electric,,,188 bhp
+1969 cc,4.0,AWD,Automatic,Diesel,2.0 litre Diesel Engine,4.0,190 bhp
+1984 cc,4.0,AWD,Automatic,Petrol,2.0 litre 4-cylinder in-l,4.0,248 bhp
+1997 cc,4.0,AWD,Automatic,Petrol,2.0L Ingenium Turbocharged I4,4.0,246.74 bhp
+1999 cc,4.0,AWD,Automatic,Petrol,Petrol Engine,4.0,237.4 bhp

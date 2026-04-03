@@ -27,17 +27,6 @@
                         <input class="form-input" type="number" name="kerb_weight" step="any" placeholder="Enter Kerb Weight" required>
                     </div>
 
-                    <!-- Fuel -->
-                    <div class="form-group">
-                        <label>Fuel Type</label>
-                        <select class="form-dropdown" name="fuel_type" required>
-                            <option value="" disabled selected>Select Fuel Type</option>
-                            <option value="Petrol">Petrol</option>
-                            <option value="Diesel">Diesel</option>
-                            <option value="CNG">CNG</option>
-                        </select>
-                    </div>
-
                     <!-- Transmission Type -->
                     <div class="form-group">
                         <label>Transmission Type</label>
@@ -65,6 +54,21 @@
                         <label>Registration Year</label>
                         <input class="form-input" type="number" name="year" step="1" min="1990" max="2025" placeholder="Enter Registration Year" required>
                     </div>
+
+                    <!-- Fuel -->
+                    <div class="form-group">
+                        <label>Fuel</label>
+                        <select class="form-dropdown" name="fuel" required>
+                            <option value="" disabled selected>Select Fuel Type</option>
+                            <option value="Petrol">Petrol</option>
+                            <option value="Diesel">Diesel</option>
+                            <option value="LPG">LPG</option>  <!-- ✅ changed CNG to LPG -->
+                        </select>
+                    </div>
+
+                    <!-- ✅ hidden fields — model needs these, user doesn't set them -->
+                    <input type="hidden" name="mileage_was_missing" value="0">
+                    <input type="hidden" name="fuel_was_missing" value="0">
 
                     <!-- Submit Button -->
                     <div class="form-group">
@@ -97,66 +101,56 @@
                         <input class="form-input" type="number" name="cylinders" step="any" placeholder="Enter No. of Cylinders" required>
                     </div>
 
+                    <!-- Transmission -->
+                    <div class="form-group">
+                        <label>Transmission</label>
+                        <select class="form-dropdown" name="transmission" required>
+                            <option value="" disabled selected>Select Transmission</option>
+                            <option value="0">Manual</option>
+                            <option value="1">Automatic</option>
+                        </select>
+                    </div>
+
                     <!-- Valves Per Cylinder -->
                     <div class="form-group">
                         <label>Valves Per Cylinder</label>
                         <input class="form-input" type="number" name="valves_per_cylinder" step="any" placeholder="Enter Valves Per Cylinder" required>
                     </div>
 
-                    <!-- Valve Configuration -->
-                     <div class="form-group">
-                        <label>Valve Configuration</label>
-                        <select class="form-dropdown" name="valve_configuration">
-                            <option value="DOHC" selected>DOHC</option>
-                            <option value="SOHC">SOHC</option>
-                            <option value="iDSI">iDSI</option>
-                        </select>
-                     </div>
-
-                    <!-- Fuel Supply System -->
-                     <div class="form-group">
-                        <label>Fuel Supply System</label>
-                        <select class="form-dropdown" name="fuel_supply_system">
-                            <option value="MPFI" selected>MPFI</option>
-                            <option value="CRDI">CRDI</option>
-                            <option value="GDI">GDI</option>
-                            <option value="Other">Other</option>
-                            <option value="EFI">EFI</option>
-                        </select>
-                     </div>
-
-                    <!-- Turbo Charger -->
+                    <!-- Drive Type -->
                     <div class="form-group">
-                        <label>Turbo Charger</label>
-                        <select class="form-dropdown" name="turbo_charger" required>
-                            <option value="" disabled selected>Select Turbo Charger</option>
-                            <option value="1">Yes</option>
-                            <option value="0">No</option>
+                        <label>Drive Type</label>
+                        <select class="form-dropdown" name="drive_type">
+                            <option value="" disabled selected>Select Drive Type</option>
+                            <option value="FWD">FWD</option>
+                            <option value="RWD">RWD</option>
+                            <option value="AWD">AWD</option>  <!-- ✅ AWD = both 0, dropped category -->
                         </select>
                     </div>
 
-                    <!-- Fuel Type -->
+                    <!-- Fuel -->
                     <div class="form-group">
-                        <label>Fuel Type</label>
-                        <select class="form-dropdown" name="fuel_type" required>
-                            <option value="" disabled selected>Select Fuel Type</option>
+                        <label>Fuel</label>
+                        <select class="form-dropdown" name="fuel" required>
+                            <option value="" disabled selected>Select Fuel</option>
                             <option value="Petrol">Petrol</option>
                             <option value="Diesel">Diesel</option>
-                            <option value="CNG">CNG</option>  
+                            <option value="LPG">LPG</option>  <!-- ✅ changed CNG to LPG -->
                         </select>
                     </div>
 
                     <!-- Engine Type -->
-                     <div class="form-group">
+                    <div class="form-group">
                         <label>Engine Type</label>
                         <select class="form-dropdown" name="engine_type">
-                            <option value="Kappa" selected>Kappa</option>
+                            <option value="" disabled selected>Select Engine Type</option>
                             <option value="DDiS">DDiS</option>
                             <option value="Diesel">Diesel</option>
                             <option value="F8D">F8D</option>
                             <option value="IRDE2">IRDE2</option>
                             <option value="In-Line">In-Line</option>
                             <option value="K Series">K Series</option>
+                            <option value="Kappa">Kappa</option>
                             <option value="Kryotec">Kryotec</option>
                             <option value="Other">Other</option>
                             <option value="Petrol">Petrol</option>
@@ -171,51 +165,16 @@
                             <option value="i-DTEC">i-DTEC</option>
                             <option value="i-VTEC">i-VTEC</option>
                             <option value="mHawk">mHawk</option>
-                            <option value="mStallion">mStallion</option>
-                        </select>
-                     </div>
-
-                    <!-- Emission Norm Compliance -->
-                     <div class="form-group">
-                        <label>Emission Norm Compliance</label>
-                        <select class="form-dropdown" name="emission_norm">
-                            <option value="BS6" selected>BS6</option>
-                            <option value="BS4">BS4</option>
-                            <option value="EURO">EURO</option>
-                        </select>
-                     </div>
-
-                    <!-- Kerb Weight -->
-                    <div class="form-group">
-                        <label>Kerb Weight</label>
-                        <input class="form-input" type="number" name="kerb_weight" step="any" placeholder="Enter Kerb Weight (kg)" required>
-                    </div>
-
-                    <!-- Drive Type -->
-                    <div class="form-group">
-                        <label>Drive Type</label>
-                        <select class="form-dropdown" name="drive_type">
-                            <option value="FWD" selected>FWD</option>
-                            <option value="RWD">RWD</option>
+                            <option value="mStallion">mStallion</option>  <!-- ✅ removed EmissionNorm dropdown -->
                         </select>
                     </div>
-
-                    <!-- Transmission -->
-                    <div class="form-group">
-                        <label>Transmission</label>
-                        <select class="form-dropdown" name="transmission" required>
-                            <option value="" disabled selected>Select Transmission</option>
-                            <option value="0">Manual</option>
-                            <option value="1">Automatic</option>
-                        </select>
-                    </div> 
 
                     <!-- Submit Button -->
                     <div class="form-group">
                         <button type="submit" class="form-btn">Predict Power</button>
                     </div>
 
-                </form>
+                </form> 
                 
                 <!---Result-->
                 {% if power_prediction %}
@@ -269,7 +228,7 @@
                     <!-- Fuel Type -->
                     <div class="form-group">
                         <label>Fuel Type</label>
-                        <select class="form-dropdown" name="fuel_type" required>
+                        <select class="form-dropdown" name="fuel" required>
                             <option value="" disabled selected>Select Fuel Type</option>
                             <option value="Petrol">Petrol</option>
                             <option value="Diesel">Diesel</option>

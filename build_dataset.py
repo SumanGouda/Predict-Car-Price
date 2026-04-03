@@ -54,6 +54,8 @@ class BuildDataset:
         if missing:
             print(f"⚠️  Missing columns skipped: {missing}")
         self.df = self.df[available]
+        if self.feature == 'price' and 'city' not in self.df.columns:
+            self.df['city'] = self.city
 
         before = len(self.df)
         self.df.drop_duplicates(inplace=True)
@@ -92,8 +94,8 @@ class BuildDataset:
 # ─────────────────────────────────────────
 if __name__ == '__main__':
 
-    FEATURES = ['mileage', 'power', 'price']
-    CITIES = []
+    FEATURES = ['price', 'power', 'mileage']
+    CITIES = ['Noida']
 
     for feature in FEATURES:
         print(f"\n{'='*50}")
