@@ -1,178 +1,178 @@
-/* Page Background */
+/* Dark theme for Car Details Predictor */
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&display=swap');
+
 * {
     margin: 0;
     padding: 0;
     box-sizing: border-box;
-    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-}
-
-.section-title {
-    font-size: 20px;
-    font-weight: 600;
-    color: #a78bfa;
-    margin: 40px 0 15px 0;
-    padding-bottom: 8px;
-    border-bottom: 2px solid #2a2a45;
-    text-align: left;
 }
 
 body {
-    background-color: #0f0f1a;
+    font-family: 'Inter', sans-serif;
+    background-color: #0f1117;
+    color: #e0e0e0;
+    min-height: 100vh;
+}
+
+.page {
+    max-width: 1400px;
+    margin: 0 auto;
     padding: 40px 20px;
 }
 
-/* Page Wrapper */
-.page {
+.header h1 {
+    text-align: center;
+    font-size: 2.2rem;
+    font-weight: 700;
+    color: #ffffff;
+    margin-bottom: 40px;
+    letter-spacing: -0.5px;
+}
+
+/* Three-column vertical layout */
+.card {
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    gap: 30px;
+    align-items: start;
+}
+
+/* Section titles act as column headers */
+.section-title {
+    font-size: 1.3rem;
+    font-weight: 600;
+    color: #ffffff;
+    margin-bottom: 20px;
+    padding-bottom: 12px;
+    border-bottom: 2px solid #2a2d3a;
+    text-align: center;
+}
+
+/* Each form is a vertical column */
+.form-grid {
     display: flex;
     flex-direction: column;
-    align-items: center;
-    width: 100%;       
-    padding: 0 20px;
+    gap: 14px;
+    background: #1a1d2e;
+    border: 1px solid #2a2d3a;
+    border-radius: 12px;
+    padding: 24px;
 }
 
-/* Header */
-.header {
-    width: 100%;  
-    text-align: center;  
-    margin-bottom: 40px;
-}
-.header h1 {
-    font-size: 32px;
-    color: #e0e0e0;
-    text-align: center;
-    margin-bottom: 30px;
-}
-
-/* Card */
- .card {
-    background: #1a1a2e;
-    padding: 40px;
-    border-radius: 16px;
-    box-shadow: 0 4px 30px rgba(0, 0, 0, 0.5);
-    width: 100%;        
-    max-width: 1000px;   
-    border: 1px solid #2a2a45;
-    margin: 0 auto; 
-}
-/* Card Title */
-.title {
-    font-size: 22px;
-    font-weight: 600;
-    color: #a78bfa;
-    margin-bottom: 25px;
-    text-align: center;
-}
-
-/* Two Column Grid */
-.form-grid {
-    display: grid;
-    grid-template-columns: 1fr 1fr;
-    gap: 20px;
-    text-align: left; 
-}
-
-/* Form Group */
 .form-group {
     display: flex;
     flex-direction: column;
     gap: 6px;
 }
 
-/* Label */
 .form-group label {
-    font-size: 13px;
-    font-weight: 600;
-    color: #a0a0c0;
+    font-size: 0.82rem;
+    font-weight: 500;
+    color: #9ca3af;
     text-transform: uppercase;
     letter-spacing: 0.5px;
-    text-align: left;
 }
 
-/* Input */
-.form-input {
-    width: 100%;
-    padding: 10px 14px;
-    border: 1px solid #2a2a45;
-    border-radius: 8px;
-    font-size: 14px;
-    color: #e0e0e0;
-    background-color: #12122a;
-    outline: none;
-    transition: border 0.2s;
-}
-
-.form-input:focus {
-    border-color: #a78bfa;
-    background-color: #1a1a3e;
-}
-
-/* Dropdown */
+.form-input,
 .form-dropdown {
     width: 100%;
     padding: 10px 14px;
-    border: 1px solid #2a2a45;
+    background: #0f1117;
+    border: 1px solid #2a2d3a;
     border-radius: 8px;
-    font-size: 14px;
     color: #e0e0e0;
-    background-color: #12122a;
+    font-size: 0.9rem;
+    font-family: 'Inter', sans-serif;
+    transition: border-color 0.2s, box-shadow 0.2s;
     outline: none;
-    cursor: pointer;
-    transition: border 0.2s;
 }
 
+.form-input::placeholder {
+    color: #4b5563;
+}
+
+.form-input:focus,
 .form-dropdown:focus {
-    border-color: #a78bfa;
-    background-color: #1a1a3e;
+    border-color: #6366f1;
+    box-shadow: 0 0 0 3px rgba(99, 102, 241, 0.15);
 }
 
-/* Submit Button */
-.form-group:last-of-type {
-    grid-column: span 2;
+.form-dropdown option {
+    background: #1a1d2e;
+    color: #e0e0e0;
 }
 
 .form-btn {
     width: 100%;
-    padding: 13px;
-    background: linear-gradient(135deg, #6d28d9, #a78bfa);
-    color: white;
+    padding: 12px;
+    margin-top: 6px;
+    background: linear-gradient(135deg, #6366f1, #8b5cf6);
+    color: #ffffff;
+    font-size: 0.95rem;
+    font-weight: 600;
     border: none;
     border-radius: 8px;
-    font-size: 16px;
-    font-weight: 600;
     cursor: pointer;
-    transition: opacity 0.2s;
+    transition: opacity 0.2s, transform 0.1s;
+    font-family: 'Inter', sans-serif;
 }
 
 .form-btn:hover {
-    opacity: 0.85;
+    opacity: 0.9;
 }
 
-/* Result Card */
+.form-btn:active {
+    transform: scale(0.98);
+}
+
+/* Result cards */
 .result-card {
-    grid-column: span 2;
-    margin-top: 10px;
+    background: #1a1d2e;
+    border: 1px solid #2a2d3a;
+    border-radius: 12px;
     padding: 20px;
-    background-color: #12122a;
-    border: 1px solid #6d28d9;
-    border-radius: 10px;
-    text-align: left;
+    text-align: center;
+    margin-top: 10px;
 }
 
 .result-card h3 {
-    color: #a0a0c0;
-    font-size: 16px;
+    font-size: 0.85rem;
+    font-weight: 500;
+    color: #9ca3af;
+    text-transform: uppercase;
+    letter-spacing: 0.5px;
     margin-bottom: 8px;
 }
 
 .result-value {
-    font-size: 36px;
-    font-weight: bold;
-    color: #a78bfa;
+    font-size: 1.8rem;
+    font-weight: 700;
+    color: #6366f1;
 }
 
-/* Warning */
 .warning {
     color: #f59e0b;
-    font-size: 13px;
-    margin-top: 5px;
+    font-size: 0.85rem;
+    margin-top: 10px;
+    padding: 10px 14px;
+    background: rgba(245, 158, 11, 0.1);
+    border: 1px solid rgba(245, 158, 11, 0.25);
+    border-radius: 8px;
+}
+
+/* Responsive: stack on smaller screens */
+@media (max-width: 1024px) {
+    .card {
+        grid-template-columns: 1fr 1fr;
+    }
+}
+
+@media (max-width: 680px) {
+    .card {
+        grid-template-columns: 1fr;
+    }
+
+    .header h1 {
+        font-size: 1.6rem;
+    }
 }
