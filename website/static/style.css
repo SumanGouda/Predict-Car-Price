@@ -1,178 +1,269 @@
-/* Dark theme for Car Details Predictor */
-@import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Rajdhani:wght@400;500;600;700&family=DM+Sans:wght@300;400;500&display=swap');
 
-* {
-    margin: 0;
-    padding: 0;
-    box-sizing: border-box;
+/* ─── Variables ─────────────────────────────────── */
+:root {
+  --bg:          #090c10;
+  --surface:     #0e1318;
+  --card:        #121820;
+  --border:      #1e2a35;
+  --border-glow: #1e3a4a;
+  --accent-m:    #00c6ff;
+  --accent-p:    #f97316;
+  --accent-pr:   #a78bfa;
+  --text:        #e2e8f0;
+  --muted:       #5a7080;
+  --input-bg:    #0a1018;
+  --result-bg:   #0d1922;
 }
+
+/* ─── Reset ──────────────────────────────────────── */
+*, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
+html { scroll-behavior: smooth; }
 
 body {
-    font-family: 'Inter', sans-serif;
-    background-color: #0f1117;
-    color: #e0e0e0;
-    min-height: 100vh;
+  background: var(--bg);
+  color: var(--text);
+  font-family: 'DM Sans', sans-serif;
+  font-size: 14px;
+  min-height: 100vh;
+  background-image:
+    radial-gradient(ellipse 80% 40% at 20% -10%, rgba(0,198,255,0.04) 0%, transparent 60%),
+    radial-gradient(ellipse 60% 30% at 80% 110%, rgba(167,139,250,0.04) 0%, transparent 60%);
 }
 
-.page {
-    max-width: 1400px;
-    margin: 0 auto;
-    padding: 40px 20px;
+/* ─── Header ─────────────────────────────────────── */
+.header {
+  text-align: center;
+  padding: 56px 24px 40px;
+}
+
+.header::after {
+  content: '';
+  display: block;
+  width: 120px;
+  height: 2px;
+  background: linear-gradient(90deg, var(--accent-m), var(--accent-pr));
+  margin: 16px auto 0;
+  border-radius: 2px;
 }
 
 .header h1 {
-    text-align: center;
-    font-size: 2.2rem;
-    font-weight: 700;
-    color: #ffffff;
-    margin-bottom: 40px;
-    letter-spacing: -0.5px;
+  font-family: 'Rajdhani', sans-serif;
+  font-size: clamp(2rem, 5vw, 3.2rem);
+  font-weight: 700;
+  letter-spacing: 0.12em;
+  text-transform: uppercase;
+  background: linear-gradient(135deg, #e2e8f0 30%, #7ab8d4 100%);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  background-clip: text;
 }
 
-/* Three-column vertical layout */
+/* ─── Three-column layout ────────────────────────── */
+.columns {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  gap: 20px;
+  max-width: 1400px;
+  margin: 0 auto;
+  padding: 0 24px 60px;
+  align-items: start;
+}
+
+@media (max-width: 1100px) { .columns { grid-template-columns: 1fr 1fr; } }
+@media (max-width: 680px)  { .columns { grid-template-columns: 1fr; } }
+
+/* ─── Card ───────────────────────────────────────── */
 .card {
-    display: grid;
-    grid-template-columns: 1fr 1fr 1fr;
-    gap: 30px;
-    align-items: start;
+  background: var(--card);
+  border: 1px solid var(--border);
+  border-radius: 16px;
+  padding: 28px 24px 24px;
+  display: flex;
+  flex-direction: column;
+  position: relative;
+  overflow: hidden;
+  transition: border-color 0.3s, box-shadow 0.3s;
 }
 
-/* Section titles act as column headers */
+.card::before {
+  content: '';
+  position: absolute;
+  top: 0; left: 0; right: 0;
+  height: 3px;
+  border-radius: 16px 16px 0 0;
+}
+
+.card.mileage::before { background: linear-gradient(90deg, var(--accent-m), transparent); }
+.card.power::before   { background: linear-gradient(90deg, var(--accent-p), transparent); }
+.card.price::before   { background: linear-gradient(90deg, var(--accent-pr), transparent); }
+
+.card.mileage:hover { border-color: rgba(0,198,255,0.3);   box-shadow: 0 0 32px rgba(0,198,255,0.06); }
+.card.power:hover   { border-color: rgba(249,115,22,0.3);  box-shadow: 0 0 32px rgba(249,115,22,0.06); }
+.card.price:hover   { border-color: rgba(167,139,250,0.3); box-shadow: 0 0 32px rgba(167,139,250,0.06); }
+
+/* ─── Section title ──────────────────────────────── */
 .section-title {
-    font-size: 1.3rem;
-    font-weight: 600;
-    color: #ffffff;
-    margin-bottom: 20px;
-    padding-bottom: 12px;
-    border-bottom: 2px solid #2a2d3a;
-    text-align: center;
+  font-family: 'Rajdhani', sans-serif;
+  font-size: 1.2rem;
+  font-weight: 700;
+  letter-spacing: 0.1em;
+  text-transform: uppercase;
+  margin-bottom: 20px;
+  display: flex;
+  align-items: center;
+  gap: 10px;
 }
 
-/* Each form is a vertical column */
+.mileage .section-title { color: var(--accent-m); }
+.power   .section-title { color: var(--accent-p); }
+.price   .section-title { color: var(--accent-pr); }
+
+/* ─── Form grid ──────────────────────────────────── */
 .form-grid {
-    display: flex;
-    flex-direction: column;
-    gap: 14px;
-    background: #1a1d2e;
-    border: 1px solid #2a2d3a;
-    border-radius: 12px;
-    padding: 24px;
+  display: flex;
+  flex-direction: column;
+  gap: 12px;
 }
 
 .form-group {
-    display: flex;
-    flex-direction: column;
-    gap: 6px;
+  display: flex;
+  flex-direction: column;
+  gap: 5px;
 }
 
 .form-group label {
-    font-size: 0.82rem;
-    font-weight: 500;
-    color: #9ca3af;
-    text-transform: uppercase;
-    letter-spacing: 0.5px;
+  font-size: 11px;
+  font-weight: 500;
+  letter-spacing: 0.08em;
+  text-transform: uppercase;
+  color: var(--muted);
 }
 
+/* ─── Inputs & Selects ───────────────────────────── */
 .form-input,
 .form-dropdown {
-    width: 100%;
-    padding: 10px 14px;
-    background: #0f1117;
-    border: 1px solid #2a2d3a;
-    border-radius: 8px;
-    color: #e0e0e0;
-    font-size: 0.9rem;
-    font-family: 'Inter', sans-serif;
-    transition: border-color 0.2s, box-shadow 0.2s;
-    outline: none;
+  width: 100%;
+  background: var(--input-bg);
+  border: 1px solid var(--border);
+  border-radius: 8px;
+  padding: 9px 12px;
+  color: var(--text);
+  font-family: 'DM Sans', sans-serif;
+  font-size: 13px;
+  outline: none;
+  transition: border-color 0.2s, box-shadow 0.2s;
+  appearance: none;
+  -webkit-appearance: none;
 }
 
-.form-input::placeholder {
-    color: #4b5563;
+.form-input::placeholder { color: #2e4055; }
+
+.mileage .form-input:focus, .mileage .form-dropdown:focus {
+  border-color: rgba(0,198,255,0.4);
+  box-shadow: 0 0 0 3px rgba(0,198,255,0.08);
+}
+.power .form-input:focus, .power .form-dropdown:focus {
+  border-color: rgba(249,115,22,0.4);
+  box-shadow: 0 0 0 3px rgba(249,115,22,0.08);
+}
+.price .form-input:focus, .price .form-dropdown:focus {
+  border-color: rgba(167,139,250,0.4);
+  box-shadow: 0 0 0 3px rgba(167,139,250,0.08);
 }
 
-.form-input:focus,
-.form-dropdown:focus {
-    border-color: #6366f1;
-    box-shadow: 0 0 0 3px rgba(99, 102, 241, 0.15);
+.form-dropdown {
+  background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='12' height='8' viewBox='0 0 12 8'%3E%3Cpath d='M1 1l5 5 5-5' stroke='%235a7080' stroke-width='1.5' fill='none' stroke-linecap='round'/%3E%3C/svg%3E");
+  background-repeat: no-repeat;
+  background-position: right 12px center;
+  padding-right: 32px;
+  cursor: pointer;
 }
 
-.form-dropdown option {
-    background: #1a1d2e;
-    color: #e0e0e0;
-}
+.form-dropdown option { background: #0e1318; color: var(--text); }
 
+/* ─── Submit Button ──────────────────────────────── */
 .form-btn {
-    width: 100%;
-    padding: 12px;
-    margin-top: 6px;
-    background: linear-gradient(135deg, #6366f1, #8b5cf6);
-    color: #ffffff;
-    font-size: 0.95rem;
-    font-weight: 600;
-    border: none;
-    border-radius: 8px;
-    cursor: pointer;
-    transition: opacity 0.2s, transform 0.1s;
-    font-family: 'Inter', sans-serif;
+  width: 100%;
+  padding: 11px 20px;
+  border: none;
+  border-radius: 8px;
+  font-family: 'Rajdhani', sans-serif;
+  font-size: 14px;
+  font-weight: 700;
+  letter-spacing: 0.1em;
+  text-transform: uppercase;
+  cursor: pointer;
+  margin-top: 4px;
+  transition: opacity 0.2s, transform 0.15s;
 }
 
-.form-btn:hover {
-    opacity: 0.9;
+.form-btn:hover  { opacity: 0.88; transform: translateY(-1px); }
+.form-btn:active { transform: translateY(0); }
+
+.mileage .form-btn {
+  background: linear-gradient(135deg, #0099cc, #00c6ff);
+  color: #001a26;
+  box-shadow: 0 4px 16px rgba(0,198,255,0.2);
+}
+.power .form-btn {
+  background: linear-gradient(135deg, #c2510a, #f97316);
+  color: #1a0a00;
+  box-shadow: 0 4px 16px rgba(249,115,22,0.2);
+}
+.price .form-btn {
+  background: linear-gradient(135deg, #7c3aed, #a78bfa);
+  color: #0d0014;
+  box-shadow: 0 4px 16px rgba(167,139,250,0.2);
 }
 
-.form-btn:active {
-    transform: scale(0.98);
-}
-
-/* Result cards */
+/* ─── Result card ────────────────────────────────── */
 .result-card {
-    background: #1a1d2e;
-    border: 1px solid #2a2d3a;
-    border-radius: 12px;
-    padding: 20px;
-    text-align: center;
-    margin-top: 10px;
+  margin-top: 16px;
+  padding: 16px;
+  background: var(--result-bg);
+  border-radius: 10px;
+  border: 1px solid var(--border-glow);
+  text-align: center;
+  animation: fadeIn 0.4s ease;
+}
+
+@keyframes fadeIn {
+  from { opacity: 0; transform: translateY(6px); }
+  to   { opacity: 1; transform: translateY(0); }
 }
 
 .result-card h3 {
-    font-size: 0.85rem;
-    font-weight: 500;
-    color: #9ca3af;
-    text-transform: uppercase;
-    letter-spacing: 0.5px;
-    margin-bottom: 8px;
+  font-size: 10px;
+  letter-spacing: 0.12em;
+  text-transform: uppercase;
+  color: var(--muted);
+  margin-bottom: 6px;
 }
 
 .result-value {
-    font-size: 1.8rem;
-    font-weight: 700;
-    color: #6366f1;
+  font-family: 'Rajdhani', sans-serif;
+  font-size: 2rem;
+  font-weight: 700;
+  letter-spacing: 0.05em;
 }
 
+.mileage .result-value { color: var(--accent-m); }
+.power   .result-value { color: var(--accent-p); }
+.price   .result-value { color: var(--accent-pr); }
+
+/* ─── Warning ────────────────────────────────────── */
 .warning {
-    color: #f59e0b;
-    font-size: 0.85rem;
-    margin-top: 10px;
-    padding: 10px 14px;
-    background: rgba(245, 158, 11, 0.1);
-    border: 1px solid rgba(245, 158, 11, 0.25);
-    border-radius: 8px;
+  font-size: 12px;
+  color: #f59e0b;
+  background: rgba(245,158,11,0.08);
+  border: 1px solid rgba(245,158,11,0.2);
+  border-radius: 6px;
+  padding: 8px 12px;
+  margin-top: 10px;
 }
 
-/* Responsive: stack on smaller screens */
-@media (max-width: 1024px) {
-    .card {
-        grid-template-columns: 1fr 1fr;
-    }
-}
-
-@media (max-width: 680px) {
-    .card {
-        grid-template-columns: 1fr;
-    }
-
-    .header h1 {
-        font-size: 1.6rem;
-    }
-}
+/* ─── Scrollbar ──────────────────────────────────── */
+::-webkit-scrollbar { width: 6px; }
+::-webkit-scrollbar-track { background: var(--bg); }
+::-webkit-scrollbar-thumb { background: var(--border); border-radius: 3px; }

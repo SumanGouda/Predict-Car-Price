@@ -24,3 +24,4 @@ d:\IMP  ML  PROJECTS\CAR PRICE PREDICTION\web scraping\Ahmedabad\car_dataset_ahm
 d:\IMP  ML  PROJECTS\CAR PRICE PREDICTION\web scraping\Noida\car_dataset_noida.json::price
 d:\IMP  ML  PROJECTS\CAR PRICE PREDICTION\web scraping\Noida\car_dataset_noida.json::power
 d:\IMP  ML  PROJECTS\CAR PRICE PREDICTION\web scraping\Noida\car_dataset_noida.json::mileage
+d:\IMP  ML  PROJECTS\CAR PRICE PREDICTION\web scraping\Pune\car_dataset_pune.json::price

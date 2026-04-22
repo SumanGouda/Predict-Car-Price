@@ -94,8 +94,8 @@ class BuildDataset:
 # ─────────────────────────────────────────
 if __name__ == '__main__':
 
-    FEATURES = ['price', 'power', 'mileage']
-    CITIES = ['Noida']
+    FEATURES = ['price']
+    CITIES = ['Lucknow', 'Ranchi']
 
     for feature in FEATURES:
         print(f"\n{'='*50}")
