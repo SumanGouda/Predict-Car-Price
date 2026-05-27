@@ -25,4 +25,7 @@ __pycache__/
 Thumbs.db
 
 # Logs
-*.log
+*.log"kaggle_car_dataset.zip" 
+"*.joblib" 
+"*.zip" 
+"test/" 
