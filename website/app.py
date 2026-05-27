@@ -177,8 +177,8 @@ def predict_power():
 
     return render_template("index.html", power_prediction=prediction)
 
-@app.route("/api/predict_mileage", methods=["POST"])
-def predict_mileage():
+@app.route("/predict_mileage", methods=["POST"])
+def predict_mileage(): 
     engine       = float(request.form.get("engine", 1200))
     kerb_weight  = float(request.form.get("kerb_weight", 1000))
     transmission = int(request.form.get("transmission_type", 0))
@@ -190,8 +190,7 @@ def predict_mileage():
     Fuel_Diesel = 1 if fuel == "Diesel" else 0
     Fuel_LPG    = 1 if fuel == "LPG"    else 0
     Fuel_Petrol = 1 if fuel == "Petrol" else 0
-
-    # Exact column order from model
+ 
     features = [
         engine, kerb_weight, transmission, power,
         cylinders, year,
