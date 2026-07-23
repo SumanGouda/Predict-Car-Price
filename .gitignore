@@ -1,34 +1,37 @@
-# Virtual Environment
+# Virtual Environments
 .venv/
 venv/
 env/
 
-# Python Cache
+# Python & Bytecode Cache
 __pycache__/
 *.pyc
 *.pyo
 
+# Environment & Secret Files
+.env
+
+# Model Files & Weights
+*.pkl
+*.joblib
+
+# Datasets & Archive Files
+*.json
+*.zip
+kaggle_car_dataset.zip
+
 # Jupyter Notebook Checkpoints
 .ipynb_checkpoints/
 
-# Model Files (large files)
-*.pkl
+# Development & Test Directories
+test/
 
-# Dataset Files
-*.json
-
-# VS Code
+# IDE & Editor Files
 .vscode/
 
-# OS Files
+# Logs
+*.log
+
+# Operating System Files
 .DS_Store
 Thumbs.db
-
-# Logs
-*.log"kaggle_car_dataset.zip" 
-"*.joblib" 
-"*.zip" 
-"test/" 
-
-# Folders 
-Deep Learning/
