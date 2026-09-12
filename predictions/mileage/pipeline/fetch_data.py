@@ -3,15 +3,15 @@ import sqlite3
 import pandas as pd
 from pathlib import Path
 
-PROJECT_ROOT = Path(__file__).resolve().parents[2]
+PROJECT_ROOT = Path(__file__).resolve().parents[3]
 if str(PROJECT_ROOT) not in sys.path:
     sys.path.append(str(PROJECT_ROOT))
 
 from utils.helper import get_and_validate_features
 from utils.cleaning import clean_data
 from config.settings import (
-    db_file, output_file_mileage, mileage_features_file, ohe_metadata_file, processed_file_mileage,
-    process_raw_data, FEATURE_REGEX_PATTERNS, OHE_FEATURES 
+    db_file, output_file_mileage, features_file_mileage, ohe_metadata_file_mileage, processed_file_mileage,
+    process_raw_data, FEATURE_REGEX_PATTERNS, OHE_FEATURES, FUNC_CLEAN_DICT
 )
 
 def main(features_txt_path: str, db_path: str, output_csv_path: str) -> pd.DataFrame:
@@ -64,7 +64,6 @@ def main(features_txt_path: str, db_path: str, output_csv_path: str) -> pd.DataF
         try:
             df_table = pd.read_sql_query(query, conn)
             if not df_table.empty:
-                df_table["source_city"] = table
                 all_data.append(df_table)
         except Exception as e:
             print(f"Error querying table '{table}': {e}")
@@ -87,20 +86,20 @@ def main(features_txt_path: str, db_path: str, output_csv_path: str) -> pd.DataF
 
     return combined_df
 
-def process(csv_file: str, clean_dict: dict, ohe_features: list, metadata_json: str, output_path: str):
+def process(csv_file: str, clean_dict: dict, func_clean_dict:dict, ohe_features: list, metadata_json: str, output_path: str):
     csv_file = Path(csv_file)
     metadata_json = Path(metadata_json)
     output_path = Path(output_path)
 
     df = pd.read_csv(csv_file)
-    df = clean_data(df, clean_dict, ohe_features, metadata_json)
+    df = clean_data(df, clean_dict, func_clean_dict, ohe_features, metadata_json)
     output_path.parent.mkdir(parents=True, exist_ok=True)
  
     df.to_csv(output_path, index=False)
 
 if __name__ == "__main__":
-    main(mileage_features_file, db_file, output_file_mileage)
+    main(features_file_mileage, db_file, output_file_mileage)
 
     if process_raw_data:
-        process(output_file_mileage, FEATURE_REGEX_PATTERNS, OHE_FEATURES, ohe_metadata_file, processed_file_mileage)
+        process(output_file_mileage, FEATURE_REGEX_PATTERNS, FUNC_CLEAN_DICT, OHE_FEATURES, ohe_metadata_file_mileage, processed_file_mileage)
 
