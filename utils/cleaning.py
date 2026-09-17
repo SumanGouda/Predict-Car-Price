@@ -1,7 +1,8 @@
 import json
-from pathlib import Path
-from typing import Any, Dict, List, Tuple
+from pathlib import Path 
 import pandas as pd
+import numpy as np
+from typing import Any
 
 
 def clean_drive_type(value: Any) -> str:
@@ -32,106 +33,72 @@ def clean_drive_type(value: Any) -> str:
 
     return "Unknown"
 
-def clean_engine_type(value: Any) -> str:
-    """Standardizes engine family variants into canonical labels without encoding."""
+def clean_emission_norm(value: Any, map_dict) -> int:
+    """Normalizes emission norm variants and maps them to an ordinal strictness rank."""
     if pd.isna(value) or str(value).strip().lower() in ["nan", "none", ""]:
-        return "Unknown"
+        return map_dict["Unknown"]
 
-    cleaned_val = str(value).strip()
-    val_upper = cleaned_val.upper()
+    cleaned_val = str(value).strip().upper()
 
-    if "KAPPA" in val_upper:
-        return "Kappa"
+    if "ZEV" in cleaned_val:
+        canonical = "ZEV"
+    elif "6.0" in cleaned_val or "VI 2.0" in cleaned_val:
+        canonical = "BS VI 2.0"
+    elif "BS III" in cleaned_val or "BSIII" in cleaned_val or "BHARAT STAGE III" in cleaned_val:
+        canonical = "BS III"
+    elif "BS IV" in cleaned_val or "BSIV" in cleaned_val or "BHARAT STAGE IV" in cleaned_val:
+        canonical = "BS IV"
+    elif "BS VI" in cleaned_val or "BSVI" in cleaned_val or "BHARAT STAGE VI" in cleaned_val:
+        canonical = "BS VI"
+    elif "BS II" in cleaned_val or "BHARAT STAGE II" in cleaned_val:
+        canonical = "BS II"
+    elif "BS I" in cleaned_val or "BHARAT STAGE I" in cleaned_val:
+        canonical = "BS I"
+    elif "EURO VI" in cleaned_val or "EU 6" in cleaned_val:
+        canonical = "Euro VI"
+    elif "EURO V" in cleaned_val:
+        canonical = "Euro V"
+    elif "EURO IV" in cleaned_val:
+        canonical = "Euro IV"
+    else:
+        canonical = "Unknown"
 
-    k_series_variants = [
-        "K10B",
-        "K10C",
-        "K12M",
-        "K12N",
-        "K14B",
-        "K15B",
-        "K15C",
-        "K SERIES",
-        "K-SERIES",
-        "ADVANCED K",
-    ]
-    if any(x in val_upper for x in k_series_variants):
-        return "K Series"
+    return map_dict[canonical]
 
-    ivtec_variants = ["I-VTEC", "I VTEC", "IVTEC"]
-    if any(x in val_upper for x in ivtec_variants):
-        return "i-VTEC"
+def clean_price(value: Any) -> float:
+    """Converts price strings with Lakh/Crore/Thousand suffixes into a numeric value."""
+    if pd.isna(value) or str(value).strip().lower() in ["nan", "none", ""]:
+        return np.nan
 
-    idtec_variants = ["I-DTEC", "I DTEC"]
-    if any(x in val_upper for x in idtec_variants):
-        return "i-DTEC"
+    cleaned_val = str(value).replace("₹", "").strip()
 
-    if "REVOTRON" in val_upper:
-        return "Revotron"
+    if "Lakh" in cleaned_val:
+        return float(cleaned_val.replace("Lakh", "").strip()) * 100000
+    if "Crore" in cleaned_val:
+        return float(cleaned_val.replace("Crore", "").strip()) * 10000000
+    if "Thousand" in cleaned_val:
+        return float(cleaned_val.replace("Thousand", "").strip()) * 1000
 
-    if "REVOTORQ" in val_upper:
-        return "Revotorq"
+    return np.nan
 
-    if "DDIS" in val_upper:
-        return "DDiS"
+def clean_car_name(value: Any) -> tuple[str, str]:
+    """Splits a raw car name string into (brand, model) without encoding."""
+    if pd.isna(value) or str(value).strip().lower() in ["nan", "none", ""]:
+        return "Unknown", "Unknown"
 
-    if "IRDE2" in val_upper:
-        return "IRDE2"
+    parts = str(value).strip().split(" ", 1)
+    brand = parts[0] if parts[0] else "Unknown"
+    model = parts[1] if len(parts) > 1 and parts[1] else "Unknown"
 
-    if "TSI" in val_upper:
-        return "TSI"
+    return brand, model
 
-    tdi_variants = ["TDI", "TDCI"]
-    if any(x in val_upper for x in tdi_variants):
-        return "TDI"
-
-    crdi_variants = ["CRDI", "CRDE"]
-    if any(x in val_upper for x in crdi_variants):
-        return "CRDi"
-
-    if "MHAWK" in val_upper:
-        return "mHawk"
-
-    if "MSTALLION" in val_upper:
-        return "mStallion"
-
-    kryotec_variants = ["KRYOTEC", "KRYOJET"]
-    if any(x in val_upper for x in kryotec_variants):
-        return "Kryotec"
-
-    if "SMARTSTREAM" in val_upper:
-        return "SmartStream"
-
-    if "F8D" in val_upper:
-        return "F8D"
-
-    vvt_variants = ["VVT", "VTVT", "VVTI", "TI-VCT"]
-    if any(x in val_upper for x in vvt_variants):
-        return "VVT"
-
-    if "TWINPOWER" in val_upper:
-        return "TwinPower"
-
-    toyota_variants = ["D-4D", "2KD-FTV", "2-GD FTV"]
-    if any(x in val_upper for x in toyota_variants):
-        return "Toyota Diesel"
-
-    if "PETROL" in val_upper:
-        return "Petrol"
-
-    if "DIESEL" in val_upper:
-        return "Diesel"
-
-    inline_variants = ["IN-LINE", "IN LINE", "INLINE"]
-    if any(x in val_upper for x in inline_variants):
-        return "In-Line"
-
-    return "Other"
-
-def clean_data(
-    df: pd.DataFrame, cleaning_dict: dict, func_clean_dict:dict, ohe_features: list, metadata_json_path: Path
+def apply_cleaning_pipeline(
+    df: pd.DataFrame,
+    regex_clean_dict: dict,
+    func_clean_dict: dict,
+    ohe_features: list, 
+    metadata_json_path: Path
 ) -> pd.DataFrame:
-    
     """Cleans dataframe columns dynamically using regex extraction, dictionary
     mapping, custom cleaning functions, and One-Hot Encoding based on configuration settings.
     Ensures final output contains strictly numeric dtypes (no object, category, or boolean).
@@ -140,8 +107,8 @@ def clean_data(
     ohe_metadata_registry = {}
 
     for col in list(df.columns):
-        if col in cleaning_dict:
-            rule = cleaning_dict[col]
+        if col in regex_clean_dict:
+            rule = regex_clean_dict[col]
 
             if isinstance(rule, tuple):
                 pattern, dtype = rule
@@ -152,19 +119,26 @@ def clean_data(
                 df[col] = df[col].map(rule)
 
         if col in func_clean_dict:
-            clean_func = func_clean_dict[col]
-            df[col] = df[col].apply(clean_func)
+            rule = func_clean_dict[col]
+
+            if isinstance(rule, tuple):
+                clean_func, new_cols = rule
+                df[new_cols] = df[col].apply(clean_func).apply(pd.Series)
+                df = df.drop(columns=[col])
+            else:
+                df[col] = df[col].apply(rule)
 
         if col in ohe_features:
-            dummies, meta = _ohe_encoding(df, column=col, drop_first=True)
+            dummies, meta = _encode_column_ohe(df, column=col, drop_first=True)
             ohe_metadata_registry[col] = meta
 
             df = pd.concat([df.drop(columns=[col]), dummies], axis=1)
- 
+
+
     bool_cols = df.select_dtypes(include=["bool"]).columns
     if not bool_cols.empty:
         df[bool_cols] = df[bool_cols].astype(int)
- 
+
     remaining_categorical = df.select_dtypes(include=["object", "category"]).columns
     if not remaining_categorical.empty:
         df = pd.get_dummies(df, columns=remaining_categorical, drop_first=True, dtype=int)
@@ -179,7 +153,7 @@ def clean_data(
 
     return df
 
-def _ohe_encoding(
+def _encode_column_ohe(
     df: pd.DataFrame, column: str, drop_first: bool = True
 ) -> tuple[pd.DataFrame, dict]:
     """Generates one-hot encoded dummies and tracks category mappings and dropped reference level."""
@@ -198,3 +172,5 @@ def _ohe_encoding(
     }
 
     return dummies, metadata
+
+    

@@ -1,8 +1,8 @@
 """
-train_mileage.py
+train_power.py
 ----------------
 Utility module containing model training, hyperparameter optimization,
-and metric calculation routines for predicting car mileage.
+and metric calculation routines for predicting car power.
 """
 
 from typing import Any, Dict, List, Optional
@@ -12,24 +12,23 @@ from tqdm import tqdm
 from sklearn.model_selection import ParameterGrid, cross_val_score
 
 from config.settings import (
-    MILEAGE_CV_FOLDS,
-    MILEAGE_MODEL_TYPE,
-    MILEAGE_PARAM_GRID,
-    MILEAGE_RANDOM_STATE,
+    POWER_CV_FOLDS,
+    POWER_MODEL_TYPE,
+    POWER_PARAM_GRID,
+    POWER_RANDOM_STATE,
 )
 from utils.model_registry import instantiate_model
 from utils.helper import generate_learning_curve_data, compute_regression_metrics
-
 
 def train_mileage_model(
     X_train: pd.DataFrame,
     y_train: pd.Series,
     X_val: pd.DataFrame,
     y_val: pd.Series,
-    model_type: str = MILEAGE_MODEL_TYPE,
+    model_type: str = POWER_MODEL_TYPE,
     param_grid: Optional[Dict[str, List[Any]]] = None,
-    cv_folds: int = MILEAGE_CV_FOLDS,
-    random_state: int = MILEAGE_RANDOM_STATE,
+    cv_folds: int = POWER_CV_FOLDS,
+    random_state: int = POWER_RANDOM_STATE,
     metadata_json_path: Optional[str] = None,
 ) -> Dict[str, Any]:
     """
@@ -49,7 +48,7 @@ def train_mileage_model(
         ) from err
  
     if param_grid is None:
-        param_grid = MILEAGE_PARAM_GRID
+        param_grid = POWER_PARAM_GRID
 
     # Find optimum parameter using gridsearch
     grid = list(ParameterGrid(param_grid))

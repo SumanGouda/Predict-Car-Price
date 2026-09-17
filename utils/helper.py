@@ -1,6 +1,13 @@
 import sqlite3
 import pandas as pd
 from pathlib import Path
+from typing import Any, Dict, List, Optional
+import numpy as np
+import pandas as pd 
+from sklearn.metrics import mean_absolute_error, mean_squared_error, r2_score
+from sklearn.model_selection import learning_curve
+
+
 
 def handle_missing_values(df: pd.DataFrame, col: str) -> pd.DataFrame:
     """Handles missing values in a specified DataFrame column based on the percentage
@@ -143,3 +150,43 @@ def get_and_validate_features(features_file: Path, db_file: Path) -> list[str]:
         f"Validation successful: All {len(target_columns)} features exist in the database."
     )
     return target_columns
+
+
+def compute_regression_metrics(y_true: np.ndarray, y_pred: np.ndarray) -> Dict[str, float]:
+    """Calculates R2, MAE, and RMSE regression evaluation metrics."""
+    mse = mean_squared_error(y_true, y_pred)
+    return {
+        "r2_score": float(r2_score(y_true, y_pred)),
+        "mae": float(mean_absolute_error(y_true, y_pred)),
+        "rmse": float(np.sqrt(mse)),
+    }
+
+
+def generate_learning_curve_data(
+    estimator: Any,
+    X: pd.DataFrame,
+    y: pd.Series,
+    cv: int = 5,
+    train_sizes: Optional[np.ndarray] = None,
+    scoring: str = "r2",
+) -> Dict[str, Any]:
+    """Computes learning curve data across different training set batch sizes."""
+    if train_sizes is None:
+        train_sizes = np.linspace(0.1, 1.0, 5)
+
+    sizes, train_scores, val_scores = learning_curve(
+        estimator=estimator,
+        X=X,
+        y=y,
+        train_sizes=train_sizes,
+        cv=cv,
+        scoring=scoring,
+        n_jobs=-1,
+    )
+
+    return {
+        "sizes": sizes.tolist(),
+        "train_scores": np.mean(train_scores, axis=1).tolist(),
+        "val_scores": np.mean(val_scores, axis=1).tolist(),
+        "metric_name": scoring,
+    }
