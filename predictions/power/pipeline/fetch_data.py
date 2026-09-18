@@ -21,7 +21,11 @@ from config.settings import (
 from utils.cleaning import apply_cleaning_pipeline
 from utils.helper import get_and_validate_features
 
-def main(features_txt_path: str, db_path: str, output_csv_path: str) -> pd.DataFrame:
+def main(
+features_txt_path: str, 
+db_path: str, 
+output_csv_path: str
+) -> pd.DataFrame:
     """Reads target features from features.txt, extracts them from every city table
     in the SQLite database, combines everything into a single dataset, and exports to CSV.
     """
@@ -105,6 +109,7 @@ def process(
     df = apply_cleaning_pipeline(df, regex_clean_dict, func_clean_dict, ohe_features, metadata_json)
 
     df.to_csv(output_path, index=False)
+
 
 if __name__ == "__main__":
     if PROCESS_RAW_DATA:

@@ -33,6 +33,54 @@ def clean_drive_type(value: Any) -> str:
 
     return "Unknown"
 
+def clean_turbo_charger(value: Any) -> str:
+    """Standardizes turbo charger variants into canonical labels without encoding."""
+    if pd.isna(value) or str(value).strip().lower() in ["nan", "none", ""]:
+        return "Unknown"
+
+    cleaned_val = str(value).strip().upper().replace(" ", "")
+
+    no_variants = {
+        "NO",
+        "N",
+        "NA",
+        "N/A",
+        "NONE",
+        "FALSE",
+        "0",
+        "NOTAVAILABLE",
+        "NOTURBO",
+        "NATURALLYASPIRATED",
+    }
+    yes_variants = {
+        "YES",
+        "Y",
+        "TRUE",
+        "1",
+        "TURBO",
+        "TURBOCHARGED",
+        "SINGLETURBO",
+        "SINGLE",
+    }
+    twin_variants = {
+        "TWIN",
+        "TWINTURBO",
+        "DUALTURBO",
+        "DUAL",
+        "BITURBO",
+        "BI-TURBO",
+        "TWIN-TURBO",
+    }
+
+    if cleaned_val in no_variants:
+        return "No"
+    if cleaned_val in yes_variants:
+        return "Yes"
+    if cleaned_val in twin_variants:
+        return "Twin"
+
+    return "Unknown"
+
 def clean_emission_norm(value: Any, map_dict) -> int:
     """Normalizes emission norm variants and maps them to an ordinal strictness rank."""
     if pd.isna(value) or str(value).strip().lower() in ["nan", "none", ""]:
@@ -66,20 +114,28 @@ def clean_emission_norm(value: Any, map_dict) -> int:
     return map_dict[canonical]
 
 def clean_price(value: Any) -> float:
-    """Converts price strings with Lakh/Crore/Thousand suffixes into a numeric value."""
+    """Converts price strings with Lakh/Crore/Thousand suffixes into a numeric value, rounded to 1 decimal place."""
     if pd.isna(value) or str(value).strip().lower() in ["nan", "none", ""]:
         return np.nan
 
     cleaned_val = str(value).replace("₹", "").strip()
 
     if "Lakh" in cleaned_val:
-        return float(cleaned_val.replace("Lakh", "").strip()) * 100000
+        return round(float(cleaned_val.replace("Lakh", "").strip()) * 100000, 1)
     if "Crore" in cleaned_val:
-        return float(cleaned_val.replace("Crore", "").strip()) * 10000000
+        return round(float(cleaned_val.replace("Crore", "").strip()) * 10000000, 1)
     if "Thousand" in cleaned_val:
-        return float(cleaned_val.replace("Thousand", "").strip()) * 1000
+        return round(float(cleaned_val.replace("Thousand", "").strip()) * 1000, 1)
 
     return np.nan
+
+def clean_ownership(value: Any, map_dict: dict) -> int:
+    """Maps ownership label variants to an ordinal rank via map_dict."""
+    if pd.isna(value) or str(value).strip().lower() in ["nan", "none", ""]:
+        return 0
+
+    cleaned_val = str(value).strip().title()
+    return map_dict.get(cleaned_val, 0)
 
 def clean_car_name(value: Any) -> tuple[str, str]:
     """Splits a raw car name string into (brand, model) without encoding."""
@@ -96,12 +152,13 @@ def apply_cleaning_pipeline(
     df: pd.DataFrame,
     regex_clean_dict: dict,
     func_clean_dict: dict,
-    ohe_features: list, 
+    ohe_features: list,
     metadata_json_path: Path
 ) -> pd.DataFrame:
     """Cleans dataframe columns dynamically using regex extraction, dictionary
     mapping, custom cleaning functions, and One-Hot Encoding based on configuration settings.
-    Ensures final output contains strictly numeric dtypes (no object, category, or boolean).
+    Any remaining object/category columns are left untouched (e.g. for XGBoost's
+    native categorical handling) and reported at the end.
     """
     df = df.copy()
     ohe_metadata_registry = {}
@@ -134,14 +191,13 @@ def apply_cleaning_pipeline(
 
             df = pd.concat([df.drop(columns=[col]), dummies], axis=1)
 
-
     bool_cols = df.select_dtypes(include=["bool"]).columns
     if not bool_cols.empty:
         df[bool_cols] = df[bool_cols].astype(int)
 
     remaining_categorical = df.select_dtypes(include=["object", "category"]).columns
     if not remaining_categorical.empty:
-        df = pd.get_dummies(df, columns=remaining_categorical, drop_first=True, dtype=int)
+        print(f"Columns left as string/object dtype (not encoded): {list(remaining_categorical)}")
 
     if metadata_json_path and ohe_metadata_registry:
         metadata_json_path.parent.mkdir(parents=True, exist_ok=True)

@@ -22,61 +22,33 @@ from config.settings import (
 )
 
 def main(features_txt_path: str, db_path: str, output_csv_path: str) -> pd.DataFrame:
-    """Reads target features from features.txt, extracts them from all city tables
-
-    in the SQLite database, combines them into a single dataset, and exports to
-    CSV.
+    """Reads target features from features.txt, extracts them from every city table
+    in the SQLite database, combines everything into a single dataset, and exports to CSV.
     """
-    db_file         = Path(db_path)
-    output_file     = Path(output_csv_path)
-    features_file   = Path(features_txt_path)
-    
-    output_file.parent.mkdir(parents=True, exist_ok=True)
+    db_file = Path(db_path)
+    output_file = Path(output_csv_path)
+    features_file = Path(features_txt_path)
 
+    output_file.parent.mkdir(parents=True, exist_ok=True)
     target_columns = get_and_validate_features(features_file, db_file)
 
-    conn    = sqlite3.connect(db_file)
-    cursor  = conn.cursor()
- 
-    cursor.execute("SELECT name FROM sqlite_master WHERE type='table' AND name NOT LIKE 'sqlite_%';")
-    tables = [row[0] for row in cursor.fetchall()]
+    with sqlite3.connect(db_file) as conn:
+        cursor = conn.cursor()
+        cursor.execute(
+            "SELECT name FROM sqlite_master WHERE type='table' AND name NOT LIKE 'sqlite_%';"
+        )
+        tables = [row[0] for row in cursor.fetchall()]
 
-    if not tables:
-        print("No tables found in the database.")
-        conn.close()
-        return pd.DataFrame()
+        if not tables:
+            print("No tables found in the database.")
+            return pd.DataFrame()
 
-    all_data = []
- 
-    for table in tables:
-        cursor.execute(f"PRAGMA table_info('{table}');")
-
-        # Map lowercased column name -> actual database column name
-        db_cols_map = {
-            col[1].strip().lower(): col[1] for col in cursor.fetchall()
-        }
-
-        select_clauses = []
-        for col in target_columns:
-            col_lower = col.strip().lower()
-            if col_lower in db_cols_map:
-                actual_db_col = db_cols_map[col_lower]
-                # Select real database column and alias it back to target column name
-                select_clauses.append(f'"{actual_db_col}" AS "{col}"')
-            else:
-                select_clauses.append(f'NULL AS "{col}"')
-
-        query = f"SELECT {', '.join(select_clauses)} FROM \"{table}\""
-
-        try:
-            df_table = pd.read_sql_query(query, conn)
+        all_data = []
+        for table in tables:
+            df_table = _extract_table(conn, cursor, table, target_columns)
             if not df_table.empty:
                 all_data.append(df_table)
-        except Exception as e:
-            print(f"Error querying table '{table}': {e}")
 
-    conn.close()
-    
     if not all_data:
         print("No data retrieved from any table.")
         return pd.DataFrame()
@@ -93,6 +65,30 @@ def main(features_txt_path: str, db_path: str, output_csv_path: str) -> pd.DataF
 
     return combined_df
 
+
+def _extract_table(
+    conn: sqlite3.Connection, cursor: sqlite3.Cursor, table: str, target_columns: list
+) -> pd.DataFrame:
+    """Selects the target columns from a single table, aliasing missing columns to NULL."""
+    cursor.execute(f"PRAGMA table_info('{table}');")
+    db_cols_map = {col[1].strip().lower(): col[1] for col in cursor.fetchall()}
+
+    select_clauses = [
+        f'"{db_cols_map[col.strip().lower()]}" AS "{col}"'
+        if col.strip().lower() in db_cols_map
+        else f'NULL AS "{col}"'
+        for col in target_columns
+    ]
+
+    query = f"SELECT {', '.join(select_clauses)} FROM \"{table}\""
+
+    try:
+        return pd.read_sql_query(query, conn)
+    except Exception as e:
+        print(f"Error querying table '{table}': {e}")
+        return pd.DataFrame()
+
+
 def process(csv_file: str, clean_dict: dict, func_clean_dict:dict, ohe_features: list, metadata_json: str, output_path: str):
     csv_file = Path(csv_file)
     metadata_json = Path(metadata_json)
@@ -103,6 +99,7 @@ def process(csv_file: str, clean_dict: dict, func_clean_dict:dict, ohe_features:
     output_path.parent.mkdir(parents=True, exist_ok=True)
  
     df.to_csv(output_path, index=False)
+
 
 if __name__ == "__main__":
     if PROCESS_RAW_DATA:

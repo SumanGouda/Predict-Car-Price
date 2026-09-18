@@ -1,6 +1,6 @@
 from pathlib import Path
 from functools import partial
-from utils.cleaning import clean_drive_type, clean_price, clean_car_name, clean_emission_norm
+from utils.cleaning import clean_drive_type, clean_turbo_charger, clean_price, clean_car_name, clean_emission_norm, clean_ownership
 
 # ==========================================
 # System & Path Configurations
@@ -63,6 +63,9 @@ FEATURE_REGEX_PATTERNS = {
     "Kerb Weight": (r"(\d+)", float),
     "Power": (r"(\d+\.?\d*)", float),
     "Registration Year": (r"(\d{4})", float),
+    "Kms Driven": (r"([\d,]+)", float),
+    "Seats": (r"(\d+)", float),
+    "Ground Clearance Unladen": (r"(\d+\.?\d*)", float),
     "Transmission Type": {"Automatic": 1, "Manual": 0},
 }
 
@@ -80,13 +83,23 @@ EMISSION_NORM_ORDINAL_MAP = {
     "Unknown": 0,
 }
 
-OHE_FEATURES = ["Fuel"]
+OWNERSHIP_MAP = {
+    "First Owner": 1,
+    "Second Owner": 2,
+    "Third Owner": 3,
+    "Fourth Owner": 4,
+    "Fifth Owner": 5,
+}
+
+OHE_FEATURES = ["Fuel", "Transmission", "Drive Type", "Turbo Charger"]
 
 FUNC_CLEAN_DICT = {
     "Drive Type": clean_drive_type,
+    "Turbo Charger": clean_turbo_charger,
     "Price": clean_price,
     "Emission Norm Compliance": partial(clean_emission_norm, map_dict=EMISSION_NORM_ORDINAL_MAP),
     "car_name": (clean_car_name, ["brand", "model"]),
+    "Ownership": partial(clean_ownership, map_dict=OWNERSHIP_MAP),
 }
 
 # ==========================================
